@@ -18,6 +18,24 @@
     <itunes:category text="Technology"/>
     <itunes:summary>每日科技新闻速览,精选当天最重要的故事,3-5 分钟</itunes:summary>
     <item>
+      <title>又咋啦？！简报版 · 2026-05-01</title>
+      <description>1. Google 向特定客户出售 TPU 芯片,与 NVIDIA 正面竞争
+2. OpenAI 放弃自建 Stargate 数据中心,改为租用算力
+3. 超级云服务商第一季度合计资本支出达一千一百二十亿美元
+4. AI 评测成本攀升,成为新的算力瓶颈
+5. Mistral Medium 3.5 驱动 Vibe 远程编程智能体
+6. 白宫反对 Anthropic 扩大 Mythos 模型访问范围
+7. Cursor 发布 TypeScript SDK,开放编程智能体构建能力
+8. GitHub Enterprise Server 披露高危远程代码执行漏洞 CVE-2026-3854
+
+来源:TLDR AI / TLDR(2026年4月30日)</description>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-01.mp3" length="2478816" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-05-01</guid>
+      <itunes:duration>3:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！简报版 · 2026-04-30</title>
       <description>1. OpenAI终止微软独家协议，模型登陆AWS Bedrock
 2. 马斯克出庭作证，起诉OpenAI营利化重组

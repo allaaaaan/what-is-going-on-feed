@@ -18,6 +18,24 @@
     <itunes:category text="Technology"/>
     <itunes:summary>每日科技新闻完整版,涵盖 TLDR 当天的全部非广告内容</itunes:summary>
     <item>
+      <title>又咋啦？！完整版 · 2026-05-01</title>
+      <description>▌综合科技 (TLDR)
+Apple iOS 27 AI 照片编辑重构, SpaceX Elon Musk 火星薪酬方案, 猎鹰九号上面级将撞月球, Tesla Semi 高产能生产线下线, Cursor TypeScript SDK 公开测试, Stripe Link CLI 智能体支付, 超级云服务商第一季度一千一百二十亿美元资本支出, PayPal 拆分 Venmo 独立业务, 白宫反对 Anthropic Mythos 模型扩张, Apple 放弃 Vision Pro, Cloudflare 智能体全自动部署, GitHub 遭 Copilot 垃圾信息冲击, Zig 禁止 AI 生成内容, Amazon 芯片业务达二百亿美元
+
+▌人工智能 (TLDR AI)
+Google 向企业客户外售 TPU, Mistral Medium 3.5 驱动 Vibe 远程智能体, OpenAI 放弃自建 Stargate 数据中心, AI 评测成本成新算力瓶颈, AutoSP 自动化序列并行训练代码, IBM Granite 4.1 模型发布, MCP 工具链构建经验分享, Apple LaDiR 潜在扩散推理框架, Microsoft World-R1 三维一致性视频生成, DataPRM 数据分析智能体过程奖励模型, Elon Musk 庭审称投资 OpenAI 是"愚蠢之举", 推理市场碎片化分析, CVE-2026-3854 GitHub Enterprise 高危漏洞, OpenAI Codex 禁止谈论地精, CrewAI Iris 自我修改的 AI 员工, DeepMind ProEval 评测成本优化框架
+
+▌加密货币 (TLDR Crypto)
+捷克央行行长倡导 Bitcoin 纳入储备, Stable Sea 整合 WisdomTree 代币化美国国债, Franklin 开源 AI 智能体 USDC 支付框架, Machine Payments Protocol 多支付方式发现规范更新, Robinhood 与 Hyperliquid 第一季度营收对比, 三大 EVM 标准融合智能体金融基础设施, 稳定币汇款瓶颈在换汇行为非转账, 预测市场利润高度向高频交易者集中, 预测市场月成交量突破二百亿美元, Polymarket 流量超越多家主流加密平台, Bernstein 维持 Robinhood 跑赢评级, Pump.fun 销毁三点七亿美元 $PUMP 代币
+
+来源:TLDR / TLDR AI / TLDR Crypto(2026年4月30日)</description>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-05-01.mp3" length="7833024" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-05-01</guid>
+      <itunes:duration>10:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-04-30</title>
       <description>▌综合科技
 马斯克起诉OpenAI推翻营利化重组、OpenAI模型登陆AWS Bedrock、生物科技金融工程、抗生素的经济困境、长时运行智能代理、GitHub Actions供应链安全隐患、AI真正在吃掉人类工作、ChatGPT广告投放机制、GitHub诞生前的开源世界、Ghostty离开GitHub、Warp开源、AI偏爱严格API、神经可塑性新发现
