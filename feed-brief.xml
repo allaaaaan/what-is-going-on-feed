@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>又咋啦？！简报版</title>
+    <link>https://allaaaaan.github.io/what-is-going-on-feed/</link>
+    <atom:link href="https://allaaaaan.github.io/what-is-going-on-feed/feed-brief.xml" rel="self" type="application/rss+xml"/>
+    <description>每日科技新闻速览,精选 TLDR 当天最重要的 8 条故事,中文播报,3-5 分钟。</description>
+    <language>zh-CN</language>
+    <itunes:author>Allan</itunes:author>
+    <itunes:owner>
+      <itunes:name>Allan</itunes:name>
+      <itunes:email>Allan@wateroutlook.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="News"/>
+    <itunes:category text="Technology"/>
+    <itunes:summary>每日科技新闻速览,精选当天最重要的故事,3-5 分钟</itunes:summary>
+    <item>
+      <title>又咋啦？！简报版 · 2026-04-30</title>
+      <description>本期 8 条精选要闻:
+
+1. OpenAI 打破微软 Azure 独家协议,模型即将登陆 AWS Bedrock
+2. 马斯克出庭作证反对 OpenAI 营利化转型
+3. 美国司法部宣布"代码无罪",撤销 Tornado Cash 案件相关执法立场
+4. OpenAI 第四季度 IPO 可能搁浅
+5. Claude Opus 4.7 新分词器实际成本上涨 12-27%
+6. 英伟达发布 Nemotron 3 Nano Omni 多模态模型
+7. TLDR Founders 称 2026 为"客户流失之年"
+8. GitHub Actions 被指为供应链安全最薄弱环节
+
+来源: TLDR、TLDR AI、TLDR Founders、TLDR Crypto (2026-04-29 当期内容)</description>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-04-30.mp3" length="1154304" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-04-30</guid>
+      <itunes:duration>3:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

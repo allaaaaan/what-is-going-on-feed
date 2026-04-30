@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>又咋啦？！完整版</title>
+    <link>https://allaaaaan.github.io/what-is-going-on-feed/</link>
+    <atom:link href="https://allaaaaan.github.io/what-is-going-on-feed/feed-full.xml" rel="self" type="application/rss+xml"/>
+    <description>每日科技新闻完整版,涵盖 TLDR 当天的所有非广告内容,中文播报,约 12-15 分钟。</description>
+    <language>zh-CN</language>
+    <itunes:author>Allan</itunes:author>
+    <itunes:owner>
+      <itunes:name>Allan</itunes:name>
+      <itunes:email>Allan@wateroutlook.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="News"/>
+    <itunes:category text="Technology"/>
+    <itunes:summary>每日科技新闻完整版,涵盖 TLDR 当天的全部非广告内容</itunes:summary>
+    <item>
+      <title>又咋啦？！完整版 · 2026-04-30</title>
+      <description>本期完整版涵盖 TLDR 当天 4 份新闻通讯里所有值得关注的故事,按来源分组:
+
+▌综合科技 (TLDR)
+马斯克起诉 OpenAI / OpenAI 上线 AWS Bedrock / 生物科技金融工程 / 抗生素经济困境 / 长时运行智能体 / GitHub Actions 安全短板 / 软件真的要吞噬世界 / ChatGPT 广告机制 / GitHub 之前的开源 / Ghostty 离开 GitHub / OpenAI 资助 Warp / AI 偏爱严格 API / 神经可塑性新发现 / 预测市场的本质
+
+▌人工智能 (TLDR AI)
+Altman &amp; Garman 谈 Bedrock / Claude 创意工具连接器 / 智能体取代搜索? / Opus 4.7 分词器成本 / OpenAI IPO 搁浅传闻 / Nemotron 3 Nano Omni / Poolside Laguna 模型 / Recurrent Transformer / 华尔街 AI 担忧 / Meta Muse Spark / Parallel Web Systems 融资 / ElevenLabs Agent Templates / 谷歌向 DoD 开放 AI / Meta Sapiens2 视觉模型
+
+▌创业洞察 (TLDR Founders)
+2026 客户流失之年 / 智能体重塑软件经济 / 工程经理的 token 规则 / 创始人写博客指南 / Founder Marketing Skills / Reasons Blocks / Surething.io / AI 市场新框架 / 方向比速度重要 / 发布不等于解决 / 别再问数据 / 公共市场未定价 AI / AI 供应商锁定
+
+▌加密货币 (TLDR Crypto)
+战略比特币储备 / DOJ 代码无罪 / Aave 恢复 rsETH 计划 / 日本 bitbank 加密信用卡 / 链上信贷指南 / 加密研究业衰落 / 稳定币飞轮经济 / Block Q1 储备 / Multiliquid Carry / Circle 买入 AAVE / 机构离开池化 DeFi
+
+来源: 2026-04-29 当期 TLDR 全部 4 份通讯</description>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-04-30.mp3" length="3586896" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-04-30</guid>
+      <itunes:duration>9:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
