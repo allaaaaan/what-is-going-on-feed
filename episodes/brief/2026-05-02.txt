@@ -1,0 +1,10 @@
+1. Anthropic 接近完成九千亿美元估值融资轮
+2. xAI 以六百亿美元收购 Cursor
+3. Claude Security 公测版正式上线
+4. Linux 高危漏洞 Copy Fail 影响2017年来所有主流发行版
+5. xAI 发布 Grok 4.3 模型
+6. Visa 将稳定币结算扩展至九条区块链
+7. Meta 推出面向创作者的 USDC 稳定币收益功能
+8. Stripe 为 AI 代理推出 Link 委托支付功能
+
+来源: TLDR AI、TLDR、TLDR Crypto — 2026年5月1日

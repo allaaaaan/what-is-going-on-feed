@@ -18,6 +18,24 @@
     <itunes:category text="Technology"/>
     <itunes:summary>每日科技新闻速览,精选当天最重要的故事,3-5 分钟</itunes:summary>
     <item>
+      <title>又咋啦？！简报版 · 2026-05-02</title>
+      <description>1. Anthropic 接近完成九千亿美元估值融资轮
+2. xAI 以六百亿美元收购 Cursor
+3. Claude Security 公测版正式上线
+4. Linux 高危漏洞 Copy Fail 影响2017年来所有主流发行版
+5. xAI 发布 Grok 4.3 模型
+6. Visa 将稳定币结算扩展至九条区块链
+7. Meta 推出面向创作者的 USDC 稳定币收益功能
+8. Stripe 为 AI 代理推出 Link 委托支付功能
+
+来源: TLDR AI、TLDR、TLDR Crypto — 2026年5月1日</description>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-02.mp3" length="2441376" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-05-02</guid>
+      <itunes:duration>3:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！简报版 · 2026-05-01</title>
       <description>1. Google 向特定客户出售 TPU 芯片,与 NVIDIA 正面竞争
 2. OpenAI 放弃自建 Stargate 数据中心,改为租用算力
