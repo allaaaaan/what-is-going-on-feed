@@ -1,0 +1,10 @@
+1. Anthropic 接近九千亿美元估值融资
+2. Cursor 以六百亿美元出售给 xAI
+3. Claude Security 进入公开测试阶段
+4. xAI 发布 Grok 4.3
+5. Linux 内核高危提权漏洞 Copy Fail
+6. Zuckerberg 内部会议泄露：广告下滑归咎美伊战争
+7. 朝鲜黑客占2026年加密货币损失的百分之七十六
+8. AI 需求推动三星季度净利润突破三百亿美元
+
+来源：TLDR、TLDR AI、TLDR Crypto（2026-05-01）

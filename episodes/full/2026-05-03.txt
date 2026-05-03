@@ -1,0 +1,13 @@
+▌综合科技（TLDR）
+Zuckerberg 内部会议泄露、Netflix 竖屏 Feed 上线、1X 人形机器人工厂开业、Biohub 投五亿美元做 AI 生物模拟、Copy Fail Linux 提权漏洞、Mozilla 反对 Chrome Prompt API、硅谷永久底层阶级担忧、Xbox Mode 推向所有 Windows 11 PC、Musk 证词承认 xAI 蒸馏了 OpenAI 模型、WordPress 衰落分析、Sequoia Ascent 2026 纪要、趋近零 bug 指标、重新想象 GitHub、SIMD 超越二分搜索
+
+▌人工智能（TLDR AI）
+Grok 4.3 发布、Anthropic 接近九千亿美元估值、Claude Security 公测上线、Cursor 六百亿卖给 xAI、KV 缓存局部性与推理成本、GPT 模型"地精"行为溯源、前沿模型在空间生物学上只快不准、Qwen-Scope 可解释性工具包、AWS Neuron 开源 Agent 开发能力、GLM-5V-Turbo 多模态推理、Shepherd Model Gateway 架构、三星 AI 内存芯片超级周期、Perplexity 企业工作流扩展、Silico 模型透明构建平台、Cursor Agent Harness 持续迭代、skill.md 运行时解析、Speculative Decoding 加速 RL 训练
+
+▌创业洞察（TLDR Founders + TLDR Product Management）
+凡勃仑服务崛起、AI 推理经济与 token 成本管理、GPT-5.5 截图驱动应用开发、"Ask AI"落地页转化技巧、X 广告平台二十年最大重建、Stripe Link CLI 代理支付、Meta 广告 CLI 工具发布、真正的 VC 信念投资解析、pre-seed 与 seed 风险逻辑差异、展会销售技巧、AI 原生创业公司七大属性、泡沫周期规律、专注真实好奇心创作；多 PM 协作问题、AI 时代优先级成为核心 PM 技能、组织知识显性化与 AI 黑箱问题、战略失败在需求录入阶段、五个 AI 落地习惯、AI ROI 四层衡量框架、系统漂移感知、产品营销公司化能力、分发是 AI 时代护城河、AI 是环境而非产品
+
+▌加密货币（TLDR Crypto）
+Visa 稳定币结算扩至九条链、朝鲜黑客占年度加密损失七成六、Meta 创作者 USDC 打款上线、Stripe Link 钱包 AI Agent 支付委托、加密 PMF 三大路径、预测市场实效分析、OKX 发布 Agent Payments Protocol 标准、稳定币授权层 vs 结算层分析、PayPal 设立加密货币独立业务板块、Altitude DeFi 借贷聚合器、Circle 十一链免 Gas 微支付、Polymarket 引入链上分析打击内幕交易
+
+来源：TLDR、TLDR AI、TLDR Founders、TLDR Crypto、TLDR Product Management（2026-05-01）
