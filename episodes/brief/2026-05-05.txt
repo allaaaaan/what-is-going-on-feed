@@ -1,0 +1,10 @@
+1. Anthropic 红队测试 Jupiter-V1-P 新模型,Code with Claude 开发者大会前夕
+2. DeepSeek V4 预览版:一点六万亿参数开源权重模型,推理成本极低
+3. Meta 收购人形机器人初创公司 Assured Robot Intelligence
+4. CLARITY 法案稳定币收益条款妥协达成,Coinbase 表态支持
+5. 微软宣告按座位 SaaS 定价模式走向终结
+6. Coinbase 与 Superstate 联合推出稳定币收益基金 CUSHY
+7. 以太坊 Glamsterdam 升级将 Gas 上限提升至两亿,执行容量增三倍
+8. OpenAI 备战 IPO,Sarah Friar 面临赶在 Anthropic 之前上市的竞争压力
+
+来源:TLDR、TLDR AI、TLDR Founders、TLDR Crypto(2026-05-04)
