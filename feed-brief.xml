@@ -17,6 +17,12 @@
     <itunes:category text="News"/>
     <itunes:category text="Technology"/>
     <itunes:summary>每日科技新闻速览,精选当天最重要的故事,3-5 分钟</itunes:summary>
+    <image>
+      <url>https://allaaaaan.github.io/what-is-going-on-feed/cover.png</url>
+      <title>又咋啦？！简报版</title>
+      <link>https://allaaaaan.github.io/what-is-going-on-feed/</link>
+    </image>
+    <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
     <item>
       <title>又咋啦？！简报版 · 2026-05-03</title>
       <description>1. Anthropic 接近九千亿美元估值融资
@@ -33,6 +39,7 @@
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-03.mp3" length="2702880" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-2026-05-03</guid>
       <itunes:duration>3:45</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -51,6 +58,7 @@
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-02.mp3" length="2441376" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-2026-05-02</guid>
       <itunes:duration>3:23</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -69,6 +77,7 @@
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-01.mp3" length="2478816" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-2026-05-01</guid>
       <itunes:duration>3:26</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -87,6 +96,7 @@
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-04-30.mp3" length="2490912" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-2026-04-30</guid>
       <itunes:duration>3:27</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
