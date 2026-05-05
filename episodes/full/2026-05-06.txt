@@ -1,0 +1,13 @@
+▌综合科技
+Musk 起诉 OpenAI 案进入第二周 Brockman 出庭，Amazon 开放第三方物流服务，SpaceX 建太阳能电池厂，Familiar 情感机器人亮相，Stripe rubyfmt 格式化四千两百万行代码，AI 辅助开发 Redis Array 类型，GameStop 出价五百六十亿美元收购 eBay，AI 的生物医学"模糊 API"难题，智能体系统通用思维模型，iOS 27 自定义 Wallet 通行证，Panthalassa 一点四亿美元海浪驱动 AI 数据中心，Meta 收购 Assured Robot Intelligence，SpaceX Starship 累计投入超一百五十亿美元，ByteDance Anew Labs AI 药物研发，美国电力缺口扩大，AI 智能体 Skills 约束机制，Open Design 开源替代 Claude Design，多智能体规划与市场协调，OpenAI IPO 备战，提示工程长期价值，Gemini 全面 UI 重设计
+
+▌人工智能
+YC 持有 OpenAI 百分之零点六股份价值逾五十亿，Anthropic 与 OpenAI 各自成立企业 AI 合资公司，Orbit 主动式助手内嵌 Claude，GPT-5.5 实际涨价百分之四十九至九十二，OpenAI 低延迟语音 WebRTC 架构，AI 研发自动化六十\%概率2028年自我改进，Gemini API 支持事件驱动 Webhook，Meta Tuna-2 多模态模型，Vercel DeepSec 智能体安全扫描，消费级 AI ARPU 瓶颈，模型权重与工具 Harness 深度绑定，AI 对书面语言的细微扭曲，白宫讨论 AI 模型发布前审查，Anthropic Jupiter-V1-P 红队测试，Google Omni 视频生成模型，OpenAI Codex 动态宠物与配置导入，DeepSeek V4 一点六万亿参数最大开放权重，编程计划定价比较，Perplexity Agent Skills 设计原则，AutoRound 十分钟量化七十亿参数模型，合成计算机环境智能体训练，Edit-R1 链式推理图像编辑奖励，Replit 三百\%NRR 正毛利，LLM 推理预填充与解码分阶段，模式坍塌普遍现象，顶级 AI 公司签署五角大楼涉密合同，Anthropic 十五亿美元华尔街合资
+
+▌创业洞察
+按席位 SaaS 定价走向终结，AI 优先到纯 AI 执行模式，Miura-Ko 六级 AI 采用框架，AI 搜索改变 B2B 采购路径，定位比内容更稀缺，Linear Releases CI/CD 集成，Notion 智能体读取私有 Slack 频道，模型已就绪企业需构建运营层，一个周末可交付 AI 产品，产品核心是做减法，超级应用在西方持续失败，产品线营销统一叙事，AI 应用缺乏客服驱动隐性流失，情感流失识别与应对，智能体化产品管理中人的优势，ServiceNow 和 Atlassian 靠数据图谱胜出，三个超越工具熟练度的关键习惯，Anthropic 联合 PE 成立企业 AI 服务公司
+
+▌加密货币
+Tether Q1 净利十点四亿创储备新高，KelpDAO 黑客资金回收遭 DPRK 受害者法院令阻挠，Ethereum 质押奖励曲线阻尼化提案，Glamsterdam 升级锁定两亿 gas 上限，LATAM 稳定币汇款市场实地调研纠偏，Stripe 组建完整稳定币支付栈，巴西央行禁止稳定币在 eFX 通道作后端结算，链上经济十亿人愿景，Telegram 小程序被滥用实施加密诈骗，Binance CEO 框定加密 TAM，Visa 纳入 Polygon 全球结算，四月加密 VC 投资创两年新低，BlackRock 反对 GENIUS Act 代币化储备上限，CLARITY Act 稳定币收益两党妥协，Glamsterdam 使 gas 上限翻三倍，Coinbase 推出 CUSHY 代币化收益基金，银行赢得收益禁令但 DeFi 轨道不受影响，稳定币2025年四十六万亿交易量四协议争夺 AI 支付轨道，DeFi 需使用量保险层应对 AI 降低漏洞成本，MegaETH Kumbaya DEX 隐藏一\%费率，MoonPay AI 智能体稳定币借记卡，AI 智能体首次在美合法注册公司，EVM 链上无法核实链下现实的气隙问题，MEGA 代币从峰值暴跌五十五\%
+
+来源：英文科技新闻通讯（2026-05-04 至 2026-05-05）
