@@ -6,17 +6,23 @@
     <title>又咋啦？！简报版</title>
     <link>https://allaaaaan.github.io/what-is-going-on-feed/</link>
     <atom:link href="https://allaaaaan.github.io/what-is-going-on-feed/feed-brief.xml" rel="self" type="application/rss+xml"/>
-    <description>每日科技新闻速览,精选 TLDR 当天最重要的 8 条故事,中文播报,3-5 分钟。</description>
+    <description>每日科技新闻速览,精选当天最重要的 8 条故事,中文播报,3-5 分钟。</description>
     <language>zh-CN</language>
     <itunes:author>Allan</itunes:author>
     <itunes:owner>
       <itunes:name>Allan</itunes:name>
-      <itunes:email>Allan@wateroutlook.com</itunes:email>
+      <itunes:email>allan.lianglv@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
     <itunes:category text="Technology"/>
     <itunes:summary>每日科技新闻速览,精选当天最重要的故事,3-5 分钟</itunes:summary>
+    <image>
+      <url>https://allaaaaan.github.io/what-is-going-on-feed/cover.png</url>
+      <title>又咋啦？！简报版</title>
+      <link>https://allaaaaan.github.io/what-is-going-on-feed/</link>
+    </image>
+    <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
     <item>
       <title>又咋啦？！简报版 · 2026-05-05</title>
       <description>1. Anthropic 红队测试 Jupiter-V1-P 新模型,Code with Claude 开发者大会前夕
@@ -26,13 +32,12 @@
 5. 微软宣告按座位 SaaS 定价模式走向终结
 6. Coinbase 与 Superstate 联合推出稳定币收益基金 CUSHY
 7. 以太坊 Glamsterdam 升级将 Gas 上限提升至两亿,执行容量增三倍
-8. OpenAI 备战 IPO,Sarah Friar 面临赶在 Anthropic 之前上市的竞争压力
-
-来源:TLDR、TLDR AI、TLDR Founders、TLDR Crypto(2026-05-04)</description>
+8. OpenAI 备战 IPO,Sarah Friar 面临赶在 Anthropic 之前上市的竞争压力</description>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-05.mp3" length="3536352" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-2026-05-05</guid>
       <itunes:duration>4:54</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -44,13 +49,12 @@
 5. Linux 内核高危提权漏洞 Copy Fail
 6. Zuckerberg 内部会议泄露：广告下滑归咎美伊战争
 7. 朝鲜黑客占2026年加密货币损失的百分之七十六
-8. AI 需求推动三星季度净利润突破三百亿美元
-
-来源：TLDR、TLDR AI、TLDR Crypto（2026-05-01）</description>
+8. AI 需求推动三星季度净利润突破三百亿美元</description>
       <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-03.mp3" length="2702880" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-2026-05-03</guid>
       <itunes:duration>3:45</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -62,13 +66,12 @@
 5. xAI 发布 Grok 4.3 模型
 6. Visa 将稳定币结算扩展至九条区块链
 7. Meta 推出面向创作者的 USDC 稳定币收益功能
-8. Stripe 为 AI 代理推出 Link 委托支付功能
-
-来源: TLDR AI、TLDR、TLDR Crypto — 2026年5月1日</description>
+8. Stripe 为 AI 代理推出 Link 委托支付功能</description>
       <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-02.mp3" length="2441376" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-2026-05-02</guid>
       <itunes:duration>3:23</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -80,13 +83,12 @@
 5. Mistral Medium 3.5 驱动 Vibe 远程编程智能体
 6. 白宫反对 Anthropic 扩大 Mythos 模型访问范围
 7. Cursor 发布 TypeScript SDK,开放编程智能体构建能力
-8. GitHub Enterprise Server 披露高危远程代码执行漏洞 CVE-2026-3854
-
-来源:TLDR AI / TLDR(2026年4月30日)</description>
+8. GitHub Enterprise Server 披露高危远程代码执行漏洞 CVE-2026-3854</description>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-01.mp3" length="2478816" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-2026-05-01</guid>
       <itunes:duration>3:26</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -98,13 +100,12 @@
 5. Anthropic推出Claude与Adobe、Blender、Autodesk的创意工具连接器
 6. Claude Opus 4.7新分词器致实际使用成本上涨12%至27%
 7. GitHub Actions被指供应链安全最薄弱环节
-8. 2026年成为SaaS大流失之年，AI正重写续约逻辑
-
-来源：TLDR、TLDR AI、TLDR Founders、TLDR Crypto（2026-04-29）</description>
+8. 2026年成为SaaS大流失之年，AI正重写续约逻辑</description>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-04-30.mp3" length="2490912" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-2026-04-30</guid>
       <itunes:duration>3:27</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

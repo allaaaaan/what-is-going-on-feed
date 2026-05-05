@@ -1,13 +1,11 @@
-▌ 综合科技 (TLDR)
+▌ 综合科技
 Meta 收购 Assured Robot Intelligence、SpaceX 星舰耗资逾 150 亿美元、ByteDance Anew Labs AI 制药、美国电力缺口、Agent Skills 编程纪律、Open Design 开源替代、多代理协调困境、OpenAI IPO 备战
 
-▌ 人工智能 (TLDR AI)
+▌ 人工智能
 Anthropic 红队测试 Jupiter-V1-P、Google Omni 视频生成模型、OpenAI Codex 动态宠物与配置导入、DeepSeek V4-Pro/Flash 预览版、编程计划价格对比、LLM 架构溯源、Perplexity 代理技能设计、AutoRound 量化工具包、虚拟环境代理训练、Edit-R1 图像编辑奖励模型、Replit 接近十亿美元年化收入、LLM 推理流程解析、模式坍缩现象、Hugging Face 开源 vs 闭源之辩、AI 公司国防部涉密合同、Anthropic 十五亿美元华尔街合资协议
 
-▌ 创业洞察 (TLDR Founders)
+▌ 创业洞察
 按座位 SaaS 定价走向终结、AI-Only 时代到来、AI 采用六级框架、创始人采访策略、AI 搜索与 LLM SEO、镜头溢价定位理论、Linear Releases 功能、Notion 代理私有 Slack 接入、AI 采用的运营层缺口、AI 工具已足够好且便宜
 
-▌ 加密货币 (TLDR Crypto)
+▌ 加密货币
 贝莱德反对 GENIUS 法案代币化储备上限、CLARITY 法案稳定币收益妥协、以太坊 Glamsterdam Gas 上限三倍扩容、Coinbase CUSHY 稳定币收益基金、银行赢得收益战但将输掉战争、稳定币四十六万亿美元交易额与代理支付赛道、DeFi 安全白帽黑客经济提案、MegaETH Kumbaya DEX 隐形手续费、MoonPay AI 代理稳定币借记卡、ClawBank AI 代理美国法人注册、MEGA 代币 TGE 首日下跌 55%
-
-来源:TLDR、TLDR AI、TLDR Founders、TLDR Crypto(2026-05-04)

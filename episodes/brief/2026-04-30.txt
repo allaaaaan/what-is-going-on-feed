@@ -6,5 +6,3 @@
 6. Claude Opus 4.7新分词器致实际使用成本上涨12%至27%
 7. GitHub Actions被指供应链安全最薄弱环节
 8. 2026年成为SaaS大流失之年，AI正重写续约逻辑
-
-来源：TLDR、TLDR AI、TLDR Founders、TLDR Crypto（2026-04-29）

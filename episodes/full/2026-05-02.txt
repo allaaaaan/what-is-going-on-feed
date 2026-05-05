@@ -1,13 +1,11 @@
-▌ 综合科技 (TLDR)
+▌ 综合科技
 Zuckerberg 全公司大会Q&A、Netflix Clips 竖屏上线、1X 人形机器人工厂开幕、Biohub 五亿美元 AI 生物研究、Copy Fail Linux 提权漏洞、Chrome Prompt API 引争议、AI 就业替代永久底层阶级隐忧、Xbox Mode 全面推广、Musk 作证 xAI 蒸馏 OpenAI 模型、WordPress 衰退、Bug 年龄追踪方法论、Git 重新设计想象、SIMD Quad 搜索算法
 
-▌ 人工智能 (TLDR AI)
+▌ 人工智能
 Anthropic 九千亿估值融资、xAI 六百亿收购 Cursor、Claude Security 公测、Grok 4.3 发布、KV 缓存局部性成本优化、GPT 妖精风格溯源、空间生物学模型性能分析、Qwen-Scope 可解释性工具包、AWS Neuron Agentic Development、GLM-5V-Turbo 多模态模型、Shepherd Model Gateway、三星内存芯片利润创历史新高、Perplexity 企业工作流扩展、Silico 模型构建平台、Cursor 代理框架迭代方法、skill.md 运行机制深解、投机解码加速 RL 训练
 
-▌ 创业洞察 (TLDR Founders + TLDR Product Management)
+▌ 创业洞察
 Veblen 服务定价规律、token 使用成本管理、AI 视觉驱动应用开发、Ask AI 销售按钮技巧、X 广告平台二十年最大重建、Stripe Link CLI、Meta Ads CLI、VC 真实信念与模式匹配、天使前轮与种子轮差异、展会微瞬间把握技巧、AI 原生创业七大属性、泡沫的周期性幻想、多 PM 协调与所有权划分、AI 时代产品优先级挑战、正确内部知识显式化、战略失效于需求收集阶段、AI 领导力五大高信号习惯、AI 投资回报四层测量框架、系统隐性偏移、产品营销公司化能力、分发是 AI 时代护城河、AI 作为环境而非产品
 
-▌ 加密货币 (TLDR Crypto)
+▌ 加密货币
 Visa 稳定币结算扩至九链、北朝鲜黑客占2026年加密攻击损失七成六、Meta USDC 创作者收益功能、Stripe Link 代理委托支付、加密产品市场匹配三种新路径、预测市场实际价值局限、OKX Agent Payments Protocol 开放标准、稳定币授权层与结算层的区分、PayPal 设立加密一级业务部门、Altitude DeFi 借贷聚合器、Circle 免 Gas 纳米支付上线十一条链、Polymarket 引入链上反内幕交易监控
-
-来源: TLDR、TLDR AI、TLDR Founders、TLDR Crypto、TLDR Product Management — 2026年5月1日

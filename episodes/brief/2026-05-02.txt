@@ -6,5 +6,3 @@
 6. Visa 将稳定币结算扩展至九条区块链
 7. Meta 推出面向创作者的 USDC 稳定币收益功能
 8. Stripe 为 AI 代理推出 Link 委托支付功能
-
-来源: TLDR AI、TLDR、TLDR Crypto — 2026年5月1日
