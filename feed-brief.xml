@@ -24,6 +24,25 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
     <item>
+      <title>又咋啦？！简报版 · 2026-05-07</title>
+      <description>1. Anthropic承诺未来五年在Google Cloud花费两千亿美元
+2. Apple开放iOS 27第三方AI模型选择
+3. OpenAI发布GPT-5.5 Instant成ChatGPT新默认模型
+4. Subquadratic推出一千两百万token上下文窗口模型
+5. OpenAI加速推进2027年AI手机量产
+6. Coinbase裁员百分之十四约六百六十人
+7. DTCC联合BlackRock和Circle启动代币化证券试点
+8. 2026年4月加密黑客史上最惨:逾六亿五千万美元被盗
+
+来源：英文科技新闻通讯（2026-05-06）</description>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-07.mp3" length="2572416" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-05-07</guid>
+      <itunes:duration>3:34</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！简报版 · 2026-05-06</title>
       <description>1. Anthropic 和 OpenAI 同日成立企业 AI 合资公司
 2. Anthropic 测试 Jupiter-V1-P 新模型,Code with Claude 大会今日旧金山举行
