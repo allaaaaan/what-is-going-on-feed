@@ -24,6 +24,25 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-05-08</title>
+      <description>▌综合科技
+Anthropic与SpaceX算力协议、Claude限额提升，谷歌AI搜索加入社区观点模块，SpaceX转型Starship逐步淘汰Falcon 9，中国人形机器人大规模落地，Redis原生数组数据类型，Anthropic年化营收破三百亿美元，开放权重许可收紧趋势
+
+▌人工智能
+Claude Managed Agents梦境/结果/多智能体编排，DeepSeek五百亿美元估值政府融资，OpenAI Codex超越Claude Code，AI智能体记忆系统深度解析，NVIDIA Spectrum-X MRC技术，TokenSpeed推理引擎，vLLM V1精度修复，ProgramBench新基准，谷歌PE一揽子Gemini授权，世界模型进展，Moonshot Kimi两百亿美元估值，Harvey法律智能体基准LAB
+
+▌加密货币
+比特币八万二千美元三个月新高，MoonPay一亿美元收购DFlow，Anchorage智能体银行，pay.sh稳定币API支付平台，a16z加密五期二十二亿美元，3Jane V2金融科技信贷通道，LayerZero rsETH漏洞事件，agentic.market验证服务筛选，Bitcoin Core CVE-2024-52911漏洞
+
+来源：英文科技新闻通讯（2026-05-07）</description>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-05-08.mp3" length="5365440" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-05-08</guid>
+      <itunes:duration>7:27</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-05-07</title>
       <description>▌综合科技
 Apple iOS 27开放第三方AI、OpenAI 2027年AI手机、Blue Origin月球着陆器测试完成、生物计算伦理争议、Claude Code与产品品质、AI协作复利方法、Coinbase裁员十四％、认知降服、GPT-5.5 Instant新默认、Subquadratic千倍效率声索
