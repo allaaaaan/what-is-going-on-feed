@@ -24,6 +24,25 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
     <item>
+      <title>又咋啦？！简报版 · 2026-05-09</title>
+      <description>1. Cloudflare 裁员一千一百人,转型 AI Agent 运营模式
+2. OpenAI 推出三款实时音频模型:GPT-Realtime-2、GPT-Realtime-Translate、GPT-Realtime-Whisper
+3. Kraken 母公司以六亿美元收购香港稳定币支付公司 Reap
+4. SEC 对加密行业态度转变,Nasdaq 获批试点代币化股票交易
+5. Coinbase 公布2026年一季度净亏损三亿九千四百万美元
+6. Meta 准备推出消费级 AI Agent Hatch,深度整合 Instagram 和 Facebook
+7. Apple 内置摄像头 AirPods 进入后期测试
+8. 比特币超越黄金成为投资者首选抗贬值避险资产
+
+来源：英文科技新闻通讯（2026-05-08）</description>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-09.mp3" length="2507904" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-05-09</guid>
+      <itunes:duration>3:28</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！简报版 · 2026-05-08</title>
       <description>1. Anthropic与SpaceX签署算力协议，Claude使用限额大幅提升
 2. Claude托管智能体上线梦境自优化、结果纠错及多智能体编排功能

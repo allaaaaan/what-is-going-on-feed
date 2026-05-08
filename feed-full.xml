@@ -24,6 +24,28 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-05-09</title>
+      <description>▌综合科技
+Apple 带摄像头 AirPods 后期测试、Google Fitbit Air 健康追踪器、中国生物科技快速追赶、Three Mile Island 核电站 AI 复活、Mozilla Firefox AI 安全加固、OpenAI 实时音频模型发布、Cloudflare 裁员一千一百人、Musk 曾欲将 OpenAI 创始团队并入 Tesla、AI 流量压垮 GitHub、Codex 进驻 Chrome 浏览器、AI Agent 代码审查困境、WordPress.org 架构改造
+
+▌人工智能
+Codex Chrome 并行运行、OpenAI GPT-Realtime 三模型、Meta Hatch 消费级 AI Agent、GitHub Agentic Workflows Token 优化、Codex /goal 持久化功能、RL 数据质量控制新标准、AlphaEvolve 扩展至自然科学、Prime-RL 强化学习案例、DS4.C 本地 DeepSeek 推理引擎、Meta IKBO 推荐系统优化、Anthropic 自然语言自编码器 NLA、中国 AI 实验室内部观察、AI 智能商品化趋势分析、Google DeepMind 与 EVE Online 合作、ChatGPT 可信联系人安全功能、Perplexity Personal Computer for Mac
+
+▌创业洞察
+AI 采用成熟度分级、AI 就业冲击历史数据反驳、AI 两条增长曲线、价值定价而非成本定价、第一天数据埋点的重要性、AI 原生 GTM 进化策略、Google AI 广告竞价优化、Flue TypeScript Agent 框架、VC 融资残酷数据与心理素质、a16z 垂直 AI 市场结构论、B2B AI 用户活跃度指标、欧洲产品工作七大难题、AI 锁定的架构应对策略、工程组织质量决定 AI 工具效能、变现策略持续演进、两千美元预算产品验证、AI 时代设计师工作方式
+
+▌加密货币
+SEC 态度转变与代币化建设、Kraken 六亿美元收购 Reap、Amazon Bedrock AgentCore Payments 整合 Coinbase、Virtuals Protocol ACF 资本形成机制、Tether-Circle 双寡头阻碍稳定币多样化、百慕大 USDC 空投扩大、加密行业 NYC 用工困境、比特币超越黄金成抗贬值首选、NFT 身份基础设施新机遇、Solv Protocol 从 LayerZero 迁移至 Chainlink、Coinbase 一季度亏损三亿九千四百万美元
+
+来源：英文科技新闻通讯（2026-05-08）</description>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-05-09.mp3" length="9470592" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-05-09</guid>
+      <itunes:duration>13:09</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-05-08</title>
       <description>▌综合科技
 Anthropic与SpaceX算力协议、Claude限额提升，谷歌AI搜索加入社区观点模块，SpaceX转型Starship逐步淘汰Falcon 9，中国人形机器人大规模落地，Redis原生数组数据类型，Anthropic年化营收破三百亿美元，开放权重许可收紧趋势
