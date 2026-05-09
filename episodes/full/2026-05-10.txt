@@ -1,0 +1,13 @@
+▌AI / 大模型
+AI 打破漏洞披露两套文化、ChatGPT 5.5 Pro 生成可发表数学证明、OpenAI 实时 API 的 WebRTC 架构问题、Anthropic 发布"Teaching Claude Why"AI 对齐研究、LLM 无法可靠编写复杂分布式系统的 TLA+ 形式规范
+
+▌隐私 / 监管
+Meta 撤销 Instagram 私信端到端加密、欧盟推动限制 VPN 以强化年龄验证、Google reCAPTCHA 在去谷歌化 Android 设备上失效
+
+▌安全
+Linux io_uring ZCRX 本地提权漏洞（影响大多数现代 Linux 发行版）
+
+▌云计算 / 基础设施
+AWS 北弗吉尼亚 US-East-1 数据中心大规模故障并恢复
+
+来源：英文科技新闻通讯及社区讨论（2026-05-09）
