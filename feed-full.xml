@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:atom="http://www.w3.org/2005/Atom">
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title>又咋啦？！完整版</title>
     <link>https://allaaaaan.github.io/what-is-going-on-feed/</link>
@@ -203,6 +204,7 @@ Sam Altman与Matt Garman对谈Bedrock Managed Agents、Claude创意工具连接�
       <guid isPermaLink="false">full-2026-04-30</guid>
       <itunes:duration>12:45</itunes:duration>
       <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-04-30.transcript.txt" type="text/plain" language="zh-CN"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
