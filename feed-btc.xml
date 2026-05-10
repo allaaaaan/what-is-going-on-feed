@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>又咋啦?! BTC 简报</title>
+    <link>https://allaaaaan.github.io/what-is-going-on-feed/</link>
+    <atom:link href="https://allaaaaan.github.io/what-is-going-on-feed/feed-btc.xml" rel="self" type="application/rss+xml"/>
+    <description>每日 BTC 市场简报，从 swing trader 视角解读价格、流动性、ETF 资金流与重要新闻。中文播报，长度随当日内容变化。</description>
+    <language>zh-CN</language>
+    <itunes:author>Allan</itunes:author>
+    <itunes:owner>
+      <itunes:name>Allan</itunes:name>
+      <itunes:email>allan.lianglv@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="News"/>
+    <itunes:category text="Business"/>
+    <itunes:summary>每日 BTC 市场简报，从 swing trader 视角解读价格、流动性与重要新闻。</itunes:summary>
+    <image>
+      <url>https://allaaaaan.github.io/what-is-going-on-feed/cover.png</url>
+      <title>又咋啦?! BTC 简报</title>
+      <link>https://allaaaaan.github.io/what-is-going-on-feed/</link>
+    </image>
+    <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
+    <item>
+      <title>又咋啦?! BTC 简报 · 2026-05-10</title>
+      <description>今日 BTC 市场: 价格收八万零七百八十六美元,日内上涨百分之零点四,处于 200 日 SMA 下方,bear regime,恐惧贪婪指数从 Fear 回升至 Neutral 47;ETF 周度净流入连续六周但日线已现单日两亿六千八百万美元的净流出。
+
+▌flow / ETF
+美国现货 BTC ETF 连续六周净流入,九个月以来最长;单日两亿六千八百万美元 ETF 净流出打断每日连续记录;TLDR Crypto 总结黄金到 BTC 的避险轮动持续;Strategy CEO Phong Le 重申只在特定情况下卖出 BTC。
+
+▌cycle / 周期
+TLDR Crypto:六十七天负 funding 创本十年纪录,历史回溯期胜率百分之八十三到九十六;CryptoQuant 警告 bear market 反弹中获利了结压力可能进一步上升。
+
+▌macro / 利率
+四月非农超预期+伊朗局势+ETF 资金外流共同压制反弹于 SMA 200 附近;CoinDesk 提示招聘放缓利好 BTC,前提是工资不刺激 Fed 鹰派。
+
+▌regulation / 监管
+Nasdaq 总裁 Tal Cohen 在 Consensus Miami 称 SEC 立场转向建设性,确认代币化股票试点;瑞士 SNB BTC 储备公投征签失败,即将作废。
+
+▌infrastructure / 基础设施
+CME 计划六月一日推出 BTC 波动率期货,等待监管批准;Bitcoin Core 披露 CVE-2024-52911 高危 use after free 漏洞,影响 0.14.1 至 28.4 各版本。
+
+来源:2026-05-10</description>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-10.mp3" length="4622400" type="audio/mpeg"/>
+      <guid isPermaLink="false">btc-2026-05-10</guid>
+      <itunes:duration>6:25</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-10.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

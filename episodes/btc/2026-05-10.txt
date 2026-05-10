@@ -1,0 +1,18 @@
+今日 BTC 市场: 价格收八万零七百八十六美元,日内上涨百分之零点四,处于 200 日 SMA 下方,bear regime,恐惧贪婪指数从 Fear 回升至 Neutral 47;ETF 周度净流入连续六周但日线已现单日两亿六千八百万美元的净流出。
+
+▌flow / ETF
+美国现货 BTC ETF 连续六周净流入,九个月以来最长;单日两亿六千八百万美元 ETF 净流出打断每日连续记录;TLDR Crypto 总结黄金到 BTC 的避险轮动持续;Strategy CEO Phong Le 重申只在特定情况下卖出 BTC。
+
+▌cycle / 周期
+TLDR Crypto:六十七天负 funding 创本十年纪录,历史回溯期胜率百分之八十三到九十六;CryptoQuant 警告 bear market 反弹中获利了结压力可能进一步上升。
+
+▌macro / 利率
+四月非农超预期+伊朗局势+ETF 资金外流共同压制反弹于 SMA 200 附近;CoinDesk 提示招聘放缓利好 BTC,前提是工资不刺激 Fed 鹰派。
+
+▌regulation / 监管
+Nasdaq 总裁 Tal Cohen 在 Consensus Miami 称 SEC 立场转向建设性,确认代币化股票试点;瑞士 SNB BTC 储备公投征签失败,即将作废。
+
+▌infrastructure / 基础设施
+CME 计划六月一日推出 BTC 波动率期货,等待监管批准;Bitcoin Core 披露 CVE-2024-52911 高危 use after free 漏洞,影响 0.14.1 至 28.4 各版本。
+
+来源:2026-05-10
