@@ -25,6 +25,26 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
     <item>
+      <title>又咋啦？！简报版 · 2026-05-11</title>
+      <description>1. AI能否生成连数学家都无法验证的证明？
+2. AI模型的经验能力正在超过人类理论的理解速度
+3. 互联网档案馆在瑞士建立镜像站,规避美国版权法压力
+4. 开发者对AWS定价不透明与高转移成本的批评再度升温
+5. Bambu Lab威胁OrcaSlicer开发者,Louis Rossmann出资支持法律辩护
+6. Google Gemini API新增多模态文件搜索功能
+7. 分析：GitHub平台正因微软重视AI而忽视核心开发体验
+8. Apple与Google硬件认证机制被各国政府强制要求,形成新型垄断门槛
+
+来源：英文科技新闻通讯及社区讨论（2026-05-10）</description>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-11.mp3" length="3113856" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-05-11</guid>
+      <itunes:duration>4:19</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-11.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！简报版 · 2026-05-10</title>
       <description>1. AI 正在打破漏洞披露的两套行业文化体系
 2. ChatGPT 5.5 Pro 能独立生成可发表水平的数学证明

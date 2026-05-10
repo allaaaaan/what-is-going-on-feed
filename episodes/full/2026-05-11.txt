@@ -1,0 +1,13 @@
+▌AI / 大模型
+AI能否生成无法被人类验证的数学证明、AI经验能力超过理论理解速度、Google Gemini API多模态文件搜索、Chrome静默下载四GB AI模型数据
+
+▌industry / 平台与监管
+互联网档案馆在瑞士建立镜像站、GitHub平台核心体验下滑分析、AWS定价不透明与高转移成本、Apple与Google硬件认证机制成数字基础设施新门槛
+
+▌security / 开源
+CVE编号被抢注并填入虚假漏洞信息的供应链攻击、Bambu Lab威胁OrcaSlicer开发者与right-to-repair社区应对
+
+▌energy / 基础设施
+西班牙凭借可再生能源储能管理跻身欧洲最廉价电力市场
+
+来源：英文科技新闻通讯及社区讨论（2026-05-10）
