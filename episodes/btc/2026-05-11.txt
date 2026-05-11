@@ -1,0 +1,18 @@
+今日 BTC 市场:BTC 收报八万一千八百零六美元,上涨百分之一点二五,日内区间八万零四百六十三到八万两千四百七十九美元;价格在两百日 SMA 下方但已贴近,日线 RSI 偏紧而周线 RSI 仍有空间,F&G 报四十八、中性,情绪从两天前的恐惧迅速回暖。
+
+▌flow / 资金流
+CoinShares 报告显示加密产品连续第六周净流入八点五八亿美元,其中 BTC 产品独占七亿零六百万美元;Strategy 重启买入,以四千三百万美元增持五百三十五枚 BTC,总持仓达八十一万八千八百六十九枚。
+
+▌macro / 宏观
+参议院银行委员会十三票对十一票推进 Kevin Warsh 担任 Fed 主席的提名,全体投票仍待进行;Trump 称伊朗和平方案完全不可接受,BTC 在 Brent 原油破一百零四美元和巨鲸分发背景下仍守八万一千美元。
+
+▌regulation & infrastructure / 监管和市场结构
+六家美国银行业协会在 CLARITY 法案下周标记前提交修订建议,试图收紧 Tillis-Alsobrooks 稳定币收益的妥协;CME Group 确认 BTC 波动率期货将于6月1日上线、代码 BVI,以 BVX 指数结算。
+
+▌mining sector / 矿业板块
+MARA 一季度卖出十五亿美元 BTC 用于偿债;CleanSpark 二季度浮亏两亿两千四百万美元;Keel Infrastructure(原 Bitfarms)完成转向 AI,持五亿三千三百万美元;TeraWulf 一季度亏损四亿两千七百万美元、AI 收入首超挖矿;IREN 与 Nvidia 签下三十四亿美元 AI 大单;七个矿池、约百分之七十五全球算力加入 Stratum V2。
+
+▌on-chain / 链上
+一头自2013年以来沉默的 BTC 巨鲸在周日链上转移约四千万美元。
+
+来源:2026-05-11
