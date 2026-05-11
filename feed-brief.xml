@@ -19,11 +19,11 @@
     <itunes:category text="Technology"/>
     <itunes:summary>每日科技新闻速览,精选当天最重要的故事,3-5 分钟</itunes:summary>
     <image>
-      <url>https://allaaaaan.github.io/what-is-going-on-feed/cover.png</url>
+      <url>https://allaaaaan.github.io/what-is-going-on-feed/cover-brief.png</url>
       <title>又咋啦？！简报版</title>
       <link>https://allaaaaan.github.io/what-is-going-on-feed/</link>
     </image>
-    <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
+    <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-brief.png"/>
     <item>
       <title>又咋啦？！简报版 · 2026-05-11</title>
       <description>1. AI能否生成连数学家都无法验证的证明？
@@ -40,7 +40,7 @@
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-11.mp3" length="3113856" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-2026-05-11</guid>
       <itunes:duration>4:19</itunes:duration>
-      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-brief.png"/>
       <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-11.transcript.txt" type="text/plain" language="zh-CN"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -60,7 +60,7 @@
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-10.mp3" length="2655936" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-2026-05-10</guid>
       <itunes:duration>3:41</itunes:duration>
-      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-brief.png"/>
       <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-10.transcript.txt" type="text/plain" language="zh-CN"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -80,7 +80,7 @@
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-09.mp3" length="2507904" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-2026-05-09</guid>
       <itunes:duration>3:28</itunes:duration>
-      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-brief.png"/>
       <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-09.transcript.txt" type="text/plain" language="zh-CN"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -100,7 +100,7 @@
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-08.mp3" length="2623968" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-2026-05-08</guid>
       <itunes:duration>3:38</itunes:duration>
-      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-brief.png"/>
       <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-08.transcript.txt" type="text/plain" language="zh-CN"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -120,7 +120,7 @@
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-07.mp3" length="2572416" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-2026-05-07</guid>
       <itunes:duration>3:34</itunes:duration>
-      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-brief.png"/>
       <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-07.transcript.txt" type="text/plain" language="zh-CN"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -140,7 +140,7 @@
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-06.mp3" length="2677824" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-2026-05-06</guid>
       <itunes:duration>3:43</itunes:duration>
-      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-brief.png"/>
       <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-06.transcript.txt" type="text/plain" language="zh-CN"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -158,7 +158,7 @@
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-05.mp3" length="3536352" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-2026-05-05</guid>
       <itunes:duration>4:54</itunes:duration>
-      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-brief.png"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -175,7 +175,7 @@
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-03.mp3" length="2702880" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-2026-05-03</guid>
       <itunes:duration>3:45</itunes:duration>
-      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-brief.png"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -192,7 +192,7 @@
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-02.mp3" length="2441376" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-2026-05-02</guid>
       <itunes:duration>3:23</itunes:duration>
-      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-brief.png"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -209,7 +209,7 @@
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-01.mp3" length="2478816" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-2026-05-01</guid>
       <itunes:duration>3:26</itunes:duration>
-      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-brief.png"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -226,7 +226,7 @@
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-04-30.mp3" length="2490912" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-2026-04-30</guid>
       <itunes:duration>3:27</itunes:duration>
-      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-brief.png"/>
       <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-04-30.transcript.txt" type="text/plain" language="zh-CN"/>
       <itunes:explicit>false</itunes:explicit>
     </item>

@@ -19,11 +19,11 @@
     <itunes:category text="Technology"/>
     <itunes:summary>每日科技新闻完整版,涵盖当天的全部非广告内容</itunes:summary>
     <image>
-      <url>https://allaaaaan.github.io/what-is-going-on-feed/cover.png</url>
+      <url>https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png</url>
       <title>又咋啦？！完整版</title>
       <link>https://allaaaaan.github.io/what-is-going-on-feed/</link>
     </image>
-    <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
+    <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
       <title>又咋啦？！完整版 · 2026-05-11</title>
       <description>▌AI / 大模型
@@ -43,7 +43,7 @@ CVE编号被抢注并填入虚假漏洞信息的供应链攻击、Bambu Lab威�
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-05-11.mp3" length="5336640" type="audio/mpeg"/>
       <guid isPermaLink="false">full-2026-05-11</guid>
       <itunes:duration>7:24</itunes:duration>
-      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
       <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-05-11.transcript.txt" type="text/plain" language="zh-CN"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -66,7 +66,7 @@ AWS 北弗吉尼亚 US-East-1 数据中心大规模故障并恢复
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-05-10.mp3" length="4389120" type="audio/mpeg"/>
       <guid isPermaLink="false">full-2026-05-10</guid>
       <itunes:duration>6:05</itunes:duration>
-      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
       <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-05-10.transcript.txt" type="text/plain" language="zh-CN"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -89,7 +89,7 @@ SEC 态度转变与代币化建设、Kraken 六亿美元收购 Reap、Amazon Bed
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-05-09.mp3" length="9470592" type="audio/mpeg"/>
       <guid isPermaLink="false">full-2026-05-09</guid>
       <itunes:duration>13:09</itunes:duration>
-      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
       <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-05-09.transcript.txt" type="text/plain" language="zh-CN"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -109,7 +109,7 @@ Claude Managed Agents梦境/结果/多智能体编排，DeepSeek五百亿美元�
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-05-08.mp3" length="5365440" type="audio/mpeg"/>
       <guid isPermaLink="false">full-2026-05-08</guid>
       <itunes:duration>7:27</itunes:duration>
-      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
       <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-05-08.transcript.txt" type="text/plain" language="zh-CN"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -132,7 +132,7 @@ Coinbase AI驱动裁员、意大利央行呼吁代币化SEPA、Virtuals Arena AI
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-05-07.mp3" length="8093088" type="audio/mpeg"/>
       <guid isPermaLink="false">full-2026-05-07</guid>
       <itunes:duration>11:14</itunes:duration>
-      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
       <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-05-07.transcript.txt" type="text/plain" language="zh-CN"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -155,7 +155,7 @@ Tether Q1 净利十点四亿创储备新高，KelpDAO 黑客资金回收遭 DPRK
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-05-06.mp3" length="16467840" type="audio/mpeg"/>
       <guid isPermaLink="false">full-2026-05-06</guid>
       <itunes:duration>22:52</itunes:duration>
-      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
       <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-05-06.transcript.txt" type="text/plain" language="zh-CN"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -176,7 +176,7 @@ Anthropic 红队测试 Jupiter-V1-P、Google Omni 视频生成模型、OpenAI Co
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-05-05.mp3" length="7667712" type="audio/mpeg"/>
       <guid isPermaLink="false">full-2026-05-05</guid>
       <itunes:duration>10:38</itunes:duration>
-      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -196,7 +196,7 @@ Visa 稳定币结算扩至九条链、朝鲜黑客占年度加密损失七成六
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-05-03.mp3" length="11976192" type="audio/mpeg"/>
       <guid isPermaLink="false">full-2026-05-03</guid>
       <itunes:duration>16:38</itunes:duration>
-      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -216,7 +216,7 @@ Visa 稳定币结算扩至九链、北朝鲜黑客占2026年加密攻击损失�
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-05-02.mp3" length="10884096" type="audio/mpeg"/>
       <guid isPermaLink="false">full-2026-05-02</guid>
       <itunes:duration>15:07</itunes:duration>
-      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -233,7 +233,7 @@ Google 向企业客户外售 TPU, Mistral Medium 3.5 驱动 Vibe 远程智能体
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-05-01.mp3" length="7833024" type="audio/mpeg"/>
       <guid isPermaLink="false">full-2026-05-01</guid>
       <itunes:duration>10:52</itunes:duration>
-      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -253,7 +253,7 @@ Sam Altman与Matt Garman对谈Bedrock Managed Agents、Claude创意工具连接�
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-04-30.mp3" length="9187200" type="audio/mpeg"/>
       <guid isPermaLink="false">full-2026-04-30</guid>
       <itunes:duration>12:45</itunes:duration>
-      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover.png"/>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
       <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-04-30.transcript.txt" type="text/plain" language="zh-CN"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
