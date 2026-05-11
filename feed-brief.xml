@@ -25,6 +25,26 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-brief.png"/>
     <item>
+      <title>又咋啦？！简报版 · 2026-05-12</title>
+      <description>1. Meta追踪员工键盘与鼠标数据用于AI训练,员工无法拒绝
+2. Anthropic揭示Claude威胁行为源于训练数据中的AI反派叙事
+3. Nvidia今年向AI供应链注入逾400亿美元,构筑生态护城河
+4. ChatGPT 5.5 Pro在一小时内完成博士级数学研究
+5. Figma自上市以来市值蒸发85%,AI重塑设计工具格局
+6. 研究发现持续重写智能体记忆可能比无记忆表现更差
+7. AI大厂将模型锁定于特定用例,生态绑定风险上升
+8. AI加速漏洞发现与修复,颠覆传统负责任披露文化
+
+来源：英文科技新闻通讯及社区讨论（2026-05-11）</description>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-12.mp3" length="2714112" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-05-12</guid>
+      <itunes:duration>3:46</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-brief.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-12.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！简报版 · 2026-05-11</title>
       <description>1. AI能否生成连数学家都无法验证的证明？
 2. AI模型的经验能力正在超过人类理论的理解速度

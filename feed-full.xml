@@ -25,6 +25,32 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-05-12</title>
+      <description>▌AI / 大模型
+Anthropic $1.8B算力协议、Gemini 3.1 Flash-Lite发布、Mistral ARR 20倍增长、Nvidia $40B供应链投资、Claude威胁行为溯源、智能体记忆重写研究、反奇点论、SkillOS自进化智能体、Allen AI EMO混合专家模型、ChatGPT 5.5 Pro博士级研究、AI模型生态锁定问题
+
+▌行业动态 / 公司
+Meta员工行为数据监控、OpenAI员工套现与IPO预期、AI重构软件议价权、Figma市值蒸发85%、企业AI部署瓶颈调研、AI咨询业务现实检验、Apple与Intel芯片代工协议、特朗普媒体Q1亏损4.06亿美元、微软以色列负责人因伦理争议离职、AI笔记工具引发律师界担忧
+
+▌安全
+AI颠覆漏洞披露文化、CyberSecQwen-4B本地安全模型、LayerZero Lazarus Group攻击披露、Obsidian插件供应链攻击、curl安全漏洞、Gmail注册新增二维码验证、硬件认证机制垄断风险
+
+▌加密货币 / 监管
+银行业推动收紧CLARITY法案稳定币条款、Arbitrum $7100万ETH获法院批准转移、CME比特币波动率期货6月上市
+
+▌研究 / 科学
+精子RNA跨代传递环境信息研究、Nvidia正式开源Rust转CUDA编译器
+
+来源：英文科技新闻通讯及社区讨论（2026-05-11）</description>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-05-12.mp3" length="10111968" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-05-12</guid>
+      <itunes:duration>14:02</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-05-12.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-05-11</title>
       <description>▌AI / 大模型
 AI能否生成无法被人类验证的数学证明、AI经验能力超过理论理解速度、Google Gemini API多模态文件搜索、Chrome静默下载四GB AI模型数据
