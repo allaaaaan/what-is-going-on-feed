@@ -19,6 +19,42 @@
     <itunes:category text="Business"/>
     <itunes:summary>每日 BTC 市场简报，从 swing trader 视角解读价格、流动性与重要新闻。</itunes:summary>
     <item>
+      <title>又咋啦?! BTC 简报 · 2026-05-12</title>
+      <description>今日 BTC 市场:BTC 收八万零五百四十八美元,跌幅百分之一点六;现货仍在熊市,Fear and Greed 四十九中性;宏观面三件大事叠加——Warsh 主席任命投票临近、CPI 创三年新高、霍尔木兹海峡仍关闭——但 CoinShares 显示加密产品连续六周净流入,六周累计四十九亿美元,资金流面继续吸收所有利空。
+
+▌macro / 美联储与利率路径
+参议院五十一对四十五通过 Warsh 任美联储理事提名,主席任命投票安排在周三;四月 CPI 创三年新高,主要由油价推动。
+
+▌regulation / 监管
+参议院银行委员会公布三百零九页 CLARITY Act 草案,周四上午十点半进行讨论;美国证监会主席 Atkins 呼吁重写经纪商、交易所等定义以适配链上市场。
+
+▌flow / ETF 和资金流
+CoinShares:加密产品连续六周净流入,本周八点五八亿美元,BTC 占七点零六亿,总 AUM 一千六百亿;Wells Fargo 13F 大幅加仓 Strategy;ETH/BTC 比价跌至十个月低点。
+
+▌macro / 中东风险与油价
+Trump 称伊朗最新和平方案彻底不可接受,称停火协议处于严重危急状态;Brent 原油跳涨百分之三点一七至一百零四点五美元,霍尔木兹海峡仍处关闭。
+
+▌infrastructure / 基础设施
+CME 确认 Bitcoin 波动率期货 BVI 将在六月一日推出,等待 CFTC 审核;Kraken Pro 开通 CFTC 监管下的美国零售现货保证金交易;PayPal 与 Google 提出代理人时代商业活动将走加密轨道。
+
+▌miner / 矿企动向
+MARA 一季度抛售十五亿美元 BTC,亏损十二点六亿,转向 AI 基础设施;Bitfarms 更名 Keel Infrastructure,完成从挖矿到 AI 的彻底转型。
+
+▌supply / 主权与企业卖盘
+Bhutan 又转移一百枚 BTC,2026 年累计转出超两点三亿美元;Exodus 卖出一千枚 BTC,占持仓百分之六十三,用于支付业务转型。
+
+▌cycle / 周期结构
+CoinDesk:BTC 牛熊周期指标自 2023 年 3 月以来首次翻绿,下一档阻力指向九万美元。
+
+来源:2026-05-12</description>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-12.mp3" length="8845056" type="audio/mpeg"/>
+      <guid isPermaLink="false">btc-2026-05-12</guid>
+      <itunes:duration>12:17</itunes:duration>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-12.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦?! BTC 简报 · 2026-05-11</title>
       <description>今日 BTC 市场:BTC 收报八万一千八百零六美元,上涨百分之一点二五,日内区间八万零四百六十三到八万两千四百七十九美元;价格在两百日 SMA 下方但已贴近,日线 RSI 偏紧而周线 RSI 仍有空间,F&amp;G 报四十八、中性,情绪从两天前的恐惧迅速回暖。
 
