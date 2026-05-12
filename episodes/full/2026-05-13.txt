@@ -1,0 +1,68 @@
+又咋啦？！完整版 · 2026-05-13
+
+【AI / 大模型】
+  · Ai Architecture & Technical Debt — Analysis of how AI agent harnesses (prompt frameworks and tool wrappers) create technical debt as models improve.
+  · Ai Autonomy — Analysis of how AI agents are shifting from passive tools to active skilled workers that organizations must adapt to.
+  · Ai Orchestration — Essay on how AI agent orchestration can devolve into unproductive 'doom building' and the need for clear operational scopes.
+  · Ai Agents — Founder interview: Scott Wu (Cognition/Devin) on AI agent philosophy, competition, and company building.
+  · Ai Creativity And Intrinsic Motivation — An exploration of why current AI systems lack human-like creativity and whether emulating intrinsic drives could bridge that gap.
+  · Test Time Scaling For Llm Inference — A research technique for improving LLM output quality at inference time by automatically discovering better reasoning strategies, without requiring retraining or additional online model calls.
+  · Long Form Video Generation Breakthrough — A²RD is a new framework that generates longer, more coherent videos by iteratively refining output through memory and retrieval cycles.
+  · Ai And Developer Tooling — Medium essay examining whether Python remains the dominant language choice if AI systems are writing the majority of code.
+  · Ai Industry Power Dynamics — Musk's legal team claims Microsoft CEO Nadella intervened to restore Sam Altman to OpenAI after his 2023 ouster, suggesting Microsoft exerts control over OpenAI.
+  · Robotics — Figure's O3 humanoid robots demonstrated coordinating household tasks and Figure claims production scaled from one robot daily to one hourly.
+  · Platform Availability — Anthropic's Claude Platform is now generally available directly through AWS accounts, offering customers native Anthropic APIs and console experience operated outside the AWS security boundary.
+  · Ai Industry Reorganization — Elon Musk is dissolving xAI as a standalone company and rebranding it as SpaceXAI, a division under SpaceX that will handle AI projects including X and Grok.
+  · Ai Enhanced Cybersecurity — OpenAI introduces Daybreak, a new AI-powered security product that integrates threat detection and mitigation into the software development lifecycle.
+  · Local Ai Models Economics — Local models now deliver comparable performance to cloud providers at significantly lower cost, reshaping AI infrastructure economics.
+  · Google Video Ai Model Release — Google is releasing a new Gemini video model with native video editing and remixing capabilities built into its AI chat.
+  · Inference Hardware Market Split — Cerebras' IPO reflects a market divergence between answer inference optimized for token speed and agentic inference optimized for memory bandwidth; their WSE-3 chip offers 44GB on-chip SRAM with 6,000x the memory bandwidth of an H100.
+  · Ai Adoption — Amazon's AI adoption pressure is driving employees to perform unnecessary token-heavy tasks to inflate usage metrics.
+  · Ai Interface Design — Google DeepMind publishes research on optimizing mouse pointer interaction patterns for AI-era workflows.
+
+【security / 安全】
+  · Security & Ai — Unauthenticated RCE in Exim mailserver (CVE-2026-45185) discovered by researchers in explicit competition with LLM exploit-finding.
+  · Security — An AI security tool (Mythos) discovered a vulnerability in curl, a widely used command-line tool for transferring data.
+  · Security — Guide to configuring built-in hardware security tokens (U2F/FIDO) that now ship standard on modern laptops.
+  · Security — Google confirmed the first documented case of AI-assisted criminal hackers discovering and weaponizing a zero-day software vulnerability.
+  · Security — Supply-chain attack compromised 84 TanStack npm packages with millions of weekly downloads.
+  · Security — Android banking malware TrickMo now routes command-and-control through the TON blockchain instead of traditional servers.
+  · Security — Instructure paid a ransom to threat actors after a Canvas data breach.
+  · Surveillance Law — Canada's Bill C-22 resurrects broad digital surveillance powers previously rejected in Bill C-27, reframing them to appear less invasive.
+  · Security — Critical security vulnerability announced for dnsmasq, a widely-deployed DNS/DHCP server.
+
+【crypto & agentic finance / 加密与金融】
+  · Ai Agent Payment Infrastructure — Google and PayPal launched the Agentic Payments Protocol (AP2) with 120+ partners to position cryptocurrency as machine-readable payment rails for AI agents.
+  · Crypto Regulation — SEC Chair Paul Atkins proposes formally rewriting broker/dealer/exchange definitions for onchain markets instead of retrofitting crypto into legacy frameworks.
+  · Fintech & Blockchain Funding — Circle, a stablecoin infrastructure company, raised $222M for Arc, a new blockchain platform, at $3B valuation.
+  · Crypto Regulation & Finance — Kraken Pro now offers US retail spot margin trading with up to 10x leverage under CFTC regulation.
+  · Agentic Finance — Coinbase positions itself as settlement and commerce infrastructure for autonomous AI agents that spend and transact independently.
+  · Blockchain Infrastructure — Ronin (Axie Infinity's blockchain) migrated from standalone sidechain to Ethereum L2.
+  · Blockchain Infrastructure — S&P 500 payments firm Corpay integrates stablecoin and tokenized-fiat settlement on JPMorgan's Kinexys blockchain.
+  · Rwa Tokens And Tokenized Finance — RWA token market is shifting valuations from utility tokens toward early-stage equity stakes in tokenized financial infrastructure platforms.
+
+【industry & regulation / 行业动态】
+  · Messaging Infrastructure — Apple added encrypted RCS messaging support to iOS/macOS/iPadOS 26.5, marking the company's entry into the carrier-standard messaging upgrade.
+  · Business Strategy, Ai Transition — GitLab announces layoffs as part of strategic pivot toward AI-focused development, with commitment to reinvest wage savings back into the company.
+  · Business Model Shifts — Essay on how AI labs (OpenAI, Anthropic, DeepMind) will become direct competitors by running their own knowledge-intensive companies with AI-replaced workforces.
+  · Open Source Ethics — Analysis of Bambu Lab's violation of open source social contract norms in 3D printer firmware/community.
+  · Healthcare — UCLA researchers developed the first drug shown to repair brain damage after stroke rather than just slow decline.
+  · Regulation & Platform Policy — EU regulatory action targeting algorithmic recommendation systems and engagement features on TikTok and Instagram designed to maximize child user addiction.
+  · Retail & Consolidation — eBay publicly rejected GameStop's $56B acquisition proposal as not credible.
+  · Google Products — Googlebook is a new Google service or product launched at the given URL.
+  · Technology Persistence & Manufacturing Economics — Analysis of why vacuum tubes remain in production and use despite widespread replacement by semiconductors.
+
+【product & engineering / 产品与工程】
+  · Graphics & Rendering — Technical deep-dive into atmospheric physics and rendering algorithms for realistic sky, sunset, and planetary visualization.
+  · Hardware Testing — LTT Labs tests real-world UPS output waveforms to compare actual behavior against manufacturer specs.
+  · Engineering Culture — Argument that teams must fix delivery infrastructure (shipping speed, reliability) before pursuing OKRs or AI adoption.
+  · Product Development — Industry perspective on why customer validation discipline has become more critical as AI accelerates product building cycles.
+  · Ai And Design — Design perspective arguing that intent (understanding the problem) is what AI cannot replace in the design process.
+  · Organizational Design — Analysis of how organizations can maintain alignment while preserving team autonomy, with AI as a translation layer across different working styles.
+  · Product Planning — AI coding agents are compressing months of roadmap work into days, disrupting traditional product planning practices.
+  · Software Architecture — Analysis of how AI is shifting the dominant software architecture paradigm away from microservices.
+  · Ai Agents & Tooling — Voker is a YC S24 startup offering analytics and observability for AI agent systems.
+  · Ai Tools For Legacy Systems — Hopper, an agentic AI interface for mainframes and COBOL systems.
+  · Saas And Ai Tooling — Gigacatalyst is an embedded AI builder that extends SaaS platforms with customizable AI capabilities.
+
+来源：英文科技新闻通讯及社区讨论（2026-05-12）

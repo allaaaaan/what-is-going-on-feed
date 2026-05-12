@@ -1,0 +1,12 @@
+又咋啦？！简报 · 2026-05-13
+
+1. Ai Architecture & Technical Debt — Analysis of how AI agent harnesses (prompt frameworks and tool wrappers) create technical debt as models improve.
+2. Ai Autonomy — Analysis of how AI agents are shifting from passive tools to active skilled workers that organizations must adapt to.
+3. Ai Orchestration — Essay on how AI agent orchestration can devolve into unproductive 'doom building' and the need for clear operational scopes.
+4. Ai Agents — Founder interview: Scott Wu (Cognition/Devin) on AI agent philosophy, competition, and company building.
+5. Ai Creativity And Intrinsic Motivation — An exploration of why current AI systems lack human-like creativity and whether emulating intrinsic drives could bridge that gap.
+6. Test Time Scaling For Llm Inference — A research technique for improving LLM output quality at inference time by automatically discovering better reasoning strategies, without requiring retraining or additional online model calls.
+7. Long Form Video Generation Breakthrough — A²RD is a new framework that generates longer, more coherent videos by iteratively refining output through memory and retrieval cycles.
+8. Ai And Developer Tooling — Medium essay examining whether Python remains the dominant language choice if AI systems are writing the majority of code.
+
+来源：英文科技新闻通讯及社区讨论（2026-05-12）
