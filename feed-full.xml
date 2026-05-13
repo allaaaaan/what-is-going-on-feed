@@ -25,6 +25,27 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-05-14</title>
+      <description>今日科技完整版（2026年5月14日），共四十九条消息，分五个版块：
+
+【AI与大模型】Claude Opus 4.7推出快速模式；Meta Muse Spark进入语音模式和智能眼镜；谷歌Gemini整合至Android操作系统支持自主代理操作；阿里巴巴Qwen-Image-2.0在图文混排和真实感上取得进展；小模型经强化学习后可媲美大模型的经济信号；字节级效率计量对训练扩展规律的影响；Yann LeCun论世界模型路线；专用搜索模型的兴起；Anthropic发布Claude-for-Legal法律工作流参考智能体；Perceptron Mk1以低80–90%的价格提供视频分析能力；Cactus Needle 26M参数端侧模型。
+
+【平台与基础设施】谷歌Googlebook Android笔记本新品类即将发货；泄露的Aluminium OS将Android桌面化；SpaceX全球建设Starship发射设施；Android 2026年大规模AI整合；Starship第三版达408英尺并支持在轨加注；谷歌与SpaceX洽谈轨道数据中心；Apple iOS 27相机和Siri重大更新；半导体供应链从电动车和太阳能转向AI基础设施并涨价。
+
+【行业动态与企业AI】亚马逊员工为内部AI排行榜刷token的隐患；各AI实验室在效率、定价、算力三条线上的共同策略；Claude企业采用率翻倍、OpenAI份额下降的市场格局变化；企业AI买家将可靠性置于功能速度之上；Marc Andreessen对AI夺走工作的反驳；AI原生软件对SaaS毛利率的破坏性影响；企业AI化前必须先将决策规则和SOP明文化的组织成本；GitHub Copilot新定价和Max计划；美国在AI商业化维度上的领先信号。
+
+【加密货币与金融科技】美国参议院《清晰法案》草案覆盖稳定币和DeFi监管；OCC批准首家AI原生设计的Augustus银行；比特币人寿保险产品Meanwhile；不丹政府再次减持BTC；MARA出售15亿美元比特币转型AI基础设施；Dolphin Network以闲置GPU算力降30%推理成本；Base链上BaiBai推出PropAMM解决前跑问题；DeFi借贷突破100亿美元但缺乏信用评级基础设施；Coinbase转型AI代理支付基础设施；Starknet发布私密比特币封装strkBTC。
+
+【科技杂谈】亚马逊30分钟送达扩展至美国多个大城市；eBay拒绝GameStop的560亿美元收购要约；创始人公开透明比完全保密更有利；开发者考虑从GitHub迁移至去中心化Forgejo；新型不锈钢合金支持海水制氢；支付处理商迫使Kickstarter禁止成人内容；太浩湖5万居民供电与数据中心扩张的资源争夺；两名前员工被解雇后摧毁96个政府数据库；Windows游戏API成为Linux内核功能使Linux游戏更快；Python回退3.14/3.15版本的增量式垃圾回收功能。</description>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-05-14.mp3" length="13257504" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-05-14</guid>
+      <itunes:duration>18:24</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-05-14.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-05-13</title>
       <description>又咋啦？！完整版 · 2026-05-13
 

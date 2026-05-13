@@ -25,6 +25,17 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-brief.png"/>
     <item>
+      <title>又咋啦？！简报版 · 2026-05-14</title>
+      <description>今日科技简报（2026年5月14日）：四条研究与模型动态——关于AI训练的字节级效率计量、Yann LeCun对世界模型路线的论述、阿里巴巴Qwen图像生成新进展、小模型经强化学习后与大模型持平的经济信号；两条平台新品——谷歌即将发货的Android笔记本Googlebook，以及泄露的Aluminium OS桌面化方向；电商侧亚马逊30分钟送达扩展至美国多城市；以及GameStop向eBay发起的560亿美元收购要约遭拒。</description>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-14.mp3" length="2891520" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-05-14</guid>
+      <itunes:duration>4:00</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-brief.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-14.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！简报版 · 2026-05-13</title>
       <description>又咋啦？！简报 · 2026-05-13
 
