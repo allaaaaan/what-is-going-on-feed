@@ -1,0 +1,21 @@
+今日 BTC 市场: 收在七万九千四百三十美元,日内下跌百分之一点四,价格在200日均线下方,恐惧贪婪指数 42 Fear, ETF 资金流首次出现失血迹象。
+
+▌macro / 利率
+参议院 54-45 确认 Kevin Warsh 出任美联储主席, Warsh 第一次 FOMC 定在6月16-17日且市场预期不动利率概率93%, 美国4月 PPI 创2022年以来新高叠加 Iran 拒绝 Trump 反提案 Brent 站上100美元, BTC 在 Trump-Xi 会面前在八万一千美元下方持稳。
+
+▌regulation / 监管
+参议院银行委员会发布 CLARITY Act 草案文本 5月14日 markup 含 BTC ETH 永久豁免条款, SEC 主席 Atkins 点名链上规则制定四个方向并选择走 NPRM 而非执法。
+
+▌flow / ETF / 资金流
+Charles Schwab 开始向部分美国零售客户开放主平台现货 BTC 和 ETH 交易, Jane Street Q1 大幅减持 BTC ETF IBIT FBTC 并增持 ETH ETF, CME 确认6月1日推出受监管 BTC 波动率期货 BVX, 链上代币化美债 AUM 突破150亿美元。
+
+▌treasury & miners / 公司持仓与矿工
+MARA 卖出15亿美元 BTC 并以15亿美元收购 Long Ridge 电厂园区转向 AI 算力, Strategy 的 STRC 机制可能本周解锁约3127枚 BTC 买入, Metaplanet Q1 因 BTC 按市价计算的浮动盈亏录得7.25亿美元净亏损。
+
+▌on-chain / cycle / 链上
+CryptoQuant 报告长期持有者获利了结上升美国现货需求下降, 长期持仓盘 conviction cohort 较2025年底增长约300%至约400万枚 BTC, 不丹再转出100枚 BTC 累计2026年流出超过2.3亿美元。
+
+▌infrastructure / 基础设施
+Starknet 推出 strkBTC 用零知识证明做的 BTC 隐私包装并配套可审计的查阅密钥。
+
+来源: 2026-05-13
