@@ -25,6 +25,19 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-brief.png"/>
     <item>
+      <title>又咋啦？！简报版 · 2026-05-15</title>
+      <description>2026年5月15日 · 简报版
+
+今天八条:Vercel七个月AI流量数据揭示大模型市场三分格局——Anthropic企业支出领先、Google调用量领先、OpenAI份额快速增长,代理任务占全部token用量59%;DeepSeek V4 Pro以每百万token两点二五美元跻身代理基准前列;苹果研究AI代理App Store集成方案;Anthropic推出面向小企业的Claude for Small Business;Anthropic估值超九千亿美元超越OpenAI;OpenAI Codex Windows沙箱设计公开解决本地代理安全顾虑;软件护城河从界面层转向数据层的战略分析;软件"Emacs化"趋势——大模型作为可编程层放大工具可定制性。</description>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-15.mp3" length="3290976" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-05-15</guid>
+      <itunes:duration>4:34</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-brief.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-15.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！简报版 · 2026-05-14</title>
       <description>今天简报八条：训练大模型的 scaling law 应该用字节而不是 token 作为计算单位，这个发现有可能重写 LLM 训练经济学并改善非英语语言质量；GPU serverless 推理的冷启动延迟被压到几十毫秒，按需 GPU 开始有经济账；RL 微调 4B 小模型可以媲美十倍参数量的生产模型，移动端和低成本推理的可行性在变；欧洲开发者主动迁移技术栈的情绪在 Hacker News 高分集中浮现，数据主权正在渗透技术选型。产品层：Google 推出 AI 原生 Android 笔记本 Googlebooks；GameStop 对 eBay 发出 560 亿美元敌意收购被拒；SpaceX 规划全球星港网络同期 Starship V3 刷新高度纪录；Android AI 代理功能通过 Play Services 向 20 亿设备静默推送。</description>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>

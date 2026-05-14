@@ -1,0 +1,9 @@
+2026年5月15日 · 完整版
+
+**AI 与大模型** · Vercel七个月AI流量报告:Anthropic企业支出第一、Google调用量第一、代理任务占token用量59%;DeepSeek V4 Pro基准七十七分、定价仅Opus 4.7十分之一;Google I/O将发布性能比肩GPT-5.5的新Gemini;Recursive Superintelligence完成六点五亿美元融资押注自主自我改进;Anthropic企业用户数量首次超过OpenAI且增速达四倍;顶尖AI研究员薪酬可达普通博士后一百倍以上;Adaption推出AutoScientist自动化模型微调工具;Anthropic与盖茨基金会达成两亿美元AI安全与全球卫生合作。
+
+**AI 产品与公司动态** · 苹果研究AI代理App Store集成方案以捍卫审核机制和隐私边界;Anthropic推出Claude for Small Business整合QuickBooks、HubSpot等主流工具;Anthropic估值超九千亿美元超越OpenAI;亚马逊放弃Rufus将购物功能并入Alexa;Anthropic CFO披露年化营收从两点五亿增至三百亿美元;Claude付费订阅六月起附带月度API额度;Cerebras完成上市估值四百亿美元融资五十五亿;苹果与OpenAI合作破裂或引发法律纠纷;Perplexity公开Computer代理沙箱安全架构。
+
+**软件与基础设施** · 软件护城河从界面层转向数据层的战略分析(附合同管理SaaS案例);软件"Emacs化"趋势——可定制性在AI时代被放大;OpenAI Codex Windows沙箱设计公开本地代理安全框架;AI工作负载颠覆宽带上下行不对称格局;Safari和Firefox对主流平台特殊处理巩固Chrome标准地位;Cline开源代理运行时SDK发布;Notion推出开发者平台支持代理数据后端。
+
+**世界与行业动态** · LinkedIn裁员5%叠加行业年内十万人裁员潮;地热能公司Fervo Energy上市为AI数据中心提供全天候清洁电力;United Therapeutics与Varda Space合作在轨道微重力环境制药;Blue Origin达成百次发射目标可能需要外部融资;MIT研究生招生数量下降20%;USDA预测美国小麦产量创1972年以来最低;Canvas平台支付赎金换取删除泄露数据——反直觉的现实;微软MDASH百代理网络自动寻找软件漏洞。

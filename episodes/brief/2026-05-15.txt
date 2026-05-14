@@ -1,0 +1,3 @@
+2026年5月15日 · 简报版
+
+今天八条:Vercel七个月AI流量数据揭示大模型市场三分格局——Anthropic企业支出领先、Google调用量领先、OpenAI份额快速增长,代理任务占全部token用量59%;DeepSeek V4 Pro以每百万token两点二五美元跻身代理基准前列;苹果研究AI代理App Store集成方案;Anthropic推出面向小企业的Claude for Small Business;Anthropic估值超九千亿美元超越OpenAI;OpenAI Codex Windows沙箱设计公开解决本地代理安全顾虑;软件护城河从界面层转向数据层的战略分析;软件"Emacs化"趋势——大模型作为可编程层放大工具可定制性。
