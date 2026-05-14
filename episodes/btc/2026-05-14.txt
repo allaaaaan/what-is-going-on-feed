@@ -1,0 +1,21 @@
+今日 BTC 市场:BTC 收盘八万一千四百二十五美元,日内涨百分之二点四,日内波动约百分之四;200 日均线八万二千一百三十三美元,价格紧贴下方;F&G 指数从四十二跌到三十四,情绪反向走深至恐惧。
+
+▌regulation / 监管
+CLARITY 法案在参议院银行委员会以十五比九推进至全院投票,Warren 的 DeFi 制裁修正案被否决;Bitwise CIO 把 GENIUS 法案视为本轮加密融资的监管解锁前提,Polymarket 上 CLARITY 通过概率从百分之八十压到约百分之五十五;美国证监会主席 Atkins 阐述链上四支柱监管议程;TLDR Crypto 论证 Coinbase 是最干净的稳定币标的。
+
+▌flow / ETF
+BTC 现货 ETF 单日净流出六亿三千五百万美元,为一月底以来最大,IBIT 带头被赎回;CoinDesk 数据指出这波上破八万美元由杠杆驱动而非美国现货买盘;摩根大通一季度把 IBIT 持仓提高了百分之一百七十四;摩根大通分析报告称 ETH 与山寨币可能继续跑输 BTC;CoinDesk 把近期反弹框定为短期流动性挤压。
+
+▌macro / 利率
+Trump-Xi 北京峰会第一天产出建设性三年战略稳定框架,关税无正式变化,Xi 就台湾问题向 Trump 发出警告;伊朗美国和平谈判僵局,布伦特原油在每桶一百零七点七七美元;Warsh 六月十六到十七日首次主持美联储会议,CME FedWatch 给百分之九十七不降息概率;CoinDesk 提示 AI 主题 IPO 管道正在抽走加密资金。
+
+▌treasury firms / 司库公司
+Nakamoto 一季度亏损二亿三千九百万美元,股价新低并继续卖出 BTC;Metaplanet 一季度亏损七亿二千五百万美元并推迟优先股发行;Strive 推出 SATA 每日现金分红结构、零债务、扩张 BTC 库存;Delphi Digital 指 Strategy 接近 STRC 二百八十亿美元发行上限。
+
+▌infrastructure / 基础设施
+Charles Schwab 向部分美国用户开放 BTC、ETH 现货交易;CME 波动率期货 BVI 六月一日上线,待 CFTC 审核;CME 与 Nasdaq 六月八日推出按市值加权的多资产加密指数期货;BitGo 一季度收入翻倍至三十八亿美元,但净亏损扩大至六千零七十万美元。
+
+▌on-chain / 链上
+CryptoQuant 提示 BTC 撞到历史阻力位,过往熊市反弹多次出现,链上交易者已在获利了结。
+
+来源:2026-05-14
