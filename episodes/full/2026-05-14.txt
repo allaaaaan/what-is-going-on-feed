@@ -1,11 +1,11 @@
-今日科技完整版（2026年5月14日），共四十九条消息，分五个版块：
+今天完整版三十三条，分五个方向。
 
-【AI与大模型】Claude Opus 4.7推出快速模式；Meta Muse Spark进入语音模式和智能眼镜；谷歌Gemini整合至Android操作系统支持自主代理操作；阿里巴巴Qwen-Image-2.0在图文混排和真实感上取得进展；小模型经强化学习后可媲美大模型的经济信号；字节级效率计量对训练扩展规律的影响；Yann LeCun论世界模型路线；专用搜索模型的兴起；Anthropic发布Claude-for-Legal法律工作流参考智能体；Perceptron Mk1以低80–90%的价格提供视频分析能力；Cactus Needle 26M参数端侧模型。
+AI 模型与能力：字节级 scaling law 可能重写 LLM 训练经济学；RL 微调 4B 参数追平 Claude Sonnet 级别模型；Google Cactus Needle 2600 万参数模型跑在本地笔记本；Modal 实现 GPU serverless 冷启动几十毫秒；Claude Opus 4.7 Fast Mode 上线；Meta Muse Spark 摄像头实时 AI；Qwen-Image-2.0 图像生成更新；Perceptron Mk1 视频 AI 定价低八到九成；Parameter Golf 竞赛 AI 代理拿到名次。
 
-【平台与基础设施】谷歌Googlebook Android笔记本新品类即将发货；泄露的Aluminium OS将Android桌面化；SpaceX全球建设Starship发射设施；Android 2026年大规模AI整合；Starship第三版达408英尺并支持在轨加注；谷歌与SpaceX洽谈轨道数据中心；Apple iOS 27相机和Siri重大更新；半导体供应链从电动车和太阳能转向AI基础设施并涨价。
+AI 产业与商业：企业 AI 市场份额 Anthropic 翻倍增长、OpenAI 小幅下滑；AI 原生产品将 SaaS 毛利从 70% 压缩到 17%，商业模式需重构；AI 原生转型的本质是重建工作流让代理能独立执行；GitHub Copilot 扩容调价；Amazon MeshClaw 内部排行榜催生员工刷任务行为，暴露代理授权安全风险。
 
-【行业动态与企业AI】亚马逊员工为内部AI排行榜刷token的隐患；各AI实验室在效率、定价、算力三条线上的共同策略；Claude企业采用率翻倍、OpenAI份额下降的市场格局变化；企业AI买家将可靠性置于功能速度之上；Marc Andreessen对AI夺走工作的反驳；AI原生软件对SaaS毛利率的破坏性影响；企业AI化前必须先将决策规则和SOP明文化的组织成本；GitHub Copilot新定价和Max计划；美国在AI商业化维度上的领先信号。
+太空与基础设施：Starship V3 四百零八英尺创纪录并新增在轨加注；SpaceX 规划全球星港网络；Google 与 SpaceX 讨论轨道数据中心；模拟/电源芯片厂商产能向 AI 倾斜，挤压汽车和新能源供给；MIT 开发海水制氢耐腐蚀不锈钢；太浩湖居民输电线路可能被转给数据中心。
 
-【加密货币与金融科技】美国参议院《清晰法案》草案覆盖稳定币和DeFi监管；OCC批准首家AI原生设计的Augustus银行；比特币人寿保险产品Meanwhile；不丹政府再次减持BTC；MARA出售15亿美元比特币转型AI基础设施；Dolphin Network以闲置GPU算力降30%推理成本；Base链上BaiBai推出PropAMM解决前跑问题；DeFi借贷突破100亿美元但缺乏信用评级基础设施；Coinbase转型AI代理支付基础设施；Starknet发布私密比特币封装strkBTC。
+消费科技与平台：Google 推出 Android AI 笔记本 Googlebooks；Android AI 代理功能经 Play Services 无声推送至 20 亿设备；Apple WWDC 将发布 iOS 27；Bambu Lab 打印机本地控制 PR 被提交；Python 3.14/3.15 回退增量 GC；Linux 游戏 API 进入内核。
 
-【科技杂谈】亚马逊30分钟送达扩展至美国多个大城市；eBay拒绝GameStop的560亿美元收购要约；创始人公开透明比完全保密更有利；开发者考虑从GitHub迁移至去中心化Forgejo；新型不锈钢合金支持海水制氢；支付处理商迫使Kickstarter禁止成人内容；太浩湖5万居民供电与数据中心扩张的资源争夺；两名前员工被解雇后摧毁96个政府数据库；Windows游戏API成为Linux内核功能使Linux游戏更快；Python回退3.14/3.15版本的增量式垃圾回收功能。
+平台权力与数字主权：支付处理商逼 Kickstarter 封禁成人内容；GameStop 560 亿美元敌意收购 eBay 被拒；FreePascal 从 GitHub 迁往自托管 Forgejo；双胞胎兄弟被解雇后数分钟内删除 96 个政府数据库；欧洲技术主权情绪高涨，开发者主动切换欧洲服务商。
