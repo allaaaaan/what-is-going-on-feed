@@ -19,6 +19,30 @@
     <itunes:category text="Business"/>
     <itunes:summary>每日 BTC 市场简报，从 swing trader 视角解读价格、流动性与重要新闻。</itunes:summary>
     <item>
+      <title>又咋啦?! BTC 简报 · 2026-05-16</title>
+      <description>今日 BTC 市场:现货收在 78,266 美元,日内下跌 1.0%,熊市格局延续(价格低于 200 日均线 81,783 美元),恐惧贪婪指数压缩到 31(恐惧)。今日的形状是资金面格局转向、杠杆被清洗、宏观面盖过监管利好。
+
+▌flow / ETF / 资金面
+现货 BTC ETF 一周净流出约 10 亿美元、终结六周连续流入,Strategy 计划折价回购 15 亿美元 2029 年可转债并可能卖出 BTC、Abu Dhabi 主权基金继续加仓而 Harvard 清掉 ETH ETF,加密合约多头被清洗约 5 亿美元,Gemini 获 Winklevoss Capital 一亿美元 BTC 注资股价跳涨,Bhutan 主权办公室否认所谓 10 亿美元 BTC 减仓,Nakamoto 国库公司创新低并继续卖出 BTC。
+
+▌macro / 利率与地缘
+美国参议院 54-45 确认 Kevin Warsh 出任第十一任美联储主席;BTC 因美国国债收益率跳升而日内跌破 79,000 美元;Warsh 首次议息会议定于 6 月 16-17 日,市场给 6 月降息定价基本为零;Trump-Xi 5 月 14-15 日峰会产出关系稳定但无突破;美伊和平谈判停滞,Brent 原油在 100 美元以上波动。
+
+▌regulation / 监管
+CLARITY Act 5 月 14 日以 15-9 通过美国参议院银行委员会、推进至全体表决,关键悬念是民选官员伦理护栏修正案;美国证监会主席 Paul Atkins 5 月 8 日列出四条链上市场规则制定方向;英国央行放松稳定币储备金要求;Trump 财务披露包含 Coinbase、Robinhood、BTC 矿企股票交易。
+
+▌infrastructure / 基础设施
+CME 与 NASDAQ 6 月 8 日上线市值加权的 Nasdaq CME Crypto Index 期货;CME 维持 6 月 1 日推出 Bitcoin Volatility(BVX)期货的目标、等待 CFTC 审核;TLDR Crypto 长文梳理 Coinbase 拿走 Circle 公司 USDC 收入约一半的结构性地位;IREN 完成 30 亿美元可转债融资加速向 AI 基础设施转型。
+
+来源:2026-05-16</description>
+      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-16.mp3" length="10393632" type="audio/mpeg"/>
+      <guid isPermaLink="false">btc-2026-05-16</guid>
+      <itunes:duration>14:26</itunes:duration>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-16.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦?! BTC 简报 · 2026-05-14</title>
       <description>今日 BTC 市场:BTC 收盘八万一千四百二十五美元,日内涨百分之二点四,日内波动约百分之四;200 日均线八万二千一百三十三美元,价格紧贴下方;F&amp;G 指数从四十二跌到三十四,情绪反向走深至恐惧。
 
