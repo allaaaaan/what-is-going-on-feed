@@ -1,0 +1,16 @@
+▌AI / 大模型
+Grok Build终端编程智能体发布,Cursor云端智能体开发环境,Codex新增钩子和token访问,Claude Code调试框架Raindrop Workshop,Datadog开源时序预测模型Toto 2.0,Codex进驻ChatGPT手机端,Netflix AI动画工作室INKubator,二十六亿参数开源模型生成一分钟720p视频(SANA-WM),前沿AI攻破安全竞赛(CTF格式瓦解),激活引导技术让开放模型行为无需微调即可控制,Qwen3推理速度提升七点八倍,LLM上下文压缩降低显存开销
+
+▌AI战略 / 商业
+PMF变临时路标:AI加速时代产品策略需重建,AI代码翻译消除语言锁定成本,信息合成廉价化后护城河转向洞察力与判断力,企业AI决策非理化现象("AI精神失常"),AI推理效率比指标保护利润率,基础模型实验室盈利路径分析,AI放大技能型工作者优势,Salesforce转向无界面API(智能体时代UI护城河侵蚀),Lovable平台应用可被搜索引擎和AI发现,CRM从被动存储转向主动智能层,企业AI需要深度领域知识建立护城河,创始人如何区分健康坚持与沉没成本式偏执
+
+▌公司动态 / 行业
+Anthropic:美中AI算力政策决定2028格局,OpenAI与Apple合作破裂并探索法律行动,SpaceXAI合并后高管人才出走,Microsoft削减OpenAI独家依赖并寻求收购Inception,Nvidia与前DeepMind研究员创立的Ineffable Intelligence合作,xAI联合创始人为River AI筹集十亿美元,OpenAI内部文件揭示与Microsoft战略张力,苹果内存芯片成本可能攀升至设备总成本百分之四十,Ouster Rev8发布首款原生彩色LiDAR传感器,Figure AI Helix-02人形机器人完成八小时工厂班次,Kevin Warsh以最接近票数当选美联储主席
+
+▌AI × 职场
+AI工具使IC路线成为管理路线的真正替代,AI项目暴露组织结构性问题迫使PM转型,Claude从对话工具演化为持久多工具智能体(Cowork/Code/Dispatch),AI需覆盖完整开发生命周期而非单点代码生成,SEO与AEO需分离为独立战略职能,OpenAI Symphony以异步任务队列管理智能体,Notion推出智能体工具托管运行时
+
+▌科学 / 安全
+Google Pixel 10遭零点击漏洞利用链攻陷(请关注安全补丁),粪便微生物组移植临床试验显示对自闭症谱系障碍有统计显著改善
+
+来源：英文科技新闻通讯及社区讨论（2026-05-15）

@@ -25,6 +25,26 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-brief.png"/>
     <item>
+      <title>又咋啦？！简报版 · 2026-05-17</title>
+      <description>1. AI市场加速时代,产品市场契合(PMF)正从终点变成临时路标
+2. AI代码转换工具消除编程语言切换成本,三十年架构赌注变成短期实验
+3. 信息合成廉价化后,竞争优势从拥有数据转向提炼洞察
+4. Anthropic:美中AI格局2028年走向,取决于算力政策漏洞是否及时堵上
+5. AI热潮下企业的"AI精神失常":高管在无ROI证据下做出不可逆组织变革
+6. 前沿AI攻破安全竞赛题目:自动化漏洞发现已超越多数人类研究者
+7. 二十六亿参数开源模型生成一分钟720p视频,小模型能力边界被重新定义
+8. 激活引导技术:无需微调,在推理时直接控制开放模型行为风格
+
+来源：英文科技新闻通讯及社区讨论（2026-05-15）</description>
+      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-17.mp3" length="2774880" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-05-17</guid>
+      <itunes:duration>3:51</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-brief.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-17.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！简报版 · 2026-05-15</title>
       <description>2026年5月15日 · 简报版
 
