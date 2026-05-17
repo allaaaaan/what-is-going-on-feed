@@ -25,6 +25,26 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-brief.png"/>
     <item>
+      <title>又咋啦？！简报版 · 2026-05-18</title>
+      <description>1. AI不会让你的开发流程更快——瓶颈在需求定义和跨团队协调,不在代码生成速度
+2. AI订阅模式是否可持续?随着推理商品化,企业需主动决策:前沿API还是本地模型基础设施
+3. AI是技术,不是产品——Gruber的框架:嵌入产品服务用户体验,而非作为独立品类销售
+4. 高熵合金与室温超导体:早期研究阶段,若成立将改变能源传输与算力基础设施
+5. 欧盟考虑限制美国云平台处理政府敏感数据,推动转向欧洲云服务商
+6. Mozilla警告英国:在线安全法要求破解加密才能实现强制内容扫描,威胁VPN和端对端加密
+7. OpenAI与马耳他政府合作向全体公民提供ChatGPT Plus,建立可复制的政府AI导入模板
+8. WHO宣布刚果埃博拉疫情为全球公共卫生紧急事件,已有限扩散至乌干达
+
+来源：英文科技新闻通讯及社区讨论（2026-05-17）</description>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-18.mp3" length="3398112" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-05-18</guid>
+      <itunes:duration>4:43</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-brief.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-18.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！简报版 · 2026-05-17</title>
       <description>1. AI市场加速时代,产品市场契合(PMF)正从终点变成临时路标
 2. AI代码转换工具消除编程语言切换成本,三十年架构赌注变成短期实验
