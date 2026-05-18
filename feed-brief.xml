@@ -25,6 +25,19 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-brief.png"/>
     <item>
+      <title>又咋啦？！简报版 · 2026-05-19</title>
+      <description>又咋啦？！简报 · 2026-05-19
+
+今天简报以 AI 行业的认知分层为主线，七条评论性内容密集呈现：LLM 智能体已在大型企业生产环境里处理真实工程任务；AI 进步不遵循 S 曲线饱和逻辑，多维度并行演进挑战"等它稳定再布局"的策略；AI 路线图对技术精确、对人类未来模糊，这个不对称是结构性盲点；GPU 供给正在成为训练前沿模型的真实瓶颈，硬件供应商锁定是技术现实而非暂时问题；内存带宽而非算力已成多步推理的关键约束；一位企业 CDO 提出反调——别被 AI FOMO 驱动，按实际 ROI 走。压轴一条：亚马逊 CEO Andy Jassy 五年 AI 押注复盘，勾勒出云平台竞争的主轴。</description>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-19.mp3" length="2590272" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-05-19</guid>
+      <itunes:duration>3:35</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-brief.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-19.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！简报版 · 2026-05-18</title>
       <description>1. AI不会让你的开发流程更快——瓶颈在需求定义和跨团队协调,不在代码生成速度
 2. AI订阅模式是否可持续?随着推理商品化,企业需主动决策:前沿API还是本地模型基础设施

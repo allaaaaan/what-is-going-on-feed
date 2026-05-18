@@ -1,0 +1,11 @@
+又咋啦？！完整版 · 2026-05-19
+
+三十三条，四个板块。
+
+【AI 战略与评论】七篇深度分析：LLM 智能体已进入真实生产工作流；AI 进步不会走向 S 曲线饱和；AI 路线图对技术精确、对人类未来模糊的结构性盲点；GPU 供给与硬件锁定成为新的竞争约束；内存带宽取代算力成为多步推理瓶颈；企业 CDO 呼吁有纪律地采纳 AI，以 ROI 优先而非 FOMO 驱动。
+
+【AI 产品与模型】谷歌 Gemini 推出扩展思考模式并接入第三方应用；Runway 押注视频与世界模型为下一代 AI 基础；OpenAI 收购语音克隆创业公司 Weights.gg；Codex 扩展至锁屏状态下的桌面控制；ChatGPT 接入用户金融账户推出个人财务功能；Fin（前 Intercom）推出 AI 管理 AI 的 Operator 架构；Anthropic 收购 SDK 生成平台 Stainless；阿里发布 Qwen 3.7 预览版。
+
+【AI 生态经济】Amazon CEO Jassy 五年 AI 战略复盘；Claude Skills Marketplace 潜力分析；内容创作者面临的 AEO/GEO 优化转型；AI 订阅低价依赖的企业风险；AI 财富两极分化的结构性现实；本地 Apple Silicon 推理成本高于 Openrouter 的实测结论；Claude Code 大规模企业落地最佳实践；Musk 起诉 OpenAI 败诉；Cloudflare 推出网络安全专用模型 Mythos；AI 漏洞扫描工具涌入致 Linux 安全邮件列表"几乎无法管理"；开源智能体部署平台 InsForge 发布。
+
+【行业与科技】Git 的历史性停滞与大厂自研版本控制的趋势；Uber 百亿美元押注自营 Robotaxi 资产转向竞争者；SpaceX Starship 全可重用验证关键测试；CAR T 细胞疗法扩展至自身免疫疾病临床试验；Bitwarden 悄然去除"永久免费"承诺；产品设计原则——用户的混乱问题是设计缺陷信号而非用户问题；伊朗拟对霍尔木兹海峡海底电缆征收过境费。
