@@ -1,0 +1,18 @@
+今日 BTC 市场:BTC 收报 七万七千零六十一美元,当天下跌百分之一点七,F&G 跌到 28(恐惧),六周 ETF 净流入断点出现,伊朗局势重新主导宏观盘面。
+
+▌flow / ETF
+六周 BTC ETF 净流入断点 — CoinShares 上周加密基金净流出十点七亿美元,Goldman Sachs 第一季度持仓削减 BTC、ETH 并清空 XRP、SOL ETF,Intesa Sanpaolo 加密持仓翻倍并首次加入 iShares Bitcoin Trust 看涨期权,Moody's 报告美国大银行普遍预期代币化金融 "先慢后快"。
+
+▌macro / 地缘
+Trump 拒绝伊朗和平方案、Tehran 誓 "决不低头",霍尔木兹海峡仍被封锁;Trump "时间不多了" 言论引发 BTC 跌至 七万六千美元、六亿七千二百万美元 强平;Iran 推出 Hormuz Safe 以 BTC 结算的海运保险目标 一百亿美元;Warsh 上任后首次 FOMC 定档 6月16日-17日,97% 不降息预期。
+
+▌regulation / 监管
+CLARITY 法案 5月14日 美国参议院银行委员会 15-9 通过、进入全院,账本登记 "2026 年夏季无确定日期";SEC 主席 Atkins 5月8日 列出四个链上监管制定方向;a16z 把 CLARITY 比作 1933 年证券法;Trump 伦理披露 Coinbase / Robinhood / 矿企股票交易;Bitcoin Depot 申请第十一章破产保护。
+
+▌corporate / 公司持仓
+Strategy 上周购入 24,869 BTC、持仓 843,738 BTC(约总量 4%),STRC 优先股融资 97%;1.5B 2029 可转债回购 5月19日 结算,资金来源明确包括 BTC 出售;Pendle 集成 STRC,APYX 锁仓总值两个半月增长 14.3 倍至 三亿七千一百万美元。
+
+▌products / 产品
+CME BTC 波动率期货 BVI 目标 6月1日 上线(待 CFTC 审核);CME-Nasdaq 市值加权加密指数期货 6月8日 上线(BTC 权重约 77%);前 OpenAI Aschenbrenner 一百三十六亿美元 基金做空 Nvidia / AMD,做多 BTC 矿企;Citi 警告 BTC 量子计算风险高于 Ethereum。
+
+来源:2026-05-18
