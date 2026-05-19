@@ -25,6 +25,31 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-brief.png"/>
     <item>
+      <title>又咋啦？！简报版 · 2026-05-20</title>
+      <description>「又咋啦?!」简报 · 2026年5月20日
+
+今日八条：
+
+1. Karpathy 加入 Anthropic，OpenAI 初创团队成员、Tesla 前 AI 总监的选择，是前沿人才流向最真实的信号。
+2. Anthropic 收购 Stainless，将为 OpenAI、Google、Cloudflare 等生成 SDK 的工具平台纳入自家生态。
+3. 陪审团驳回 Musk 对 OpenAI 的全部诉讼，认定超过时效，OpenAI IPO 路上的法律障碍扫清。
+4. Meta 将 7000 名员工重组为四个 AI 专项部门，配合 1350 亿美元年度资本支出计划。
+5. Google 发布 Gemini 3.5 Flash，小型前沿模型，定位速度与多模态推理的平衡。
+6. Google Search 正在经历结构性变化，搜索结果呈现方式被改写，波及数十亿用户。
+7. 研究人员在 Qwen 权重里找到并关闭了审查电路，证明行为护栏是可编辑的权重，不是固定承诺。
+8. 全球大科技公司今年 AI 资本支出达 7000 亿美元，同期基础模型商品化，杀手级应用是否及时到来是唯一悬念。
+
+---
+「又咋啦?!」·「What Is Going On」· 每日科技播报</description>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-20.mp3" length="2107296" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-05-20</guid>
+      <itunes:duration>2:55</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-brief.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-20.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！简报版 · 2026-05-19</title>
       <description>又咋啦？！简报 · 2026-05-19
 

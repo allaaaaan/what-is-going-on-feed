@@ -1,0 +1,18 @@
+「又咋啦?!」全集 · 2026年5月20日
+
+今日34条，分四个板块：
+
+【AI公司格局】
+Karpathy 加入 Anthropic、Anthropic 收购 Stainless、Musk 起诉 OpenAI 全部被驳回、Meta AI 重组7000人、Unitree 机器人申请 IPO、Google×Blackstone 500MW 算力合资、Meta 路易斯安那 2000亿数据中心、全球7000亿美元 AI 资本支出与模型商品化并行、公众对 AI 基础设施的政治阻力
+
+【新品速递】
+Gemini 3.5 Flash、Gemini Omni 视频生成模型、Google Search 结构性变化、Cursor Composer 2.5、xAI Grok Skills 持久工具函数、NVIDIA Vera CPU 发货前沿实验室、Cloudflare Mythos 代码安全扫描、Amazon Leo 卫星宽带路由器、Browse 开源浏览器 CLI、Apple AI 无障碍功能
+
+【技术与洞察】
+Qwen 审查电路可被定位并关闭（护栏是可编辑权重）、LLM 评估从静态 benchmark 转向真实 agent 长时段测试、语言模型预训练中的模式跳变约束扩展定律、KV 缓存成为推理优化核心战场、注意力机制压缩技术降低边缘部署门槛、Coinbase 多 agent 系统自主处理55%欺诈案件、Apple 芯片分级复用的供应链套利、Simon Willison 6个月 LLM 综述
+
+【产品与人物】
+AI 时代 PM 角色分化为不同原型、AI 工具使非技术 PM 直接拥有执行链、产品增长瓶颈从销售转向迭代速度、Stripe 前 CTO 的 PM 编排者框架、AI 产品从聊天功能转向工作流 agent、差异化定位对抗大型平台的产品策略、Peter Neumann（RISKS Digest 创办人）离世
+
+---
+「又咋啦?!」·「What Is Going On」· 每日科技播报
