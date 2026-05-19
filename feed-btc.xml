@@ -19,6 +19,33 @@
     <itunes:category text="Business"/>
     <itunes:summary>每日 BTC 市场简报，从 swing trader 视角解读价格、流动性与重要新闻。</itunes:summary>
     <item>
+      <title>又咋啦?! BTC 简报 · 2026-05-19</title>
+      <description>今日 BTC 市场: BTC 收报七万六千九百九十七美元,日内基本走平,跌幅百分之零点一;现货熊市格局延续,F&amp;G 跌至 25 极度恐惧,长端美债收益率冲到二十年新高,定义今天宏观主线。
+
+▌flow / ETF
+CoinShares 确认上周加密投资产品净流出 $1.07B,六周连续净流入正式结束(BTC 现货 ETF 口径累计 $3.4B,CoinShares 更宽口径 $4.9B);单日 BTC ETF 流出 $649M;XRP 和 SOL 基金同周吸资,加密内部资金从 BTC 转出;期货卖盘超 $2B,散户需求 -73%,K33 称仓位"出奇悲观"限制了崩盘式下行;Strategy 通过优先股发行完成 $20 亿 BTC 买入,持仓 843,738 BTC,TD Cowen 上调目标价至 $400;Strive 加买 382 BTC 成第九大企业国库;短期持有者亏损止损 $770M。
+
+▌macro / 利率 / 地缘
+长端美债收益率达 20 年新高;Trump 拒绝 Iran 反提案,Hormuz 停火"靠生命维持仪",Brent $107.77、WTI $102.18 自 2.28 升级以来均 +45%+;Warsh 主持 6 月 16-17 日首次 FOMC,CME FedWatch 定价 93% 按兵不动,Polymarket 96%,账本对 Warsh 的鹰派定性维持;方向是 BTC 逆风。
+
+▌regulation / 监管
+SEC Atkins 准备代币化股票"创新豁免",提案最快本周公布,DTCC 七月开始有限生产测试,十月广泛上线;Bernstein 解读 CLARITY 法案稳定币收益妥协针对分发方而非发行方,Circle 股价 +20%;CLARITY 法案参议院全院投票时间仍为 2026 年夏天、5 月中之前无确定日期;Swan Bitcoin 因 Prime Trust 转移被起诉近 $1B。
+
+▌infrastructure / 基础设施
+CME BVI 波动率期货仍按 6 月 1 日上线目标,CFTC 审查无更新;VerifiedX 上线 vBTC,1:1 自托管 BTC 锚定 + ZK 隐私层。
+
+▌cycle / 周期
+CoinDesk 引述减半周期理论指向 10 月可能见底(日历参考,非价格预测);Citi 警告 BTC 量子计算风险高于 ETH(长期尾部风险)。
+
+来源:2026-05-19</description>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-19.mp3" length="5950368" type="audio/mpeg"/>
+      <guid isPermaLink="false">btc-2026-05-19</guid>
+      <itunes:duration>8:15</itunes:duration>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-19.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦?! BTC 简报 · 2026-05-18</title>
       <description>今日 BTC 市场:BTC 收报 七万七千零六十一美元,当天下跌百分之一点七,F&amp;G 跌到 28(恐惧),六周 ETF 净流入断点出现,伊朗局势重新主导宏观盘面。
 
