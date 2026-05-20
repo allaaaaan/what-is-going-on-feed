@@ -25,6 +25,29 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-05-21</title>
+      <description>▌AI 模型与能力
+Gemini 3.5 Flash发布、Gemini 3.5 Flash价格上调、Qwen3.7-Max声称超越主流前沿模型、Cerebras运行Kimi K2.6达每秒千token、OpenAI与谷歌采用C2PA/SynthID内容溯源、AI自主生成药物再定向假设、AI模型发布节奏被夸大的分析、OlmoEarth v1.1降低遥感AI三倍成本、NVIDIA LongLive长视频实时生成、本地推理速度门槛的实用参考线、Stable Audio 3高保真音频生成
+
+▌AI 商业与应用
+租用智能掌控上下文(OPINION)、软件工程半人马时代、Google Antigravity 2.0多智能体平台、OpenAI前沿模型领先但Anthropic赢得企业采购、OpenAI向YC创业公司提供API额度换股权、SaaS被智能体颠覆的路线图逻辑、OpenAI推出一至三年容量锁定订阅、AI让此前不经济的消费者服务模型可行、谷歌Gemini消费者智能体全面集成、Oz多云智能体统一控制平面、Claude Code支持HTML上下文格式、Google AI搜索遭提示词注入攻击
+
+▌科技公司动态
+SpaceX计划百亿美元收购Cursor、Karpathy加入Anthropic预训练团队、Polymarket推出私有公司预测市场交易、初创公司增长瓶颈从交付转为学习、创始人返回LLM实验室与机器人公司、Deel年收入十五亿美元同步削减成本与推进AI、AI财富预计释放数千亿慈善资本、谷歌云无预警暂停Railway账户引发迁移讨论、欧盟支付系统Wero用户达一亿三千万、Infomaniak重组为基金会保护用户数据
+
+▌科技生态
+Fortnite回归全球App Store(Epic法律胜诉)、开源项目的五种主要死法、迪士尼关闭FiveThirtyEight抹除二十万小时档案、Tesla Semi验证商用电动重卡经济可行性、Meta在沙特和阿联酋算法压制人权账户、Asm.js从Firefox SpiderMonkey退出标志WebAssembly完全接棒
+
+来源: TLDR AI, TLDR Founders, TLDR, Hacker News</description>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-05-21.mp3" length="10905120" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-05-21</guid>
+      <itunes:duration>15:08</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-05-21.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-05-20</title>
       <description>「又咋啦?!」全集 · 2026年5月20日
 
