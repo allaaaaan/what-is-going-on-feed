@@ -1,0 +1,13 @@
+▌AI / 大模型
+AI代码库人机双读者架构（Basis案例），代理训练框架底层统一机制，预训练不过滤数据的反直觉发现，LiteFrame视频编码效率提升，Meta WavFlow波形空间音频合成，Google Agent Executor开源运行时，Gemini 3.5 Flash正式发布，Runtime沙箱编程代理
+
+▌行业动态 / business & IPOs
+SpaceX纳斯达克IPO计划（SPCX，六月，或史上最大），OpenAI准备IPO申报，Cloudflare裁员超百分之二十替换以AI，Jeff Bezos Project Prometheus人工通用工程师，Anthropic与SpaceX近450亿美元算力协议，Anthropic即将迎来首个盈利季度，便宜AI模型对头部实验室IPO估值的结构性挑战
+
+▌互联网与科技 / internet & tech
+Flipper One监管压力，Google量子优势声明被指夸大，Google搜索新广告格式争议，Vivaldi 8.0发布，Waymo亚特兰大暴雨停服，出版业结构性变化，340余家媒体限制Internet Archive访问
+
+▌science / 科学
+Colossal人工蛋壳实现体外鸟类胚胎发育，Colossal人工子宫百分之百发育成功率
+
+来源：英文科技新闻通讯及社区讨论（2026-05-21）

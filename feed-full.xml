@@ -25,6 +25,29 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-05-22</title>
+      <description>▌AI / 大模型
+AI代码库人机双读者架构（Basis案例），代理训练框架底层统一机制，预训练不过滤数据的反直觉发现，LiteFrame视频编码效率提升，Meta WavFlow波形空间音频合成，Google Agent Executor开源运行时，Gemini 3.5 Flash正式发布，Runtime沙箱编程代理
+
+▌行业动态 / business &amp; IPOs
+SpaceX纳斯达克IPO计划（SPCX，六月，或史上最大），OpenAI准备IPO申报，Cloudflare裁员超百分之二十替换以AI，Jeff Bezos Project Prometheus人工通用工程师，Anthropic与SpaceX近450亿美元算力协议，Anthropic即将迎来首个盈利季度，便宜AI模型对头部实验室IPO估值的结构性挑战
+
+▌互联网与科技 / internet &amp; tech
+Flipper One监管压力，Google量子优势声明被指夸大，Google搜索新广告格式争议，Vivaldi 8.0发布，Waymo亚特兰大暴雨停服，出版业结构性变化，340余家媒体限制Internet Archive访问
+
+▌science / 科学
+Colossal人工蛋壳实现体外鸟类胚胎发育，Colossal人工子宫百分之百发育成功率
+
+来源：英文科技新闻通讯及社区讨论（2026-05-21）</description>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-05-22.mp3" length="11399904" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-05-22</guid>
+      <itunes:duration>15:49</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-05-22.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-05-21</title>
       <description>▌AI 模型与能力
 Gemini 3.5 Flash发布、Gemini 3.5 Flash价格上调、Qwen3.7-Max声称超越主流前沿模型、Cerebras运行Kimi K2.6达每秒千token、OpenAI与谷歌采用C2PA/SynthID内容溯源、AI自主生成药物再定向假设、AI模型发布节奏被夸大的分析、OlmoEarth v1.1降低遥感AI三倍成本、NVIDIA LongLive长视频实时生成、本地推理速度门槛的实用参考线、Stable Audio 3高保真音频生成
