@@ -25,6 +25,35 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-brief.png"/>
     <item>
+      <title>又咋啦？！简报版 · 2026-05-23</title>
+      <description>「又咋啦?!」简报版 · 2026年5月23日
+
+今日简报为纯观点模式，八条内容，每条挑战一个行业默认假设。
+
+接口不再是产品：AI Agent时代，产品价值从UI层转移到底层可被人类和AI共同读写的结构化数据层——谁控制数据模型，谁拥有护城河。
+
+2027职业分水岭：一个时间点预测不一定准，但它反映的共识是真实的：AI替代的速度会超过传统再培训的速度，结构性改变需要提前应对，而不是等待。
+
+IBM把AI Agent当员工管：入职、授权、绩效、退役——这套管理框架的出现标志着AI从"工具"进阶为"基础设施"，围绕它的企业服务市场还几乎空白。
+
+AI创造工作，不消灭工作：历史数据支持这个反直觉结论，但正确的推论不是"所以不用担心"，而是"新工作类别要求完全不同的技能组合"。
+
+Grindslop批判：当苦难表演本身成为创始人合法性的来源，产出质量就退出了评判体系——这是创投文化的一个信号故障。
+
+34%的失败创业公司倒闭前有亮眼数据：牵引力是滞后指标，不是验证。创始人的市场理论质量，比一张增长曲线更值得权重。
+
+前沿实验室算力利用率不足：当前的资本支出是对未来能力的押注，而不是对当前工作负载的响应。支出≠使用率≠价值兑现，三层要分开看。
+
+买GPU服务器还是留在云端：利用率是决定因素。70%利用率时自建合算，30%时是在烧钱。在稳态负载明确之前，云端的灵活性溢价值得付。</description>
+      <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-23.mp3" length="3411360" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-2026-05-23</guid>
+      <itunes:duration>4:44</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-brief.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/brief/2026-05-23.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！简报版 · 2026-05-22</title>
       <description>1. AI代码库的两个读者：人类与代理的需求冲突
 2. 代理训练框架的底层统一机制：同一个闭环
