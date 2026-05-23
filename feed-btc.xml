@@ -19,6 +19,33 @@
     <itunes:category text="Business"/>
     <itunes:summary>每日 BTC 市场简报，从 swing trader 视角解读价格、流动性与重要新闻。</itunes:summary>
     <item>
+      <title>又咋啦?! BTC 简报 · 2026-05-23</title>
+      <description>今日 BTC 市场:现价七万六千五百九十六美元,日涨百分之零点七四,熊市结构延续,200日均线在八万零六百九十二美元上方;恐惧贪婪指数28,Fear。
+
+▌flow / ETF
+现货 BTC ETF 单周净流出十二亿六千万美元、六周流入结束后第二个连续流出周;凌晨破七万五千美元,爆仓接近十亿美元。
+
+▌macro / 利率 + 地缘
+Trump 宣布美伊和平协议基本谈妥、含重开霍尔木兹海峡;Warsh 5月22日就任美联储主席、首次 FOMC 6月16到17日附点阵图。
+
+▌regulation / 监管
+SEC 批准 Nasdaq BTC 指数期权 QBTC,等 CFTC 豁免;ARMA 法案推出含20年锁定期、最多每年20万 BTC;CLARITY 法案早六月日历传闻仍为预期非排程;SEC 代币化股票创新豁免框架推出。
+
+▌derivatives / 衍生品 + 波动率
+BTC 隐含波动率跌至七个月新低;Deribit 5月29日62亿5千万美元期权到期,最大痛点七万五千美元、八万美元看涨期权墙;CME BVI 波动率期货6月1日上线、CFTC 已认证。
+
+▌公司持仓与链上结构
+Saylor 称 Strategy 2026年卖一些 BTC 并非不可能,确认双向姿态;Trump Media 转2650枚 BTC 约2亿500万美元到 Crypto.com,称未售出;SpaceX 招股书披露持1万8712枚 BTC、6月 IPO 融资750亿美元;Glassnode 约5000亿美元 BTC 公钥已暴露面临量子风险,美国政府宣布20亿美元量子计算计划。
+
+来源:2026-05-23</description>
+      <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-23.mp3" length="9748224" type="audio/mpeg"/>
+      <guid isPermaLink="false">btc-2026-05-23</guid>
+      <itunes:duration>13:32</itunes:duration>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-23.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦?! BTC 简报 · 2026-05-22</title>
       <description>今日 BTC 市场:现货收在七万六千零五十六美元,日内跌幅百分之二点一一,空头格局延续,价格仍在 200 日均线下方,恐惧贪婪指数跌至 28(恐惧)。
 
