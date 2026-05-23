@@ -25,6 +25,26 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-05-24</title>
+      <description>▌AI / 大模型
+Anthropic Project Glasswing安全扫描系统（准确率90.6%，62%为未知新漏洞），Microsoft取消内部Claude Code授权（开发者自由选择时几乎全弃Copilot）
+
+▌industry / 行业动态
+日本大企业多元化经营的结构性原因（终身雇佣制与企业专属技能），Bambu Labs违反PrusaSlicer AGPL协议（开源许可合规争议），意大利取消Boeing KC-46订单转向空客A330 MRTT
+
+▌policy / 全球动态
+刚果埃博拉疫情升级为史上第三大爆发（美国撤资削弱全球卫生监测网络），德克萨斯州女性因Facebook批评自来水水质被捕
+
+来源：英文科技新闻通讯及社区讨论（2026-05-23）</description>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-05-24.mp3" length="4697568" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-05-24</guid>
+      <itunes:duration>6:31</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-05-24.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-05-23</title>
       <description>「又咋啦?!」完整版 · 2026年5月23日
 
