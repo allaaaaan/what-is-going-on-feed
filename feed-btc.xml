@@ -19,6 +19,36 @@
     <itunes:category text="Business"/>
     <itunes:summary>每日 BTC 市场简报，从 swing trader 视角解读价格、流动性与重要新闻。</itunes:summary>
     <item>
+      <title>又咋啦?! BTC 简报 · 2026-05-24</title>
+      <description>今日 BTC 市场: 收于七万六千二百三十一美元,跌百分之零点四六,熊市区制持续,恐惧贪婪指数二十五(极度恐惧),多个近期催化剂悬而未决。
+
+▌资金流和 ETF
+现货 BTC ETF 单周流出十二亿六千万美元(今年以来最差单周),两周累计流出二十二亿六千万美元,IBIT 跌破历史累计净流入水位线; Santiment 提示反向积累信号; Mark Cuban 出售持仓
+
+▌宏观和利率
+Warsh 五月二十二日宣誓就任美联储主席,首次联邦公开市场委员会六月十六至十七日(含点阵图); 鹰派传导已被市场定价为 BTC 逆风; 伊美和平谈判仍在进行,布伦特原油约一百零四美元
+
+▌监管
+CLARITY Act 进入全参议院投票阶段,预计六月初,需六十票; ARMA 战略储备法案删除百万枚购买目标改为二十年锁定; 美国证监会批准 Nasdaq PHLX 上市 QBTC 期权,待美国商品期货交易委员会豁免; 特朗普签署加密支付轨道行政令
+
+▌公司持仓
+Saylor 确认 Strategy 二零二六年卖出 BTC"并非不可能"; 可转债回购融资文件首次列入 BTC 出售选项; Trump Media 转移但未售出两亿零五百万美元 BTC; SpaceX 招股书披露持有一万八千七百一十二枚 BTC
+
+▌衍生品
+Deribit 五月二十九日六十二亿五千万美元大到期,最大痛点七万五千美元; CME BVI 波动率期货六月一日上市; CME Nasdaq 加密指数期货六月八日上市
+
+▌基础设施和量子
+Glassnode 映射近五千亿美元 BTC 存在量子攻击敞口; BIP-360/361 后量子迁移协议在测试网推进; 美国商务部投资二十亿美元量子芯片
+
+来源：2026-05-24</description>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-24.mp3" length="14049216" type="audio/mpeg"/>
+      <guid isPermaLink="false">btc-2026-05-24</guid>
+      <itunes:duration>19:30</itunes:duration>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-24.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦?! BTC 简报 · 2026-05-23</title>
       <description>今日 BTC 市场:现价七万六千五百九十六美元,日涨百分之零点七四,熊市结构延续,200日均线在八万零六百九十二美元上方;恐惧贪婪指数28,Fear。
 
