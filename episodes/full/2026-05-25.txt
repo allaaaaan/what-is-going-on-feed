@@ -1,0 +1,10 @@
+▌AI / 大模型
+Aschenbrenner 发文称 AGI 到来被严重低估、DeepSeek 旗舰模型永久降价75%、DeepSeek Reasonix 编程助手97%缓存命中率近零成本、AI 洗白热潮席卷投资叙事、LLM 生成后端代码约束条件系统性衰减研究、内存成本占 AI 芯片制造费用近三分之二
+
+▌security / 安全
+Microsoft 内部营销账户被攻击者用于发送钓鱼邮件
+
+▌open source / 工具
+Firefox 支持 Web Serial API，可直接在浏览器烧录微控制器
+
+来源：英文科技新闻通讯及社区讨论（2026-05-24）
