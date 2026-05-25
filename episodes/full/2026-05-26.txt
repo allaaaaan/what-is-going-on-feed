@@ -1,0 +1,11 @@
+今日涵盖五个主题板块:
+
+**AI / 大模型**:Anthropic 宣布 Claude Mythos 1 即将公开发布并开发 Opus 4.8;Mythos 模型展示自动将漏洞转化为完整攻击链的能力;DeepSeek 将 V4 Pro 75% 折扣变为永久政策,低于主流竞争对手;Anthropic Q2 营收预计达 109 亿美元并有望在 IPO 前盈利;AI 智能体在定性分析中的判断局限;开源多模态模型 Lance 发布(3B 参数,支持图像和视频)。
+
+**AI 落地 / 商业格局**:AI 时代下软件公司的真正壁垒在于专有数据、监管准入和客户深度关系;"产品化服务公司"作为 AI 服务的第三种形态;Meta 让老将 Andrew Bosworth 主导 AI 转型并提供近十亿美元激励;预测 AI 对职业冲击基本不可能——保持适应性更实用;十二家 AI 实验室合并估值超福特通用之和但无产品收入;Uber COO 称大上下文窗口模型成本难以用业务价值证明;AI 工具让开发者生产力可量化,增加了裁员风险。
+
+**AI 工具与平台**:SpaceX 收购 xAI 的 Colossus 数据中心并以每年 150 亿美元租给 Anthropic,AI 基础设施四年半支出预计达 7.5 万亿美元;Model Context Protocol 发布最大规模修订(含破坏性变更,7 月 28 日正式版);ChatGPT 集成进 PowerPoint;Google Docs 推出 AI 语音创建模式;Notion 工程师分享长时间运行编程智能体的经验;基于 DeepSeek 的终端编程智能体 Reasonix;微软取消威斯康星州 244 英亩数据中心建设。
+
+**科技动态**:SpaceX 测试升级版 Starship(助推器和飞船均部分失败);耗资 220 亿美元的国际热核聚变实验堆 ITER;Snap 秋季推出约 2500 美元消费级 AR 眼镜;IBM 分拆出全球首个量子芯片晶圆代工厂;新研究推翻百年升力定理 Kutta-Joukowski;Meta 推出结构化讨论应用 Forum;iMessage API 初创公司 Chert(YC 孵化);AI 智能体驱动的几何绘图工具 Geomatic。
+
+**安全、监管与政策**:黑客组织系统性污染开源工具和 GitHub 实施供应链攻击;Perplexity 开源只读安全扫描工具 Bumblebee;Firefox 为英特尔 Raptor Lake CPU 崩溃漏洞编写绕过补丁;David Sacks 说服特朗普暂缓签署 AI 行政令;2026 年版 HIPAA 安全规则引入强制多因素认证和加密标准;加利福尼亚豁免 Linux 于年龄验证法案;美联储提议为非银行机构简化 Fed 支付账户准入。
