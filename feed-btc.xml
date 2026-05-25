@@ -19,6 +19,39 @@
     <itunes:category text="Business"/>
     <itunes:summary>每日 BTC 市场简报，从 swing trader 视角解读价格、流动性与重要新闻。</itunes:summary>
     <item>
+      <title>又咋啦?! BTC 简报 · 2026-05-25</title>
+      <description>今日 BTC 市场: BTC 收盘七万七千三百三十六美元,上涨百分之一点五,受伊朗和平协议声明提振,但现货格局仍为熊市,价格低于两百日均线,恐惧贪婪指数三十。
+
+▌on-chain / 链上
+Satoshi 时代矿工转移两千六百五十枚 BTC 至场外交易商,晚期周期供给信号
+
+▌macro / 利率 / 地缘
+特朗普宣布伊朗和平协议基本谈妥,驱动今日反弹;特朗普签署行政令要求审查加密公司支付通道; Warsh 首次联邦公开市场委员会会议六月十七日,鹰派预期
+
+▌corporate treasury / 公司国库
+特朗普媒体转移两千六百五十枚 BTC 至 Crypto.com; SpaceX IPO 披露持有一万八千七百一十二枚 BTC; Strategy 可转债回购完成,出售 BTC 路径尚未关闭
+
+▌product / 衍生品
+Nasdaq 计划推出 QBTC 期权; CME BVI 波动率期货六月一日上线; Deribit 五月二十九日六十二亿五千万美元到期,最大痛点七万五千美元
+
+▌flow / ETF
+现货 BTC ETF 连续六日净流出,累计十五亿五千万美元,全年净流入仅剩五亿三千六百万美元;轮动叙事与净流出数据并存
+
+▌regulation / 监管
+ARMA 法案(战略储备)新版本降低购买目标,增加锁仓; SEC Peirce 收窄代币化股票豁免; CLARITY 法案地板表决时间待定;SEC 链上立规路线图;日本 LDP 链上金融提案;欧盟 MiCA 审查咨询开启
+
+▌cycle / 周期
+Glassnode:约五千亿美元 BTC 面临未来量子计算攻击风险
+
+来源：2026-05-25</description>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-25.mp3" length="13870944" type="audio/mpeg"/>
+      <guid isPermaLink="false">btc-2026-05-25</guid>
+      <itunes:duration>19:15</itunes:duration>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-25.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦?! BTC 简报 · 2026-05-24</title>
       <description>今日 BTC 市场: 收于七万六千二百三十一美元,跌百分之零点四六,熊市区制持续,恐惧贪婪指数二十五(极度恐惧),多个近期催化剂悬而未决。
 
