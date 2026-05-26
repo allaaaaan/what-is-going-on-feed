@@ -1,0 +1,13 @@
+二〇二六年五月二十七日 完整版节目摘要
+
+**AI / 大模型**
+X 平台推出 Grok Build AI 编程 Agent；Google 发布 Gemini 3.5 Flash（速度提升 4 倍）；OpenAI GPT-5.6 预计六月发布；Google DeepMind AlphaProof Nexus 独立解决九道数学开放难题；DeepSeek 发布低成本编程 Agent Reasonix；Apple iOS 27 升级 Genmoji 与 Image Playground。
+
+**AI 行业动态**
+AI 产品评估从跑分转向实际工作流适配度；科技行业用绩效管理框架包装裁员的趋势分析；Karpathy：工程师角色从写代码转向定义问题与验证价值；微软削减 Claude Code 授权、强制迁移至 GitHub Copilot CLI；高盛 CEO 称 AI 失业担忧被夸大；Uber COO 承认 AI 推理支出难以量化 ROI；微软发布 Webwright 浏览器自动化框架；Qbee AI Agent 以客户成功副总裁身份落地；AI 硬件瓶颈从算力转向内存灵活性；AI 扩大科研流程参与但问题定义仍属人类；DeepSeek 定位中国万亿美元 AI 生态锚点；AI 解锁预测市场决策基础设施。
+
+**科技前沿**
+日本 JAXA 完成 Mach 5 冲压发动机地面测试；Ferrari 发布 Jony Ive 操刀的 64 万美元纯电超跑 Luce；华为声称 2031 年实现 1.4nm 制造密度；IBM 量子芯片部门独立为商业代工厂；航空工程基础原理被推翻。
+
+**行业与监管**
+荷兰没收 800 台网络攻击基础设施服务器；微软威斯康星州数据中心扩建因社区反对取消；加州年龄验证法豁免 Linux 等开源操作系统；Firefox 修复 Intel Raptor Lake 处理器崩溃问题。
