@@ -19,6 +19,36 @@
     <itunes:category text="Business"/>
     <itunes:summary>每日 BTC 市场简报，从 swing trader 视角解读价格、流动性与重要新闻。</itunes:summary>
     <item>
+      <title>又咋啦?! BTC 简报 · 2026-05-26</title>
+      <description>今日 BTC 市场: BTC 收报七万五千九百九十九美元,下跌百分之一点七,伊朗局势再度升温完全反转昨日和平反弹,现货熊市格局延续,F&amp;G 三十四分处于恐惧区间。
+
+▌options / 期权
+Deribit 五月二十九日七十五亿美元到期合约——七万五千美元最大痛点形成重力锚;CME BVI 比特币波动率期货六月一日上线确认,美国商品期货交易委员会自我认证完成;BTC 本周一度跌破七万五千美元
+
+▌flow / ETF
+全球加密 ETP 上周净赎回十四点七亿美元(今年最大单周流出);BTC 和以太币 ETF 今日再度净流出一点一二亿美元;Hyperliquid HYPE 代币 ETF 连续八日净流入;ChatGPT 集成 MoonPay 支持 BTC 购买
+
+▌macro / 利率 / 地缘
+美国对伊朗实施"自卫性"打击,布伦特原油反弹至九十九美元;三十年期美债收益率百分之五点一九(二零零七年以来最高);摩根大通预测美联储二零二六年全年不降息;Warsh 首次联邦公开市场委员会会议仍定于六月十七日
+
+▌regulation / 监管
+特朗普签署加密支付通道行政令,美联储九十天内审查主账户申请;ARMA 法案提出一百万枚 BTC 战略储备提案;Nasdaq QBTC 获 SEC 批准,等待美国商品期货交易委员会豁免裁定;美国证监会推迟代币化资产豁免;欧盟开启 MiCA 公众咨询;日本自民党发布链上金融提案;CLARITY 法案通过参议院程序性关口
+
+▌corporate-treasury / 企业国库
+Strategy 确认十五亿美元可转债回购全部动用现金储备,未售出任何 BTC,现金剩余约八点七一亿美元;其他企业合计购入六百零三枚 BTC;Trump Media 转移两亿零五百万美元 BTC 但未出售;Strive 完成八千五百四十万美元 BTC 购入
+
+▌on-chain / 链上
+CryptoQuant 三十日表观需求指标跌至去年十二月以来最差;Satoshi 纪元大鲸转移约两亿美元 BTC 至 FalconX 和 Cumberland
+
+来源：2026-05-26</description>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-26.mp3" length="14104224" type="audio/mpeg"/>
+      <guid isPermaLink="false">btc-2026-05-26</guid>
+      <itunes:duration>19:35</itunes:duration>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-26.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦?! BTC 简报 · 2026-05-25</title>
       <description>今日 BTC 市场: BTC 收盘七万七千三百三十六美元,上涨百分之一点五,受伊朗和平协议声明提振,但现货格局仍为熊市,价格低于两百日均线,恐惧贪婪指数三十。
 
