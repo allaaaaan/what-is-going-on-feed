@@ -19,6 +19,36 @@
     <itunes:category text="Business"/>
     <itunes:summary>每日 BTC 市场简报，从 swing trader 视角解读价格、流动性与重要新闻。</itunes:summary>
     <item>
+      <title>又咋啦?! BTC 简报 · 2026-05-27</title>
+      <description>今日 BTC 市场: BTC 跌至七万四千四百七十九美元(-1.91%),三个独立供给压力信号同日汇聚——周期最大单笔机构 IBIT 暗池抛售、链上表观需求跌至十四个月最低、伊朗停火期间美军再次打击伊朗导弹阵地。
+
+▌资金流和 ETF
+IBIT 十三亿美元暗池大单创周期纪录;BTC/以太币 ETF 净流出三亿三千四百万美元;Hyperliquid HYPE 代币 ETF 八连涨;Swissblock 综合卖出压力指标首次进入高风险区间;Deribit 五月二十九日六十二亿五千万美元期权到期,最大痛点七万五千美元;CME 比特币波动率期货(BVI)六月一日上线倒计时五天
+
+▌链上
+CryptoQuant 表观需求负十四万七千枚,为 2025年十二月以来最弱;矿工单日向 Binance 转入两万枚;恐惧贪婪指数二十五,极度恐慌;BTC 跌破 M2 公允价值趋势线
+
+▌地缘政治
+美军五月二十五至二十六日对伊朗导弹阵地实施防御性打击;停火框架维持但稳定性动摇;美股同日创新高形成跨市场背离
+
+▌宏观
+稳定币市值三千二百二十亿美元超过全球九十五国外汇储备;GENIUS 法案推高稳定币对 BTC 货币溢价的替代压力;USDT/USDC 市场份额升高;Warsh 首次联邦公开市场委员会六月十六至十七日,97% 概率不动
+
+▌监管
+美国证监会代币化股票豁免规则被 Nasdaq/纽交所/芝加哥期权交易所叫停延期
+
+▌企业
+Nakamoto BTC 国库公司年初至今跌百分之六十七;Strategy 十五亿美元可转债回购以现金完成,无 BTC 出售确认
+
+来源：2026-05-27</description>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-27.mp3" length="15513984" type="audio/mpeg"/>
+      <guid isPermaLink="false">btc-2026-05-27</guid>
+      <itunes:duration>21:32</itunes:duration>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-27.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦?! BTC 简报 · 2026-05-26</title>
       <description>今日 BTC 市场: BTC 收报七万五千九百九十九美元,下跌百分之一点七,伊朗局势再度升温完全反转昨日和平反弹,现货熊市格局延续,F&amp;G 三十四分处于恐惧区间。
 
