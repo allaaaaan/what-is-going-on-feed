@@ -1,0 +1,16 @@
+▌AI / 大模型
+Tech CEO AI 焦虑症、Anthropic 和 OpenAI 找到产品市场契合点并上调 API 定价、Cognition Devin 二百六十亿美元估值融资、OpenAI Codex 自改进税务 Agent、ElevenLabs Music v2 动态风格切换、Claude 语音扩展十八种语言、Google Gemini 可共享 Projects、Delta Weight Sync 压缩分布式训练带宽、CZ Biohub 开放蛋白质结构预测工具
+
+▌行业动态 / industry
+Nvidia 宣布每年千五百亿美元深化台湾合作、Google AI Overview 促 DuckDuckGo 流量暴增百分之二十八、YouTube 自动标注 AI 生成视频、Last.fm 独立运营、Steam Deck 全线涨价、加拿大从瑞典采购军用飞机、Google 员工 Polymarket 内幕交易被诉
+
+▌AI工具 / developer ecosystem
+OpenAI Secure MCP Tunnel 私有服务器接入、GitHub 大规模服务中断、Cloudflare Flagship 开发者平台、Apex React Native 专用编程模型、NVIDIA LocateAnything 并行视觉定位、PostHog 自训练 AI 模型与数据默认参与争议
+
+▌太空 & 机器人 / space & robotics
+SpaceX 二万亿美元估值分析、SpaceX 赢得美国太空军二十九亿美元天基感知合同、Tesla Optimus 机器人工厂正式动工
+
+▌消费者科技 / consumer tech
+Apple 和 Google 设备端 AI 重写推送通知、Apple iPhone 防抢锁定功能开发中、AI 时代垂直整合的护城河
+
+来源：英文科技新闻通讯及社区讨论（2026-05-28）
