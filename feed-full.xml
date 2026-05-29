@@ -25,6 +25,27 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-05-30</title>
+      <description>今天的完整版涵盖以下内容：
+
+AI 与大模型：Anthropic 完成六百五十亿美元 H 轮融资，估值接近一万亿美元，同步发布 Claude Opus 4.8（动态工作流、可调 effort level、Fast Mode）；Anthropic 与 SpaceX 计算合同细节存在公开表述矛盾；Microsoft 自研 AI 编程模型与 Anthropic 竞争；开源模型落后闭源四到六个月且差距在扩大；Cursor 等工具借助 prompt caching 将 token 成本压缩六到八成；Anthropic 与 OpenAI 在企业 AI 编程工具上实现 PMF；AI 实验室将横向能力平台化，创业机会向垂直纵深转移；YouTube 宣布对 AI 生成内容自动打标签；AI 产品留存关键在 adoption 设计而非模型能力；LLM 适合做客户洞察的模式识别，但不能替代人类客户发现。
+
+Infrastructure 与基础设施：MiniMax M3 稀疏注意力机制使长上下文解码提速十五点六倍；SpaceX 自研 C 语言 AI 训练栈实现十倍提速；ByteDance 与 Mistral 均在自研 AI 芯片；Slack 迁移 Bedrock 降低运营成本；AWS 以随机图理论重构数据中心网络；Amazon OpenSearch Serverless 升级支持向量搜索；生产 AI 系统七大核心组件框架；企业 AI 工具加速整合至少数平台。
+
+行业与公司动态：Apple iOS 27 全面重构 Siri 为 chatbot 界面；Waymo 第六代 Robotaxi 降成本覆盖六城市；Meta 开拓订阅与 B2B Enterprise 多元收入；IBM 五年投入一百亿美元布局容错量子计算；JD.com 创始人承诺自动化不裁减九十万员工；欧盟依据 DSA 对 Temu 开出两亿欧元罚款；Apple 与 Google 推送通知数据处理机制调查。
+
+商业与创业：AI 成本管理需挂钩具体业务产出；AI 移除资源约束导致过度工程化风险；YC：种子期不要过早追求防御性；YC CEO 论"启蒙的见证者"对创始人的价值；围绕具体项目而非 JD 招聘；薪酬校准会议的政治结构与晋升偏差。
+
+行业观察（观点）：PM 在 AI 时代的角色分化；agent 架构的可观测性盲区；NVIDIA γ-World 多主体世界模型研究进展；Sakana Labs 逐块训练方法绕开反向传播全局依赖；AI 数据稀缺的真正瓶颈是高质量标注而非原始数据量。</description>
+      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-05-30.mp3" length="12536352" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-05-30</guid>
+      <itunes:duration>17:24</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-05-30.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-05-29</title>
       <description>▌AI / 大模型
 Tech CEO AI 焦虑症、Anthropic 和 OpenAI 找到产品市场契合点并上调 API 定价、Cognition Devin 二百六十亿美元估值融资、OpenAI Codex 自改进税务 Agent、ElevenLabs Music v2 动态风格切换、Claude 语音扩展十八种语言、Google Gemini 可共享 Projects、Delta Weight Sync 压缩分布式训练带宽、CZ Biohub 开放蛋白质结构预测工具
