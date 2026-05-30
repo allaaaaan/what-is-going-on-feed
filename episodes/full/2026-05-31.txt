@@ -1,0 +1,13 @@
+▌AI / 大模型
+OpenRouter 完成 $113M B 轮融资, Mistral AI 发布多模态新模型并大幅降价, MCP 协议的两层解析:运行时分叉 vs 工具清单层已成事实标准
+
+▌AI 经济与就业
+"死亡经济理论":AI 导致 GDP 与就业脱钩的宏观风险框架, AI 面试官取代第一轮技术面试的趋势与双边市场代价, 2026 年应用开发现状:React Native/Flutter 主流、AI 工具带来 2-3 倍开发效率提升
+
+▌行业动态
+Accenture 以 $1.2B 收购 Speedtest 和 Downdetector, SQLite 足以支撑生产级工作流编排的反直觉论证
+
+▌科学与硬件
+更年期后记忆衰退根源在大脑局部雌激素分泌减少, IXI 自动对焦眼镜等待医疗认证, Prusa ColorMix 开源插件实现无需换硬件的多色 3D 打印
+
+来源：Hacker News（2026-05-30）
