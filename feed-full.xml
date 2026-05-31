@@ -25,6 +25,29 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-06-01</title>
+      <description>▌AI / 大模型
+网站「代理兼容性」规范引发热议、数据中心旧 GPU 二手价两百至九百五十美元可跑本地大模型、Bonsai Image 4B 一比特量化图像生成模型可在消费级设备本地运行、Odysseus 开源自托管 AI 工作空间
+
+▌健康 / 科学
+肌酸补剂综述发现可能降低早期阿尔茨海默症认知衰退约百分之三十、daraxonrasib 口服药临床试验将胰腺癌存活时间翻倍、胰岛素泵度假途中死机揭露医疗系统横向连接缺失
+
+▌video / media standards
+AV2 视频编解码标准发布最终 v1.0 规范(Apple Google Meta Netflix Microsoft Amazon 联合背书)、开源 AV2 解码器 dav2d 启动开发
+
+▌privacy &amp; tech
+Cloudflare Turnstile 依赖 WebGL GPU 指纹识别致隐私浏览器用户被封锁、纽瓦克联合航空 767 因乘客蓝牙设备命名「bomb」折返
+
+来源：英文科技新闻通讯及社区讨论（2026-05-31）</description>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-06-01.mp3" length="6241536" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-06-01</guid>
+      <itunes:duration>8:40</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-06-01.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-05-31</title>
       <description>▌AI / 大模型
 OpenRouter 完成 $113M B 轮融资, Mistral AI 发布多模态新模型并大幅降价, MCP 协议的两层解析:运行时分叉 vs 工具清单层已成事实标准
