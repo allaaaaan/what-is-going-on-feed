@@ -19,6 +19,36 @@
     <itunes:category text="Business"/>
     <itunes:summary>每日 BTC 市场简报，从 swing trader 视角解读价格、流动性与重要新闻。</itunes:summary>
     <item>
+      <title>又咋啦?! BTC 简报 · 2026-05-31</title>
+      <description>今日 BTC 市场: BTC 收七万三千八百六十美元,跌百分之零点一,熊市体制持续,两百日均线在七万九千五百五十九美元,恐惧贪婪指数二十八。
+
+▌资金流和 ETF
+BTC 现货 ETF 创历史最长十天净流出记录、累计约三十亿美元;十二点六亿美元 IBIT 暗池大宗交易确认为大型投资者快速离场;瑞波币 ETF 五月下旬逆势流入三千五百万美元,BTC 和以太币 ETF 合计流出约二十亿美元;BTC 一度跌破七万三千美元,加密市场爆仓约十亿美元
+
+▌链上和周期
+CryptoQuant 三十日表观需求降至负十四万七千 BTC,为二〇二五年十二月以来最弱;BTC 鲸鱼活动与二〇二二年熊市高度相似,大户积累踪迹缺失
+
+▌基础设施和衍生品
+美国商品期货交易委员会正式批准 Kalshi 推出首个美国受监管 BTC 永续合约 BTCPERP;CME 比特币波动率期货 BVI 明日六月一日上线;Kraken 宣布计划在一个月内推出受监管美国永续合约产品
+
+▌企业国库
+Arca 高管指出 Strategy 一百五十亿美元优先股本金压力;德克萨斯州为 BTC 战略储备委员会任命 CleanSpark 和矿业 CEO
+
+▌宏观和地缘政治
+美伊谈判处于"名义停火但双方均有违规"的部分解决状态;加密资产滞涨于股市九连周上涨背景之外;Santiment 报告今年最高多空偏向比
+
+▌监管
+美国证监会代币化股票创新豁免框架仍在重新修订中
+
+来源：2026-05-31</description>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-31.mp3" length="13536288" type="audio/mpeg"/>
+      <guid isPermaLink="false">btc-2026-05-31</guid>
+      <itunes:duration>18:48</itunes:duration>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-31.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦?! BTC 简报 · 2026-05-30</title>
       <description>今日 BTC 市场: BTC 收盘 73,964 美元(+0.6%),熊市格局不变,创纪录 10 日 ETF 流出、伊朗地缘冲击与链上需求低迷三重压力并存。
 
