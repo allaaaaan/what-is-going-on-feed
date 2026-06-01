@@ -1,0 +1,18 @@
+今天是 2026 年 6 月 2 日的「又咋啦?!」完整版,覆盖以下话题:
+
+▌ AI / 大模型
+Apple 计划推出 200–500 美元智能眼镜，直接对标 Luxottica 等传统眼镜品牌；Nvidia 与 Microsoft 联合推出 ARM 架构 Windows 笔记本芯片（N1 / N1X），最高支持 128GB 内存、本地运行 AI 智能体；Meta 测试 AI 挂件并计划年底推出四款新智能眼镜；Microsoft Build 2026 将发布统一版 Copilot 超级应用，整合 GitHub Copilot、Cowork 和 Scout；MiniMax 发布开放权重模型 M3，支持百万 token 上下文、图像/视频输入与桌面操控；Nvidia Computex 2026 阵容曝光，涵盖 N1X 笔记本芯片与 Vera Rubin 数据中心平台；Bonsai Image 4B 图像生成模型可在 iPhone 本地运行；xAI 发布 Grok Build 0.1，面向 agentic 编程任务，定价每百万输入 token 1 美元。
+
+▌ AI 产业 / 策略
+深度探讨 AI 时代软件产品的护城河——通用模型能做六成，剩余四成业务细节才是真正的防线；平台建设逻辑逆转，下一代平台更像云厂商而非 SaaS；B2B 竞争优势从产品迁移到分发；AI 采购考核从 token 用量转向可量化 ROI；AI 智能体评估基础设施供不应求，成为有定价权的细分市场；Anthropic 内部技术栈披露；前 DeepMind 研究员创立 Inherent 获 5000 万美元种子融资，用 AI 设定科研优先级；OpenAI 发布 GPT-5.5 第三方评估指南。
+
+▌ 智能体 / 开发者生态
+"背压"机制引入 AI 工作流，帮助智能体自我质量门控；Headroom 开源上下文压缩工具降低 token 成本；Deliberate 智能体审计工具覆盖合规与调试场景；Cognition 披露 Devin 生产验证方法——10–20 个并发实例加强制自动化测试；Workday 案例揭示企业 AI 失败主因是权限架构而非模型能力。
+
+▌ 行业 / 劳动力 / 航天
+Blue Origin New Glenn 最新测试失败，发射台严重损毁，NASA 月球计划延误至少一年；SpaceX Starfall 无人再入飞行器获 FAA 批准，面向在轨制造与点对点货运；付薪试用正替代算法笔试成为硅谷新面试形式；MicroAGI 在纽约提供免费清洁服务换取机器人训练数据；技术实习岗位自 2023 年减少 30%，入门路径收窄。
+
+▌ 科学与见闻
+肌酸补充可使阿尔茨海默症认知衰退减慢约 30%；Cloudflare Turnstile 引入 WebGL GPU 指纹识别；口服新药使胰腺癌两年生存率从约 15% 提升至约 35%；AV2 视频编码标准 1.0 发布，同等画质压缩率比 AV1 高 25–30%，dav2d 同步支持；格密码学正从 NIST 标准走向主流云厂商部署；美联航 767 因蓝牙设备名触发安全警报备降；研究发现网页 JavaScript 可通过 SSD 时序推断用户后台 I/O 活动。
+
+来源：TLDR Newsletter · Hacker News
