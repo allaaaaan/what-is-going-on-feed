@@ -19,6 +19,33 @@
     <itunes:category text="Business"/>
     <itunes:summary>每日 BTC 市场简报，从 swing trader 视角解读价格、流动性与重要新闻。</itunes:summary>
     <item>
+      <title>又咋啦?! BTC 简报 · 2026-06-01</title>
+      <description>今日 BTC 市场: BTC 收跌百分之三点六至七万一千美元，价格处于二百日均线下方约八千两百美元的熊市格局，多重压力同步叠加。
+
+▌flow / ETF
+美国现货 BTC ETF 净流出连续第十个交易日，累计约三十亿美元，创上市以来最长流出纪录；年初至今累计净流量首次转负；贝莱德 IBIT 上周净流出逾十二亿美元；BTC 与纳斯达克 AI 涨势明显去相关。
+
+▌corporate treasury / 企业国库
+Strategy 出售三十二枚 BTC 用于支付 STRC 优先股股息，自二〇二二年以来首次披露净减仓；分析师称规模"无足轻重"，持仓八十四万三千七百零六枚；股息融资路径正式确认为真实选项。
+
+▌infrastructure / 基础设施
+CME 比特币波动率期货（BVI）今日上市，首个美国受监管 BTC 纯波动率产品；美国商品期货交易委员会批准 Kalshi 上市首个美国境内受监管 BTC 永续合约，并向 Coinbase 百慕大发出无异议函；Kraken 计划三十天内跟进。
+
+▌regulation / 监管
+日本自民党支持加密 ETF 及日元稳定币；Paxos 获美国证监会批准成为首家区块链中央证券存管机构；美国证监会推迟代币化股票沙盒豁免；Dimon 升级对 CLARITY 法案稳定币收益条款的反对。
+
+▌geopolitics / 地缘
+伊朗暂停美伊和平谈判，援引以色列黎巴嫩行动违反停火；美国中央司令部拦截两枚伊朗弹道导弹；特朗普坚称谈判推进，双方表态矛盾。
+
+来源：2026-06-01</description>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-06-01.mp3" length="9257472" type="audio/mpeg"/>
+      <guid isPermaLink="false">btc-2026-06-01</guid>
+      <itunes:duration>12:51</itunes:duration>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-06-01.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦?! BTC 简报 · 2026-05-31</title>
       <description>今日 BTC 市场: BTC 收七万三千八百六十美元,跌百分之零点一,熊市体制持续,两百日均线在七万九千五百五十九美元,恐惧贪婪指数二十八。
 
