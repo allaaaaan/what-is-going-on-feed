@@ -19,6 +19,33 @@
     <itunes:category text="Business"/>
     <itunes:summary>每日 BTC 市场简报，从 swing trader 视角解读价格、流动性与重要新闻。</itunes:summary>
     <item>
+      <title>又咋啦?! BTC 简报 · 2026-06-02</title>
+      <description>今日 BTC 市场:收盘价六万七千美元,单日跌百分之六点一,为四月以来最大单日跌幅,恐惧贪婪指数二十三(极度恐慌),三重触发叠加——Strategy 自二零二二年首次减持 BTC、ETF 连续第十天净流出、AI 资金轮动——导致八亿美元连环爆仓。
+
+▌supply / 企业库存
+Strategy 出售三十二个 BTC 支付优先股股息(首次),Mt. Gox 冷钱包转出七亿四千万美元,企业国库流入跌至二零二四年以来最低,Strive 反向增持两千五百个 BTC
+
+▌flow / ETF
+美国现货 BTC ETF 连续十天净流出创纪录,累计流出二十九点六亿美元,年初至今转负;衍生品资金费率为负,未平仓合约高位,爆仓八亿美元
+
+▌macro / 利率
+AI 资金轮动为结构性下跌驱动力(K33 Research 诊断),伊朗美国六十天框架协议达成待 Trump 批准,布伦特原油五月跌百分之十九,Warsh 联储首次会议六月十六至十七日(无新进展)
+
+▌cycle / 周期
+Glassnode 月度已实现市值变化率跌至近零,表观需求跌破三十日均线,百分之五十九点八的 BTC 供应处于盈利状态
+
+▌regulation / 监管
+众议院金融服务委员会将代币化列为下一立法重点,Sanders/Warren 向劳工部施压限制 401K 加密入场,Grayscale HYPE ETF 获批预期迫近
+
+来源：2026-06-02</description>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-06-02.mp3" length="11740608" type="audio/mpeg"/>
+      <guid isPermaLink="false">btc-2026-06-02</guid>
+      <itunes:duration>16:18</itunes:duration>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-06-02.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦?! BTC 简报 · 2026-06-01</title>
       <description>今日 BTC 市场: BTC 收跌百分之三点六至七万一千美元，价格处于二百日均线下方约八千两百美元的熊市格局，多重压力同步叠加。
 
