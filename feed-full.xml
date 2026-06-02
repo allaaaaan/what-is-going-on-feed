@@ -25,6 +25,29 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-06-03</title>
+      <description>今日完整版内容涵盖六大板块。
+
+新模型与前沿能力：NVIDIA 发布开放权重大模型 Nemotron 3 Ultra（五千五百亿参数）；阿里巴巴推出多模态智能体 Qwen3.7-Plus；xAI 前 Nvidia Cosmos 负责人分享视频智能体前沿判断；NVIDIA 开源物理 AI 基础模型 Cosmos 3；JetBrains 发布代码专属大模型 Mellum 2；OpenAI 模型及 Codex 通过 AWS 和 Amazon Bedrock 全面可用；Perplexity 推出 Search as Code SDK；Mistral 发布开源 Search Toolkit。
+
+AI 基础设施与算力：Apollo、Blackstone 为 Anthropic 组建三百六十亿美元算力私人信贷工具；高盛预测2030年 AI token 消耗增长二十四倍；Alphabet 计划筹集八百亿美元扩展 AI 基础设施；Intel Crescent Island GPU 以更低成本挑战 NVIDIA；美国商务部堵住中国企业绕过芯片出口管制的漏洞；Hacker News 论点：十年旧 Xeon 服务器足以满足多数 AI 推理需求；NVIDIA 推出消费级个人 AI 电脑 RTX Spark。
+
+AI 产品与开发者：AI 功能的"完成"定义已从测试通过转向分布式验收与预演式回滚；代码速度加快而产品市场契合并未跟上的生产力幻觉；NVIDIA 推出三十余款智能体原生 PC；AI 代码工具市场2031年将达三百亿美元，Microsoft 和 Google 强势入局；Cursor 扩展 Teams 计划使用上限；Microsoft 推出高端 Surface Laptop Ultra。
+
+IPO / 资本浪潮：Anthropic 向 SEC 提交保密 IPO 注册申请；2026年迎来 Anthropic、OpenAI、SpaceX 的密集上市潮；Anthropic 与 OpenAI 上市先后顺序将决定两者的资本优势；SpaceX 筹备史上规模最大 IPO，员工无锁定期持股；Airwallex 以一百二十亿美元估值完成新融资。
+
+AI 与金融科技：道明银行 AI 将抵押贷款预审从十五小时压缩到三分钟；私人金融科技估值是主要上市金融科技公司的三倍；Saris 获二千八百八十万美元 A 轮融资，实现银行贷款合规七成自动化；Visa、Mastercard 将 AI 智能体视为交易量净增长引擎。
+
+其他值得关注：阻碍应届毕业生就业的主因是远程工作政策而非 AI；Moderna 获五千万美元开发 Bundibugyo 埃博拉 mRNA 疫苗；比亚迪等中国车企竞相在2027年前量产全固态电池；Instagram 账户劫持漏洞已修复，但揭示 AI 客服的新攻击面；Red Hat 云服务基础设施中发现恶意 npm 包。</description>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-06-03.mp3" length="10487808" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-06-03</guid>
+      <itunes:duration>14:33</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-06-03.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-06-02</title>
       <description>今天是 2026 年 6 月 2 日的「又咋啦?!」完整版,覆盖以下话题:
 
