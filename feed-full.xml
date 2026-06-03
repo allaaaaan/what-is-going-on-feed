@@ -25,6 +25,32 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-06-04</title>
+      <description>▌AI / 大模型
+Memory as AI architecture foundation (Sentra CEO)、Perplexity hybrid local-cloud inference、MiniMax M3 open-weights frontier model、Claude Opus 4.8 system card、Bonsai Image 4B on-device diffusion、Grok Build 0.1 coding API、Microsoft MAI models (independence from OpenAI)、Agent memory reliability survey (57–71% contamination)、Open vs. closed model exponentials、Visual AI shifting to code generation
+
+▌tools / 开发者
+PostHog AI agent finds 3-year-old ClickHouse bug、Vercel on inference theft and rate-limit failures、Backpressure pattern for agent self-validation、AI agent eval infra bottleneck ($500K SAP sims)、Microsoft Copilot super app consolidation、OpenAI third-party eval standards guide、Devin async parallel testing、AI dev tools primitives market、Codex Sites + role-specific plugins、GitHub 1,400% agent-generated code surge、Stop building Foxconn factories for agents、Bigset: prompts to live datasets、Coreutils for Windows、Perplexity search as code generation
+
+▌AI 产业 / 商业
+Economist: can markets absorb Anthropic + SpaceX + OpenAI IPOs simultaneously、Anthropic IPO amid AI spending backlash (40% see &lt;10% savings)、SpaceX valued at $780B, half IPO target、App layer defensibility post-commoditization、The Distribution Era in B2B software、AI cost discipline and ROI scrutiny、Code isn't product (attention saturation)、Workday $1.1B AI interface acquisition、Death of the three-act enterprise playbook、YC Spring 2026 batch、Founders building in public: three patterns、AI startup release cadence as moat、Writing culture as competitive advantage、Team Topologies for organizational agency、Adafruit IP demand from Flux.ai、Project Glasswing expanding to 150 partners
+
+▌jobs / 劳动力
+Paid multi-day trials replacing technical interviews、AI kills 30% of tech internships since 2023、Box hiring 100+ for AI pivot、Google paying Play Store devs for codebase access
+
+▌science / 物理世界
+NVIDIA N1X laptop chip + Vera Rubin datacenter platform、Blue Origin New Glenn catastrophic failure (1-year delay)、German startup trading free cleaning for robot training data、Humanoid robot hands as physical AI benchmark、Microsoft Project Solara agent-native hardware、Long March 12B reusability tests + Majorana 2 quantum (12 qubits, 20s coherence)、Inherent $50M for AI-driven scientific question prioritization
+
+来源：英文科技新闻通讯及社区讨论（2026-06-04）</description>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-06-04.mp3" length="10949472" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-06-04</guid>
+      <itunes:duration>15:12</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-06-04.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-06-03</title>
       <description>今日完整版内容涵盖六大板块。
 
