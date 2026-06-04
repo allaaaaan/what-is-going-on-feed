@@ -25,6 +25,29 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-06-05</title>
+      <description>▌AI / 大模型
+DeepSeek 首轮融资七十亿美元，Meta Muse Spark 发布时间仍未确定，Google 发布可在消费级笔记本运行的 Gemma 4 12B，Ideogram 第四代开源文生图模型支持空间布局控制，Google Labs 推出读取个人 Google 数据的推荐应用 Dreambeans，OpenAI 投资 AI 原生硬件公司 Opal Electronics，Anthropic Claude Code 团队公开分享 AI 原生工程组织重构实践
+
+▌AI 产业 / 商业
+Anthropic 秘密提交 IPO 申请或抢在 OpenAI 前上市，同步扩大 Claude 企业合作伙伴认证网络，Meta 在三大平台推出企业 AI 代理，Morgan Stanley 向外部 AI 代理开放财富管理平台，Microsoft 引入"平均 token 用量"效率指标，Google 允许网站选择退出 AI 生成搜索摘要，高德纳咨询报告显示 CFO 正将 AI 嵌入运营模式，Goldman Sachs 报告 AI 数据中心融资主导今年杠杆融资市场
+
+▌科技行业 / 大事件
+SpaceX IPO 定价每股一百三十五美元创史上最大 IPO 纪录，Blue Origin 新格伦火箭计划年底前恢复发射，中美人形机器人训练数据采集策略对比，Apple MacBook Neo 产量目标从五百万上调至一千万台，Apple 可穿戴路线图收缩为 2027 年 AI 眼镜与 2029 年 AR 智能眼镜两款，Apple iOS 27 新增拍照分账功能，Microsoft 通过 WinGet 向 Windows 原生引入 Unix 命令行工具
+
+▌fintech / 支付
+Visa 投资 Replit 并将支付基础设施集成进开发环境，Wise 遭比利时检察官洗钱调查涉及逾五亿欧元可疑交易，Klarna 向英国会员服务加入数字健康咨询，OpenFX 收购荷兰支付商 Embed 进入欧洲经济区，fintech 行业从功能迭代速度转向可衡量用户成果
+
+来源：2026-06-04</description>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-06-05.mp3" length="7687008" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-06-05</guid>
+      <itunes:duration>10:40</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-06-05.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-06-04</title>
       <description>▌AI / 大模型
 Memory as AI architecture foundation (Sentra CEO)、Perplexity hybrid local-cloud inference、MiniMax M3 open-weights frontier model、Claude Opus 4.8 system card、Bonsai Image 4B on-device diffusion、Grok Build 0.1 coding API、Microsoft MAI models (independence from OpenAI)、Agent memory reliability survey (57–71% contamination)、Open vs. closed model exponentials、Visual AI shifting to code generation
