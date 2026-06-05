@@ -25,6 +25,32 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-06-06</title>
+      <description>▌AI / 大模型
+大语言模型的本质：权重即模型（Hacker News）、Ted Chiang《AI没有意识》引发的反驳与意识定义之争（Hacker News）、ChatGPT记忆合成系统升级、Anthropic新模型Oceanus预发布评估、NVIDIA Nemotron 3.5企业内容安全模型发布、Google Gemma 4 12B开源多模态模型、Anthropic公开Claude约束机制工程细节、AI自主设计后继AI系统实现
+
+▌AI 产业 / 策略
+AI预算单一行项目管理模式的危害、Anthropic呼吁全球暂停AI开发并警告自我改进风险、少数半导体制造商掌控AI算力命脉、Satya Nadella谈微软竞争定位与MAI模型战略、DeepSeek成为美国企业6月最热门AI软件、SaaS厂商按结果收费定价模式全面铺开、Asana发布企业AI智能体工作管理平台、Anthropic自身代码80%由Claude编写、Uber每月1500美元AI工具上限成企业定价参照
+
+▌机器人 / 物理 AI
+病毒式传播的人形机器人演示与实际泛化能力的巨大鸿沟、Generalist AI获NVIDIA等机构4亿美元融资、Amazon Proteus仓储机器人支持自然语言指令并将于2027年部署欧洲
+
+▌互联网 / 产品
+软件廉价化时代"产品即文化投放"的新竞争逻辑、Apple首批准第三方AI智能体进入iMessage平台、机器人流量首超人类流量提前到来、VoidZero（Vite等工具）整体并入Cloudflare、AI助手蚕食app分发的平台替代效应、加州大学伯克利研究：AI使用与不及格率飙升及数学能力下滑正相关、Braintrust Topics：百万token级生产智能体轨迹可观测性工具
+
+▌市场 / 大事件
+Meta智能眼镜内置休眠人脸识别系统、标普拒绝豁免SpaceX等大型IPO快速入指数请求、2026年4月全球风能与太阳能发电量历史首次超越天然气
+
+来源：英文科技新闻通讯及社区讨论（2026-06-05）</description>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-06-06.mp3" length="10886400" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-06-06</guid>
+      <itunes:duration>15:07</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-06-06.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-06-05</title>
       <description>▌AI / 大模型
 DeepSeek 首轮融资七十亿美元，Meta Muse Spark 发布时间仍未确定，Google 发布可在消费级笔记本运行的 Gemma 4 12B，Ideogram 第四代开源文生图模型支持空间布局控制，Google Labs 推出读取个人 Google 数据的推荐应用 Dreambeans，OpenAI 投资 AI 原生硬件公司 Opal Electronics，Anthropic Claude Code 团队公开分享 AI 原生工程组织重构实践
