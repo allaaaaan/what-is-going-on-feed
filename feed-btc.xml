@@ -19,6 +19,36 @@
     <itunes:category text="Business"/>
     <itunes:summary>每日 BTC 市场简报，从 swing trader 视角解读价格、流动性与重要新闻。</itunes:summary>
     <item>
+      <title>又咋啦?! BTC 简报 · 2026-06-06</title>
+      <description>今日 BTC 市场: 本周最差单周表现自 FTX 暴雷以来,加密市值蒸发三千九百亿美元;BTC 跌至五万九千美元区间后反弹,日线 RSI 十五点四四为近六年最超卖读数,F&amp;G 指数十二极度恐慌。
+
+▌on-chain / 链上
+周跌幅创 FTX 暴雷后最差、1.6 亿美元多头强制平仓、链上表观需求负 14.7 万枚 BTC、永续合约资金费率深度负值形成空头挤压风险、中本聪时代地址十四年后移动
+
+▌flow / ETF
+BTC 现货 ETF 十三交易日流出潮累计 43.7 亿美元、IBIT 占七成五、周四微弱翻正后周五重回流出、摩根士丹利加密借贷产品、机构一季度减持五万两千枚 BTC ETF 持仓
+
+▌macro / 利率
+五月非农大超预期触发联储加息预期、BTC 抹去所有特朗普选举涨幅、地缘伊美停火协议初步、Warsh 首次联储会议 6/17 待观察
+
+▌corporate-treasury / 企业国库
+Strategy 股价四个月低点 / STRC 承压进入死亡螺旋观察区、Grayscale 点名"首次压力测试"、SpaceX IPO 6/12 倒计时六天、Strive 加仓至 19000 枚 BTC、BitMine 以太坊国库优先股
+
+▌infrastructure / 基础设施
+首笔房利美担保 BTC 抵押住房贷款落地、CME 纳斯达克加密指数期货周一上线、Kalshi 首个 CFTC 监管 BTC 永续合约、Polymarket/UMA 六千万美元争议 6/7 关注节点
+
+▌regulation / 监管
+CLARITY 法案进入参议院立法日历、Galaxy Research 预计三十天内地板表决、SEC 链上规则框架梳理中、德克萨斯 BTC 储备托管招标 6/15 截止
+
+来源：2026-06-06</description>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-06-06.mp3" length="13313952" type="audio/mpeg"/>
+      <guid isPermaLink="false">btc-2026-06-06</guid>
+      <itunes:duration>18:29</itunes:duration>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-06-06.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦?! BTC 简报 · 2026-06-05</title>
       <description>今日 BTC 市场:双重冲击——非农就业大超预期迫使联储加息路径重定价,BTC 盘中跌破六万美元,日收六万一千五百八十二美元,跌幅百分之二点七;恐惧贪婪指数十二,极度恐惧,日线 RSI 十六点零八。
 
