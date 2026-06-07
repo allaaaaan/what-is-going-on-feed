@@ -19,6 +19,33 @@
     <itunes:category text="Business"/>
     <itunes:summary>每日 BTC 市场简报，从 swing trader 视角解读价格、流动性与重要新闻。</itunes:summary>
     <item>
+      <title>又咋啦?! BTC 简报 · 2026-06-07</title>
+      <description>今日 BTC 市场:BTC 六月七日收于六万一千六百七十四美元,当日小幅反弹百分之一点三五,但周线为 FTX 崩盘以来最大单周跌幅,市值蒸发约三千九百亿美元;日线 RSI 十九点四,自二零二零年三月以来最深超卖,恐惧贪婪指数十二,极度恐惧第五日。
+
+▌flow / ETF
+BTC 现货 ETF 十三连跌于六月五日终结,单日净流入三百零五万美元;总流出四十四亿美元,AUM 跌至八百二十八亿;以太币 ETF 十七连跌同日结束;二月机构抄底 vs 六月机构出逃的情绪对比;表观需求指标降至十二月以来最低;Kimchi Premium 负百分之三点六;摩根士丹利开放加密出借业务。
+
+▌macro / 利率
+NYDIG 四因子下跌分析(AI 轮动、科技 IPO、量子叙事、Strategy 心理);五月非农十七万二千人大幅超预期,十年期美债收益率破百分之四点五四,加息概率升至百分之七十;本周 BTC 跌幅百分之十七点三,加密总市值回落至两万亿;BTC 抹去特朗普当选以来全部涨幅;伊朗谈判无进展;Warsh 首次联邦公开市场委员会六月十七日不变。
+
+▌corporate-treasury / 企业国库
+SpaceX 六月十二日 IPO 定价七百五十亿美元、持有一万八千七百一十二枚 BTC;Strategy 8-K 首次确认减持三十二枚 BTC 用于支付 STRC 股息;Grayscale 称这是 Strategy 杠杆模型的首次压力测试;Saylor 发出新买入信号;Polymarket 六月"卖出"预测转为"是";Strive 逆势买入二千五百枚 BTC。
+
+▌market-structure / 市场结构
+CME-纳斯达克加密指数期货六月八日上线(首个市值加权合规产品);Kalshi BTCPERP 六月三日上线(美国首个 CFTC 监管永续合约);日线 RSI 十九点四为二零二零年三月以来最超卖;十六亿美元爆仓后价格反弹;空头未平仓二十六亿叠加资金费率翻负,关注空头挤压风险。
+
+▌regulation / 监管
+Polymarket UMA 裁定维持"否"结果(今日关注事项结案);美国劳工部提案允许退休账户配置另类资产(含潜在加密敞口);德州 BTC 储备 IBIT 转直接托管无实质进展。
+
+来源：2026-06-07</description>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-06-07.mp3" length="14237856" type="audio/mpeg"/>
+      <guid isPermaLink="false">btc-2026-06-07</guid>
+      <itunes:duration>19:46</itunes:duration>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-06-07.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦?! BTC 简报 · 2026-06-06</title>
       <description>今日 BTC 市场: 本周最差单周表现自 FTX 暴雷以来,加密市值蒸发三千九百亿美元;BTC 跌至五万九千美元区间后反弹,日线 RSI 十五点四四为近六年最超卖读数,F&amp;G 指数十二极度恐慌。
 
