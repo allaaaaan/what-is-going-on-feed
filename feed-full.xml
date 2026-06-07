@@ -25,6 +25,29 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-06-08</title>
+      <description>▌AI / 大模型
+LLMs 对软件工程师职业的真实影响分析，AI agent token 消耗的隐性成本，边缘美学与生成式 AI 潜在空间的关联，KV 缓存四倍无损压缩技术
+
+▌软件工程 / 开源
+Zig 作者的软件北极星原则，lcamtuf 播客访谈，Backrest restic Web UI，纯 Go 原生 SQLite 实现
+
+▌行业 / 互联网
+Valve P2P 网络因地缘政治网络过滤全球中断，公共域图像档案库上线，加州游戏保护法案进展
+
+▌科学 / 生物技术
+克隆马主导顶级马球赛事，Chan Zuckerberg Biohub 发布蛋白质生物学世界模型
+
+来源：2026-06-07</description>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-06-08.mp3" length="6657984" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-06-08</guid>
+      <itunes:duration>9:14</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-06-08.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-06-07</title>
       <description>▌AI / 大模型
 Hacker News 开发者分享 GenAI 改变效率认知的"顿悟时刻"——AI 从零完成冷僻硬件协议实现、初级工程师借助 AI 超越资深工程师产出速度。
