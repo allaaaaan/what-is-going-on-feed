@@ -19,6 +19,38 @@
     <itunes:category text="Business"/>
     <itunes:summary>每日 BTC 市场简报，从 swing trader 视角解读价格、流动性与重要新闻。</itunes:summary>
     <item>
+      <title>又咋啦?! BTC 简报 · 2026-06-08</title>
+      <description>今日 BTC 市场:熊市格局持续,价格六万三千五百二十美元,跌破 200 日均线约一万五千美元,日线 RSI 二十七点四,恐惧贪婪指数八,极度恐惧;伊朗停火破裂、韩国 KOSPI 熔断与非农超预期三重冲击下, BTC 盘中跌至六万两千九百,随后空头挤压推动反弹;今日涨幅为技术性修复而非趋势反转。
+
+▌宏观与地缘
+
+伊朗美国停火破裂,以色列美国对核设施发动打击、伊朗撤出谈判, Brent 油价抹去和平预期折价;韩国 KOSPI 暴跌百分之八点二九触发熔断,半导体崩塌叠加非农十七万两千超预期将 美联储 2026 年加息概率推至百分之七十; 10xResearch 指出本轮 BTC 跌势由通胀预期驱动而非 Strategy 供给压力; Coinbase 溢价负值,泡菜溢价负三点五七五
+
+▌资金流和 ETF
+
+六月五日三百零五万美元一日净流入被确认为昙花一现,六月八日流出重启,四周累计赎回超四十四亿美元, IBIT 承担百分之七十五;过去一周十七亿美元为 2025 年二月来最大; CryptoQuant 表观需求负十四万七千枚 BTC 显示反弹缺乏现货支撑;五亿四千万美元空头爆仓解释今日机械性涨幅
+
+▌企业国库
+
+Strategy 一千五百五十枚 BTC 大规模买入( 1.01 亿美元),持仓升至八十四万五千两百五十六枚,为争议性三十二枚出售后首次大买; STRC 半月派息股东大会今日举行; SpaceX IPO 六月十二日; Capital B 法国六月十七日 EGM 寻求一千两百二十亿美元 BTC 授权; Mt. Gox 截止日延至十月三十一日
+
+▌衍生品与产品
+
+CME-Nasdaq 加密资产指数期货今日上线,首只市值加权受监管产品, BTC 权重百分之七十六点九六; Kalshi BTCPERP 上线满一周首批数据待公布; BVI 波动率期货首笔成交确认
+
+▌监管与情绪
+
+美国劳工部加密 401(k) 安全港等待 OMB 审核; Zcash 零知识电路无限增发漏洞; Warsh 首次 美联储公开市场委员会 会议六月十六至十七日(八天)是近期最大宏观催化剂
+
+来源：2026-06-08</description>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-06-08.mp3" length="11471904" type="audio/mpeg"/>
+      <guid isPermaLink="false">btc-2026-06-08</guid>
+      <itunes:duration>15:55</itunes:duration>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-06-08.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦?! BTC 简报 · 2026-06-07</title>
       <description>今日 BTC 市场:BTC 六月七日收于六万一千六百七十四美元,当日小幅反弹百分之一点三五,但周线为 FTX 崩盘以来最大单周跌幅,市值蒸发约三千九百亿美元;日线 RSI 十九点四,自二零二零年三月以来最深超卖,恐惧贪婪指数十二,极度恐惧第五日。
 
