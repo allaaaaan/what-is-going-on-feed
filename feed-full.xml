@@ -25,6 +25,37 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-06-09</title>
+      <description>今天的「又咋啦?!」完整版涵盖六个主题板块,共四十一条科技动态。
+
+▌AI / 大模型
+Anthropic 工程师入驻 NSA 开展进攻性网络部署、OpenAI 将 ChatGPT 改造为多步 Agent 平台、企业 AI 落地的瓶颈是信任与控制结构而非工具、AI 功能进入 App Store 前百强四十余款应用、Claude 扩展至化学光谱预测领域、OpenAI 推出 ChatGPT 封锁模式。
+
+▌AI 代理 / 开发
+OpenAI 押注 Agent 超级应用取代纯聊天产品、LLM 自动化对软件工程师职业前景的冲击与讨论、Linux 平台 AI 工具供给缺口的供给侧分析、Lathe 工具以 LLM 引导深度学习而非直接摘要、"意图债"概念与 Agent 系统的文档化需求、Airtable 内部团队全自动 Agent 完成产品发布、提示词技术债的治理挑战、Microsoft Scout 持久 Agent 上线、Amazon Bedrock 新版控制台、LangSmith Sandboxes 隔离执行环境。
+
+▌AI 产业 / 竞争
+Google 以每月九亿两千万美元租用 SpaceX 算力、核能创业公司 Antares 实现临界里程碑、Apple WWDC 前夕 Tim Cook 交棒 John Ternus、Google Chrome 测试默认 AI 模式取代传统搜索、OpenAI 与 Anthropic 咨询业务直接与 API 客户竞争、Apple 内部 AI 战略重组内情、Anthropic/OpenAI 每百元收入成本超千元、多 Agent 工程工作流 token 经济学研究、KV 缓存四倍无损压缩技术。
+
+▌金融科技
+Ramp 发布 AI 会计操作系统 Ramp Stack 并完成七亿五千万美元融资、金融机构以自有交易数据构建 AI 护城河、Revolut 创始人持股或达七百六十亿美元、Revolut 进入英国信用卡市场、Cash App 发布二十五美元 NFC 支付棒、全球金融科技收入突破五千零四亿美元、Airwallex 收购 Leapfin 补全会计 AI 能力。
+
+▌科技与社会
+软件一次性项目预算模式的批判与基础设施框架、WordPress 7.0 推出 AI 编辑与实时协作、Valve 点对点网络中断背后的地缘政治网络行动、玩家组织对抗游戏远程停用的消费者权益运动、Chrome HTML-in-canvas 平台能力扩展、SEO 从技术优化转向产品经理主导。
+
+▌科学 / 研究
+克隆马主导竞技马球揭示生物技术商品化规律、Biohub 发布蛋白质生物学"世界模型"AI 系统、妊娠期高剂量维生素 D3 与孩子十岁认知表现的纵向研究。
+
+来源:TLDR AI、TLDR 主刊、TLDR Fintech、TLDR Founders、Hacker News。</description>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-06-09.mp3" length="16015104" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-06-09</guid>
+      <itunes:duration>22:14</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-06-09.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-06-08</title>
       <description>▌AI / 大模型
 LLMs 对软件工程师职业的真实影响分析，AI agent token 消耗的隐性成本，边缘美学与生成式 AI 潜在空间的关联，KV 缓存四倍无损压缩技术
