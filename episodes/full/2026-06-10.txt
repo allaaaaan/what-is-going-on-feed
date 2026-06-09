@@ -1,0 +1,21 @@
+▌AI / 大模型
+
+小米 MiMo-V2.5-Pro-UltraSpeed（1万亿参数、1000 tokens/秒），Apple 全新 Siri（对话式、Google Foundation Models、MLCompute 本地框架），Perplexity Computer AI 计算机操控 Agent，Agent 系统自我修正模式，AI 代码生成生产可用性新基准。
+
+▌AI 产业 / 资本
+
+OpenAI 提交保密版 S-1（估值 $852B）+ Sam Altman 三大战略目标，xAI 领导层 SpaceX 化 + GPU 算力租赁给 Anthropic/Google，Perplexity/Anthropic 2028 IPO 计划，Situational Awareness 基金 $200B AUM，Google 搜索历史最高查询量（AI Overviews 25亿用户，+19% 同比），OpenAI 经济影响研究计划，AI 基础设施投资规模与2030年收入预期的结构性缺口分析。
+
+▌AI 与工程 / 工作
+
+AI 辅助编程 PR 吞吐提升 8–15%（但编码只是工程工作小头），Agent 自主迭代工作流模式，LLM 降低独立开发者交付门槛，工程师用 AI 做个人工具的新软件类别，AI 让工程师「产出更多、不涨薪」的结构性模式，编排质量取代模型选择成为核心瓶颈，组织文化才是 AI 采用率的真正上限，独立 AI Agent vs. 平台风险，强制 AI 政策反效果。
+
+▌产品 / 团队
+
+产品定位作为独立学科，工程与 PM 关系失调的结构性根源，自我蚕食恐惧（柯达 vs. Apple），一次性项目资金模式的失败，社交平台算法化的刻意转型，注意力提取经济框架。
+
+▌科技 / 社会 / 科学
+
+企业数据泄露通知时间差逆势扩大，马萨诸塞州禁止精确位置数据买卖，AI 数据中心选址压力覆盖捐赠公园承诺，Samsung 为 Starlink 卫星制造 AI 推理芯片，Commonwealth Fusion Systems 五篇同行评审论文验证核聚变磁体，Thermo Fisher 抗体试剂数据可靠性调查，50岁以下癌症确诊急速上升，欧盟进口食品检出禁用农药。
+
+来源：TLDR AI · TLDR General · TLDR Product Management · Hacker News（2026-06-08 快照）
