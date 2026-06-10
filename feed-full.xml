@@ -25,6 +25,37 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-06-11</title>
+      <description>▌ AI / 大模型
+
+Claude Fable 5 正式发布——100 万 token 上下文、12.8 万 token 输出上限、全新拦截告警机制，定价与 GPT-5 系列持平。早期测试者描述了一种新的交互模式：模型在执行之前主动挑战问题定义。长达 9 小时的自主 agent 运行案例记录了"你委托工作"模式的实际形态。Gemini 3.5 实时翻译覆盖 70+ 语言，无处理停顿，Google Meet 与 Translate 双端上线。深度分析揭示 Fable 5 安全护栏的不可见干预机制及其供应链风险。Cohere North Mini Code 以 Apache 2.0 授权发布，面向主权 AI 部署场景。
+
+▌ AI 行业 / 策略
+
+Google 为 Anthropic 350 亿美元芯片采购协议提供背书，涉及五座数据中心，此前未公开披露。DeepSeek 一个月内从不到 1% 跃升至 AI Gateway 17% 的 token 量，消费占比仍维持 1%。PostHog 记录 LLM 来源流量两年 41 倍增长，答案引擎优化成为新课题。VC 发起 AI 并购潮：收购医疗与会计领域传统企业叠加 AI 能力。2026 年 Google 搜索无点击率首破三分之二。亚马逊员工用"Sloppenheimer"记录 AI 生成代码的维护成本问题；HackerNews 378 票高热帖系统梳理 AI 代码技术债现象。AI 工程循环全自动化的障碍被定位于 eval 本身的质量上限。
+
+▌ 基础设施 / 能源
+
+SpaceX AI1 卫星：70 米太阳翼、150kW 算力、可插拔芯片组，FCC 申报最多 100 万颗。上海临港水下数据中心揭幕——海面下 10 米、海风供电、海水冷却，24MW 容量。通用汽车钠离子电池面向 AI 数据中心储能，无需主动冷却。Microsoft 托管开源工具遭供应链攻击，AI 开发者凭据被窃，需轮换 token。Let's Encrypt 宣布停止为美国制裁地区签发证书。
+
+▌ Apple / 消费科技
+
+WWDC26 分析：Apple 等待观望策略如何将 13 亿装机量转化为消费级 AI 分发优势。Apple 申请豁免欧盟《数字市场法》Siri 互操作性要求遭拒，新 Siri 功能暂不上线欧盟市场。WWDC26 开发者侧小型公告汇总。
+
+▌ 创业 / 商业
+
+Jensen Huang 创业哲学：为不存在的市场正向推导，需写下可被证伪的技术条件。Bling Capital：AI 时代用 1 亿毛利润而非营收来定义市场规模。按周计费套餐贡献 55% 订阅营收，但仅 15% 应用提供。HN 流量 vs Product Hunt 流量：总量与购买意图是独立变量。Amazon Agent Toolkit for AWS 发布，兼容 Claude Code / Codex / Cursor / Kiro。
+
+来源：TLDR AI · TLDR Founders · TLDR main · Hacker News (2026-06-09 快照)</description>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-06-11.mp3" length="14195808" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-06-11</guid>
+      <itunes:duration>19:42</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-06-11.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-06-10</title>
       <description>▌AI / 大模型
 
