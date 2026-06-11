@@ -1,0 +1,17 @@
+▌ AI / 大模型
+
+OpenAI 考虑大幅下调 API 定价，预判与 Anthropic 的价格战。Google 发布 DiffusionGemma——260 亿参数文本扩散模型，生成速度最高达传统模型四倍，量化后可在消费级显卡运行。Anthropic 推出 Claude Managed Agents，面向生产环境的智能体编排 API。Anthropic Fable 5 系统提示词遭泄露，约十二万字。Cursor BugBot 重大更新：速度提升三倍、成本降低 22%、发现 bug 数量增加 10%。Stack Overflow 发布面向 AI 智能体的 API 优先知识平台，多智能体验证循环生成标准化答案。Apache Burr 新开源智能体框架，内置状态管理与可观测性。Anthropic 红队研究：语言模型可通过提取隐藏状态完成分类，推理成本大幅低于完整生成。广泛讨论文章：AI 产品真正壁垒在于掌控完整反馈闭环，而非使用前沿模型。
+
+▌ AI 产业 / 策略
+
+Dario Amodei 仅有一名直接下属，全部执行团队向 Daniela Amodei 汇报。Dario 发长文提倡 FAA 式 AI 监管框架。Palantir CEO：前沿实验室以 token 消耗量为生产力代理，与企业 ROI 存在落差。欧盟裁定 Meta 违规，命令开放 WhatsApp Business API。OpenAI 租用俄亥俄州百亿瓦数据中心园区，2028 年启用。AWS Bedrock 新增数据共享要求，实质成为 Anthropic 一级分发渠道。Meta 用临时帐篷结构快速搭建 AI 数据中心以绕过审批。特朗普拟召集顶级 AI 高管讨论向公众分配 AI 企业股权。AI 加速 N-day 漏洞利用，补丁窗口期大幅缩短。安全研究员演示：通过银行转账备注字段植入自然语言指令触发 AI 智能体执行未授权操作。企业默认开启工作录制以输入 AI 会议工具，缺乏明确知情同意。1989 年电气化生产率悖论论文重获关注，AI 时代类比：企业需彻底重组工作流程收益才会显现。
+
+▌ 资本市场 / 行业动态
+
+SpaceX IPO 今日定价每股 135 美元，认购超四倍，Nasdaq 代码 SPCX，或成史上最大 IPO。OpenAI 已向 SEC 提交保密 S-1，估值约八千五百亿美元。意大利软件并购公司 Bending Spoons 申请上市，目标估值二百至二百二十亿美元。Visa 与 OpenAI 合作：支付基础设施直接集成进 ChatGPT，AI 智能体可代用户完成支付。Mastercard 推出 Agent Pay for Machines，专为 AI 智能体间高频亚分钱交易设计，30+ 合作伙伴。布鲁克林法院批准 Visa、Mastercard 与约一千二百万商户三百八十亿美元和解，"荣誉所有卡"规则被削弱。JPMorgan 部署 AI 和机器人自动化纸质支票处理，年处理四亿八千万份，准确率超 99.9%。PhonePe 推出 SmartPages，AI 自动生成商户支付页面。AI 时代脱颖而出的财务团队正用 Claude Code 和 MCP 自建自动化。拥有支付策略与拥有供应商选择是两件不同的事。
+
+▌ 科技前沿 / 工具
+
+Life Biosciences 完成首批患者用药，基因疗法靶向逆转年龄相关视力衰退，激活视网膜三个再生基因。中国 NEO 脑机接口获批商业化——硬币大小、意念控制气动手套，中国在 BCI 商业化上领先 Neuralink。特斯拉 Robotaxi 三座德州城市仅五十九辆，乘客反映等待时间长，与估值故事形成落差。Google Chrome 永久终止 Manifest V2 支持，uBlock Origin 等广告拦截器全部失效，Edge 和 Opera 跟进。Apple 发布 macOS Container Machines，Apple Silicon 原生 OCI 容器，无需 Docker Desktop。梅赛德斯-奔驰收购 Yasa 后开始大规模量产轴向磁通电机，更小更轻，押注下一代 EV 差异化。Papers with Code 在沉寂后重新上线。新 Postgres 兼容连接池 PgDog 完成融资并正式上线，智能路由解决单节点扩展瓶颈。GitHub 发生认证中断事故，现已解决。好奇号火星探测器运行十三年的维护哲学：软件远程更新 + 彻底熟悉车辆个性。HelixDB 新开源图数据库，结合向量搜索与图遍历，专为 AI 智能体上下文存储设计。
+
+来源：TLDR AI · TLDR Fintech · TLDR main · Hacker News (2026-06-10 快照)
