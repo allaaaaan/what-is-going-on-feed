@@ -19,6 +19,36 @@
     <itunes:category text="Business"/>
     <itunes:summary>每日 BTC 市场简报，从 swing trader 视角解读价格、流动性与重要新闻。</itunes:summary>
     <item>
+      <title>又咋啦?! BTC 简报 · 2026-06-12</title>
+      <description>今日 BTC 市场: BTC 收于六万三千五百三十二美元,跌幅百分之一点三,极度恐惧指数十二,熊市格局完整。
+
+▌公司国库与 SpaceX IPO
+史上最大 IPO(SpaceX 募资七百五十亿美元,SPCX 首日涨幅近两成)当天 BTC 脱钩收平;标准渣打银行命名五万九千美元为周期底部;Nakamoto 出售约四千八百万美元 BTC 减债,本轮首家为资产负债表原因净卖出的上市 BTC 国库公司。
+
+▌资金流与 ETF
+六月 BTC ETF 累计流出二十一亿美元,有望超越五月全月纪录;BlackRock 申请挂牌收益型 BTC ETF,下周预计上市。
+
+▌链上
+CryptoQuant 表观需求降至负六十五万枚(2019 年以来第三次);矿工投降信号触发;Deribit 六月二十六日季度到期约八十五亿美元名义持仓,最大痛点七万七千五百美元;Bitwise 目标下行价五万二千美元。
+
+▌宏观与利率
+Warsh 首次 FOMC 会议六月十六至十七日,市场预计维持利率不变,焦点为点阵图和措辞变化;五月 CPI 总体同比百分之四点二,核心同比百分之二点九,符合预期。
+
+▌地缘
+特朗普发出伊朗冲突终结信号,巴基斯坦居间斡旋;霍尔木兹海峡仍在谈判桌上;布伦特原油跌至约九十九美元。BTC 对两大正面催化剂(SpaceX IPO+伊朗和平)均未产生持续买盘。
+
+▌监管与政策
+Metaplanet 收购 Siiibo Securities 进入日本市场;日本加密货币立法推进;Y Combinator 背书 CLARITY 法案;Coinbase 推出 AI 智能体交易工具。
+
+来源: 2026-06-12</description>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-06-12.mp3" length="11894976" type="audio/mpeg"/>
+      <guid isPermaLink="false">btc-2026-06-12</guid>
+      <itunes:duration>16:31</itunes:duration>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-06-12.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦?! BTC 简报 · 2026-06-11</title>
       <description>今日 BTC 市场: 价格收于六万三千五百三十八美元,单日上涨百分之三点八,但熊市格局未改——仍低于两百日均线约一万四千五百美元,贪婪恐惧指数十二(极度恐惧),多项周期底部信号聚集。
 
