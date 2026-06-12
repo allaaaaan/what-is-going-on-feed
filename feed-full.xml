@@ -25,6 +25,27 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-06-13</title>
+      <description>又咋啦？！完整版 — 2026年6月13日
+
+本期涵盖45条科技动态，分四个板块：
+
+【AI 前沿】OpenAI 收购智能体基础设施公司 Ona，押注长期运行智能体；Anthropic 撤回悄悄压制 Claude 回复的隐形政策；小米 MiMo Code 在超长多步骤任务上宣称超越 Claude Code；开源社区复现 DeepSeek-R1 推理能力；2029年前沿级开放权重模型有望在16GB内存上运行；AI 公司 Recursive 展示自动化 AI 研究流程；菲尔兹奖得主陶哲轩转变为 AI 积极使用者；Bezos 押注"人工通用工程师"；Predictive Data Debugging 让训练前发现数据集问题成为可能。
+
+【AI 进入工作】AI 没有取代工程师，因为判断力而非代码才是真正稀缺资源；AI 降低执行成本的同时加快到达决策瓶颈；AI 工具速度优势在产品发现缺失时只会加速做错误的事；a16z 论证职场默认录音时代的生产力与治理矛盾；DeltaDB 版本化 AI 协作对话；PM 生产环境 AI 功能实战手册；Stripe 集成持久化 AI 智能体；Google Gemini 赋能小企业。另有：算力无法真正商品化、真实信念与阵营认同的区别等深度观点。
+
+【商业与资本】六万亿美元账面估值的独角兽缺乏退出路径；Oracle AI 资本支出激增百分之一百六十二股价跌百分之十一；AI 实验室订阅制走向二等公民；模型路由可降低九成推理成本；Ramp 估值是 Bill 的十五至三十倍折射 AI 原生溢价；快市场胜过好执行；氛围交易兴起；销售自动化加速；最快 AI 公司工程化替代 CSM 将流失率降至百分之零点五；April Dunford 论观点即竞争优势；Meta 超级 IC 团队模式；有意留余量在高方差岗位的战略价值。
+
+【科技与世界】SpaceX 史上最大 IPO 七百五十亿美元；Waymo 推出二十九点九九美元月度订阅；致命自主无人机首次在实战中击杀士兵；Pokémon Go AR 地图数据训练军用无人机导航；美国太阳能年度发电量首超煤炭；消费级家庭机器人 The Familiar；Rivian R2 首批试驾；制裁致 Linux 内核漏洞无法修复；Nextcloud Hub 26；MapComplete 开放地图贡献工具。</description>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-06-13.mp3" length="11648448" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-06-13</guid>
+      <itunes:duration>16:10</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-06-13.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-06-12</title>
       <description>▌ AI / 大模型
 
