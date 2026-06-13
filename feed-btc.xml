@@ -19,6 +19,36 @@
     <itunes:category text="Business"/>
     <itunes:summary>每日 BTC 市场简报，从 swing trader 视角解读价格、流动性与重要新闻。</itunes:summary>
     <item>
+      <title>又咋啦?! BTC 简报 · 2026-06-13</title>
+      <description>今日 BTC 市场: BTC 收于六万四千三百一十一美元,上涨百分之一点二;美伊和平协议接近签署,ETF 净流出势头被周五八千五百八十万美元净流入打断,但恐惧贪婪指数仍在极度恐惧区间 (13),日本央行与 FOMC 双重宏观二元事件下周引爆。
+
+▌geopolitics / 地缘
+巴基斯坦总理称美伊协议文本敲定、二十四小时内签署;美方高级官员称「没有百分之百把握」;抗贬值交易传导机制解析。
+
+▌flow / ETF
+ETF 五日净流出势头周五被 IBIT 主导的八千五百八十万美元净流入打断;月累计仍净流出二十一亿美元;BlackRock BITA 覆盖式看涨期权比特币 ETF 提交 8-A 注册、百分之零点六五费率预计下周上市;Deribit 六月二十六日季度合约最大痛点七万七千五百美元。
+
+▌macro / 利率
+Warsh 首次 FOMC 六月十六至十七日附带点阵图与发布会;日本央行六月十五至十六日百分之七十四概率加息至百分之一、日元套利头寸回到二零二四年七月水平;渣打五万九千美元底部判断;Bitwise 四万八千美元极度痛苦场景;摩根大通确认抗贬值交易结构性退潮。
+
+▌corporate / 公司国库
+Saylor 公开确认 Strategy 出售比特币支付股息为既定政策;STRC 改为半月付息;Nakamoto 出售约六百枚比特币还债;SpaceX 上市成最大纯财务储备型 BTC 上市公司;Metaplanet 收购 Siiibo 证券布局日本机构收益产品。
+
+▌cycle / 周期
+矿工投降:生产成本约八万八千美元、现货价六万四千,每枚亏损约一万九千美元;Mt. Gox 偿付截止延至十月三十一日。
+
+▌regulation / 监管
+日本下议院通过 FIEA 修正案、二零二八年加密税率降至百分之二十、开启现货 ETF 法律通道;德克萨斯州战略比特币储备托管 RFP 截止日后天;Kraken 美国 CFTC 监管永续合约下周上线。
+
+来源：2026-06-13</description>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-06-13.mp3" length="14877792" type="audio/mpeg"/>
+      <guid isPermaLink="false">btc-2026-06-13</guid>
+      <itunes:duration>20:39</itunes:duration>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-06-13.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦?! BTC 简报 · 2026-06-12</title>
       <description>今日 BTC 市场: BTC 收于六万三千五百三十二美元,跌幅百分之一点三,极度恐惧指数十二,熊市格局完整。
 
