@@ -25,6 +25,29 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-06-14</title>
+      <description>▌AI / 大模型
+美国政府勒令 Anthropic 暂停 Fable 5 和 Mythos 5 全球访问权，Amazon CEO 会见国家安全官员是导火索，智谱 AI GLM 5.2 当日发布填补空缺，双卡 GPU 本地推理跑通 Qwen 3.6 27B 每秒八十 token，Fable 生成牧羊游戏的病毒 demo，AI 编程助手低成本运行方案
+
+▌industry / 公司动态
+Renault 量产无稀土电动机并计划2027年全面铺开，TensorZero 七百三十万美元种子轮后静默关闭，PwC 报告：AI 让医疗账单更贵而非更便宜，CS 学位依然有用但凭借的是社交资本而非技术信号，Intel Xeon 6 定位数据中心能效市场
+
+▌security / 数据隐私
+美国人口普查局移除差分隐私保护机制，Arch Linux AUR 超过一千五百个软件包遭供应链攻击
+
+▌science / 前沿技术
+胰腺癌研究发现 KRAS 可被阻断这一突破性靶点，Google 提案将退役手机改造为分布式计算节点，现代 UI 动画渲染：数学完美帧在运动中反而更差
+
+来源：英文科技新闻通讯及社区讨论（2026-06-13）</description>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-06-14.mp3" length="5807520" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-06-14</guid>
+      <itunes:duration>8:03</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-06-14.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-06-13</title>
       <description>又咋啦？！完整版 — 2026年6月13日
 
