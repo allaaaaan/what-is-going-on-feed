@@ -25,6 +25,23 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-06-15</title>
+      <description>▌AI / 大模型
+AI采用率被高估?来自招聘、素养和工程案例的反面证据;里约热内卢政府"自研"大模型实为已有模型合并;大型AI公司将客户迭代转化为平台提取的结构性风险;Jane Street论AI代码生成时代的形式化验证必要性;KPMG撤回因AI幻觉产生的智能体报告;FTX破产清算中Anthropic股份估值超750亿美元。
+
+▌行业 / 工具
+免费纯浏览器端SQL转实体关系图工具;瑞士公投否决千万人口上限提案。
+
+来源：英文科技新闻通讯及社区讨论（2026-06-14）</description>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-06-15.mp3" length="4721184" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-06-15</guid>
+      <itunes:duration>6:33</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-06-15.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-06-14</title>
       <description>▌AI / 大模型
 美国政府勒令 Anthropic 暂停 Fable 5 和 Mythos 5 全球访问权，Amazon CEO 会见国家安全官员是导火索，智谱 AI GLM 5.2 当日发布填补空缺，双卡 GPU 本地推理跑通 Qwen 3.6 27B 每秒八十 token，Fable 生成牧羊游戏的病毒 demo，AI 编程助手低成本运行方案
