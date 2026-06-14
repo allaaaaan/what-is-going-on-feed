@@ -19,7 +19,37 @@
     <itunes:category text="Business"/>
     <itunes:summary>每日 BTC 市场简报，从 swing trader 视角解读价格、流动性与重要新闻。</itunes:summary>
     <item>
-      <title>又咋啦?! BTC 简报 · 2026-06-13</title>
+      <title>又咋啦?! BTC 简报 · 2026-06-15</title>
+      <description>今日 BTC 市场:收于六万四千九百一十二美元(+0.93%),三连日在六万五千美元以下收盘,依然处于熊市区间,贪婪恐惧指数十八分(极度恐惧)。明日日本央行会议开幕(97% 概率加息至 1.0%),周二至三联邦公开市场委员会,伊朗和平协议 72 小时执行窗口同时打开,为今年最密集的宏观事件堆叠周。
+
+▌flow / ETF
+BTC 现货 ETF 周五净流入八千五百八十万美元,终结五日流出;贝莱德提交 BITA 备兑收益 ETF 注册表,预计六月十八日上市;Coinbase 溢价归零,泡菜溢价创五年最深折价;CryptoQuant 三十日表观需求负十四万七千枚 BTC,底部估算五万三千六百美元;Mt. Gox 偿还截止延至十月三十一日。
+
+▌macro / 利率 / 地缘
+日本央行级联风险:日元空头一百零一亿美元(2024 年七月水平),若植田鹰派,四十八小时内 BTC 级联风险;伊朗和平 80% 概率签署但执行风险高;Warsh 首次联邦公开市场委员会点阵图是核心信号;摩根大通:贬值交易叙事瓦解,机构撤出黄金和 BTC。
+
+▌corporate treasury / 公司财库
+SpaceX 七百五十亿 IPO 验证企业 BTC 储备模式,但流动性虹吸效应明显;DJT 两亿零五百万美元转入 Crypto.com 疑似出售;Capital B 六月十七日百亿欧元债券授权表决;Metaplanet 收购 Siiibo 布局日本七点四万亿储蓄市场;Strategy 首次减持三十二枚 BTC。
+
+▌derivatives / 衍生品
+Deribit 六月二十六日季度到期八十亿美元,最大痛点七万五千五百美元,与日本央行+联邦公开市场委员会同处一个十日窗口。
+
+▌regulation / 监管
+德克萨斯州 BTC 储备 RFP 明日截止;CLARITY 法案已列入参议院立法日历,仍需六十票。
+
+▌cycle / 周期
+挖矿难度下降百分之十(年内第二大负向调整);Bitwise 看最低四万八千,渣打银行看底五万九千,Galaxy 估算支撑区间五万九千至六万五千美元;矿工利润率低于百分之五。
+
+来源：2026-06-14</description>
+      <pubDate>Sun, 14 Jun 2026 23:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-06-14.mp3" length="12421152" type="audio/mpeg"/>
+      <guid isPermaLink="false">btc-2026-06-14</guid>
+      <itunes:duration>17:15</itunes:duration>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-06-14.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>又咋啦?! BTC 简报 · 2026-06-14</title>
       <description>今日 BTC 市场: BTC 收于六万四千三百一十一美元,上涨百分之一点二;美伊和平协议接近签署,ETF 净流出势头被周五八千五百八十万美元净流入打断,但恐惧贪婪指数仍在极度恐惧区间 (13),日本央行与 FOMC 双重宏观二元事件下周引爆。
 
 ▌geopolitics / 地缘
@@ -41,7 +71,7 @@ Saylor 公开确认 Strategy 出售比特币支付股息为既定政策;STRC 改
 日本下议院通过 FIEA 修正案、二零二八年加密税率降至百分之二十、开启现货 ETF 法律通道;德克萨斯州战略比特币储备托管 RFP 截止日后天;Kraken 美国 CFTC 监管永续合约下周上线。
 
 来源：2026-06-13</description>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 13 Jun 2026 23:00:00 +0000</pubDate>
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-06-13.mp3" length="14877792" type="audio/mpeg"/>
       <guid isPermaLink="false">btc-2026-06-13</guid>
       <itunes:duration>20:39</itunes:duration>
@@ -49,7 +79,7 @@ Saylor 公开确认 Strategy 出售比特币支付股息为既定政策;STRC 改
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>又咋啦?! BTC 简报 · 2026-06-12</title>
+      <title>又咋啦?! BTC 简报 · 2026-06-13</title>
       <description>今日 BTC 市场: BTC 收于六万三千五百三十二美元,跌幅百分之一点三,极度恐惧指数十二,熊市格局完整。
 
 ▌公司国库与 SpaceX IPO
@@ -71,7 +101,7 @@ Warsh 首次 FOMC 会议六月十六至十七日,市场预计维持利率不变,
 Metaplanet 收购 Siiibo Securities 进入日本市场;日本加密货币立法推进;Y Combinator 背书 CLARITY 法案;Coinbase 推出 AI 智能体交易工具。
 
 来源: 2026-06-12</description>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 23:00:00 +0000</pubDate>
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-06-12.mp3" length="11894976" type="audio/mpeg"/>
       <guid isPermaLink="false">btc-2026-06-12</guid>
       <itunes:duration>16:31</itunes:duration>
@@ -79,7 +109,7 @@ Metaplanet 收购 Siiibo Securities 进入日本市场;日本加密货币立法�
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>又咋啦?! BTC 简报 · 2026-06-11</title>
+      <title>又咋啦?! BTC 简报 · 2026-06-12</title>
       <description>今日 BTC 市场: 价格收于六万三千五百三十八美元,单日上涨百分之三点八,但熊市格局未改——仍低于两百日均线约一万四千五百美元,贪婪恐惧指数十二(极度恐惧),多项周期底部信号聚集。
 
 ▌flow / ETF
@@ -98,7 +128,7 @@ Fold 以 BTC 国库清偿债务,股价暴涨百分之一百六十二;Nakamoto �
 周线 RSI 三十点五(历史第三次)、贪婪恐惧指数十二、矿工利润率历史最低——多重底部区间信号聚集;Deribit 六月二十六日到期最大痛点七万七千五百美元;Jack Mallers:流动性危机下 BTC 被率先卖出
 
 来源：2026-06-11</description>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 11 Jun 2026 23:00:00 +0000</pubDate>
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-06-11.mp3" length="16737696" type="audio/mpeg"/>
       <guid isPermaLink="false">btc-2026-06-11</guid>
       <itunes:duration>23:14</itunes:duration>
@@ -106,7 +136,7 @@ Fold 以 BTC 国库清偿债务,股价暴涨百分之一百六十二;Nakamoto �
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>又咋啦?! BTC 简报 · 2026-06-09</title>
+      <title>又咋啦?! BTC 简报 · 2026-06-10</title>
       <description>今日 BTC 市场:价格收于约六万一千七百美元,下跌百分之二点九,熊市格局持续,恐惧贪婪指数十分(极度恐惧)。
 
 ▌资金流和 ETF 板块
@@ -125,7 +155,7 @@ CME BVI 波动率期货首笔交易六月八日落地;Kalshi BTCPERP 首周突�
 CLARITY 法案列入参议院日程,三十天内地板表决;美国证监会推迟标记化证券豁免;德克萨斯州直接 BTC 托管 RFP 截止六月十五日。
 
 来源:2026-06-09</description>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Jun 2026 23:00:00 +0000</pubDate>
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-06-09.mp3" length="13020480" type="audio/mpeg"/>
       <guid isPermaLink="false">btc-2026-06-09</guid>
       <itunes:duration>18:05</itunes:duration>
@@ -133,7 +163,7 @@ CLARITY 法案列入参议院日程,三十天内地板表决;美国证监会推�
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>又咋啦?! BTC 简报 · 2026-06-08</title>
+      <title>又咋啦?! BTC 简报 · 2026-06-09</title>
       <description>今日 BTC 市场:熊市格局持续,价格六万三千五百二十美元,跌破 200 日均线约一万五千美元,日线 RSI 二十七点四,恐惧贪婪指数八,极度恐惧;伊朗停火破裂、韩国 KOSPI 熔断与非农超预期三重冲击下, BTC 盘中跌至六万两千九百,随后空头挤压推动反弹;今日涨幅为技术性修复而非趋势反转。
 
 ▌宏观与地缘
@@ -157,7 +187,7 @@ CME-Nasdaq 加密资产指数期货今日上线,首只市值加权受监管产�
 美国劳工部加密 401(k) 安全港等待 OMB 审核; Zcash 零知识电路无限增发漏洞; Warsh 首次 美联储公开市场委员会 会议六月十六至十七日(八天)是近期最大宏观催化剂
 
 来源：2026-06-08</description>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 08 Jun 2026 23:00:00 +0000</pubDate>
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-06-08.mp3" length="11471904" type="audio/mpeg"/>
       <guid isPermaLink="false">btc-2026-06-08</guid>
       <itunes:duration>15:55</itunes:duration>
@@ -165,7 +195,7 @@ CME-Nasdaq 加密资产指数期货今日上线,首只市值加权受监管产�
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>又咋啦?! BTC 简报 · 2026-06-07</title>
+      <title>又咋啦?! BTC 简报 · 2026-06-08</title>
       <description>今日 BTC 市场:BTC 六月七日收于六万一千六百七十四美元,当日小幅反弹百分之一点三五,但周线为 FTX 崩盘以来最大单周跌幅,市值蒸发约三千九百亿美元;日线 RSI 十九点四,自二零二零年三月以来最深超卖,恐惧贪婪指数十二,极度恐惧第五日。
 
 ▌flow / ETF
@@ -184,7 +214,7 @@ CME-纳斯达克加密指数期货六月八日上线(首个市值加权合规产
 Polymarket UMA 裁定维持"否"结果(今日关注事项结案);美国劳工部提案允许退休账户配置另类资产(含潜在加密敞口);德州 BTC 储备 IBIT 转直接托管无实质进展。
 
 来源：2026-06-07</description>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jun 2026 23:00:00 +0000</pubDate>
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-06-07.mp3" length="14237856" type="audio/mpeg"/>
       <guid isPermaLink="false">btc-2026-06-07</guid>
       <itunes:duration>19:46</itunes:duration>
@@ -192,7 +222,7 @@ Polymarket UMA 裁定维持"否"结果(今日关注事项结案);美国劳工部
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>又咋啦?! BTC 简报 · 2026-06-06</title>
+      <title>又咋啦?! BTC 简报 · 2026-06-07</title>
       <description>今日 BTC 市场: 本周最差单周表现自 FTX 暴雷以来,加密市值蒸发三千九百亿美元;BTC 跌至五万九千美元区间后反弹,日线 RSI 十五点四四为近六年最超卖读数,F&amp;G 指数十二极度恐慌。
 
 ▌on-chain / 链上
@@ -214,7 +244,7 @@ Strategy 股价四个月低点 / STRC 承压进入死亡螺旋观察区、Graysc
 CLARITY 法案进入参议院立法日历、Galaxy Research 预计三十天内地板表决、SEC 链上规则框架梳理中、德克萨斯 BTC 储备托管招标 6/15 截止
 
 来源：2026-06-06</description>
-      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 06 Jun 2026 23:00:00 +0000</pubDate>
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-06-06.mp3" length="13313952" type="audio/mpeg"/>
       <guid isPermaLink="false">btc-2026-06-06</guid>
       <itunes:duration>18:29</itunes:duration>
@@ -222,7 +252,7 @@ CLARITY 法案进入参议院立法日历、Galaxy Research 预计三十天内�
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>又咋啦?! BTC 简报 · 2026-06-05</title>
+      <title>又咋啦?! BTC 简报 · 2026-06-06</title>
       <description>今日 BTC 市场:双重冲击——非农就业大超预期迫使联储加息路径重定价,BTC 盘中跌破六万美元,日收六万一千五百八十二美元,跌幅百分之二点七;恐惧贪婪指数十二,极度恐惧,日线 RSI 十六点零八。
 
 ▌flow / ETF
@@ -244,7 +274,7 @@ CryptoQuant BTC 表观需求约负十四万七千枚,三十天累计变化负五
 历史首笔 Fannie Mae 认可的 BTC 抵押按揭过户;Coinbase 上线 SpaceX 上市前永续合约 SPCX-PERP;SpaceX 六月十二日纳斯达克上市,持有一万八千七百一十二枚 BTC;伯恩斯坦看好矿工转型 AI 电力地主;SEC 代币化股票框架延期。
 
 来源：2026-06-05</description>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 05 Jun 2026 23:00:00 +0000</pubDate>
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-06-05.mp3" length="12573216" type="audio/mpeg"/>
       <guid isPermaLink="false">btc-2026-06-05</guid>
       <itunes:duration>17:27</itunes:duration>
@@ -252,7 +282,7 @@ CryptoQuant BTC 表观需求约负十四万七千枚,三十天累计变化负五
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>又咋啦?! BTC 简报 · 2026-06-04</title>
+      <title>又咋啦?! BTC 简报 · 2026-06-05</title>
       <description>今日 BTC 市场: BTC 收报六万三千四百九十六美元,跌幅百分之三点三,RSI 日线十八点零一创六年最深超卖,恐慌贪婪指数十二分极度恐慌,两百周均线首次触及,超过半数流通 BTC 浮亏——链上底部结构信号首现,但 ETF 出流持续、伊美谈判暂停、AI 资金轮动三重阻力尚未消散。
 
 ▌flow / ETF
@@ -274,7 +304,7 @@ BTC 触及两百周均线(历史熊市底部技术位);超过半数流通 BTC �
 价值储存资产二元分类框架分析;Mt. Gox 转移一万零四百二十二枚 BTC 约七亿三千九百万美元
 
 来源:2026-06-04</description>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 Jun 2026 23:00:00 +0000</pubDate>
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-06-04.mp3" length="12716928" type="audio/mpeg"/>
       <guid isPermaLink="false">btc-2026-06-04</guid>
       <itunes:duration>17:39</itunes:duration>
@@ -282,7 +312,7 @@ BTC 触及两百周均线(历史熊市底部技术位);超过半数流通 BTC �
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>又咋啦?! BTC 简报 · 2026-06-03</title>
+      <title>又咋啦?! BTC 简报 · 2026-06-04</title>
       <description>今日 BTC 市场:BTC 收于六万五千二百三十美元,跌幅百分之二点七二,日线 RSI 降至十九点九一,创二零二二年熊市谷底以来最低超卖读数,恐惧与贪婪指数骤降至十一(极度恐惧)。
 
 ▌宏观与利率
@@ -301,7 +331,7 @@ BTC 触及两百周均线(历史熊市底部技术位);超过半数流通 BTC �
 BTC 触及幂律模型下轨(历史三次触底均在 30-90 天内反弹);Bitwise:公允价值二十二万四千美元,当前折价七十一%;二零二二年形态吻合——周线是否收于六万三千美元以下为关键观察节点。
 
 来源：2026-06-03</description>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 03 Jun 2026 23:00:00 +0000</pubDate>
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-06-03.mp3" length="10912608" type="audio/mpeg"/>
       <guid isPermaLink="false">btc-2026-06-03</guid>
       <itunes:duration>15:09</itunes:duration>
@@ -309,7 +339,7 @@ BTC 触及幂律模型下轨(历史三次触底均在 30-90 天内反弹);Bitwis
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>又咋啦?! BTC 简报 · 2026-06-02</title>
+      <title>又咋啦?! BTC 简报 · 2026-06-03</title>
       <description>今日 BTC 市场:收盘价六万七千美元,单日跌百分之六点一,为四月以来最大单日跌幅,恐惧贪婪指数二十三(极度恐慌),三重触发叠加——Strategy 自二零二二年首次减持 BTC、ETF 连续第十天净流出、AI 资金轮动——导致八亿美元连环爆仓。
 
 ▌supply / 企业库存
@@ -328,7 +358,7 @@ Glassnode 月度已实现市值变化率跌至近零,表观需求跌破三十日
 众议院金融服务委员会将代币化列为下一立法重点,Sanders/Warren 向劳工部施压限制 401K 加密入场,Grayscale HYPE ETF 获批预期迫近
 
 来源：2026-06-02</description>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Jun 2026 23:00:00 +0000</pubDate>
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-06-02.mp3" length="11740608" type="audio/mpeg"/>
       <guid isPermaLink="false">btc-2026-06-02</guid>
       <itunes:duration>16:18</itunes:duration>
@@ -336,7 +366,7 @@ Glassnode 月度已实现市值变化率跌至近零,表观需求跌破三十日
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>又咋啦?! BTC 简报 · 2026-06-01</title>
+      <title>又咋啦?! BTC 简报 · 2026-06-02</title>
       <description>今日 BTC 市场: BTC 收跌百分之三点六至七万一千美元，价格处于二百日均线下方约八千两百美元的熊市格局，多重压力同步叠加。
 
 ▌flow / ETF
@@ -355,7 +385,7 @@ CME 比特币波动率期货（BVI）今日上市，首个美国受监管 BTC �
 伊朗暂停美伊和平谈判，援引以色列黎巴嫩行动违反停火；美国中央司令部拦截两枚伊朗弹道导弹；特朗普坚称谈判推进，双方表态矛盾。
 
 来源：2026-06-01</description>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jun 2026 23:00:00 +0000</pubDate>
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-06-01.mp3" length="9257472" type="audio/mpeg"/>
       <guid isPermaLink="false">btc-2026-06-01</guid>
       <itunes:duration>12:51</itunes:duration>
@@ -363,7 +393,7 @@ CME 比特币波动率期货（BVI）今日上市，首个美国受监管 BTC �
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>又咋啦?! BTC 简报 · 2026-05-31</title>
+      <title>又咋啦?! BTC 简报 · 2026-06-01</title>
       <description>今日 BTC 市场: BTC 收七万三千八百六十美元,跌百分之零点一,熊市体制持续,两百日均线在七万九千五百五十九美元,恐惧贪婪指数二十八。
 
 ▌资金流和 ETF
@@ -385,7 +415,7 @@ Arca 高管指出 Strategy 一百五十亿美元优先股本金压力;德克萨�
 美国证监会代币化股票创新豁免框架仍在重新修订中
 
 来源：2026-05-31</description>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 23:00:00 +0000</pubDate>
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-31.mp3" length="13536288" type="audio/mpeg"/>
       <guid isPermaLink="false">btc-2026-05-31</guid>
       <itunes:duration>18:48</itunes:duration>
@@ -393,7 +423,7 @@ Arca 高管指出 Strategy 一百五十亿美元优先股本金压力;德克萨�
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>又咋啦?! BTC 简报 · 2026-05-30</title>
+      <title>又咋啦?! BTC 简报 · 2026-05-31</title>
       <description>今日 BTC 市场: BTC 收盘 73,964 美元(+0.6%),熊市格局不变,创纪录 10 日 ETF 流出、伊朗地缘冲击与链上需求低迷三重压力并存。
 
 ▌flow / ETF
@@ -412,7 +442,7 @@ CLARITY Act 委员会 15 比 9 推进至全院表决；美国证监会延迟代�
 美国商品期货交易委员会批准 Kalshi 开设首个美国受监管 BTC 永续合约；CME BVI 波动率期货 6 月 1 日上线(自我认证完成)
 
 来源：2026-05-30</description>
-      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 23:00:00 +0000</pubDate>
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-30.mp3" length="10460160" type="audio/mpeg"/>
       <guid isPermaLink="false">btc-2026-05-30</guid>
       <itunes:duration>14:31</itunes:duration>
@@ -420,7 +450,7 @@ CLARITY Act 委员会 15 比 9 推进至全院表决；美国证监会延迟代�
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>又咋啦?! BTC 简报 · 2026-05-28</title>
+      <title>又咋啦?! BTC 简报 · 2026-05-29</title>
       <description>今日 BTC 市场:收盘七万三千七百零八美元,日跌百分之一点一,熊市格局持续,恐惧贪婪指数二十二(极度恐惧)。今日核心叙事:资金流、宏观与链上需求三条线同向看跌,BTC 在伊朗和谈积极进展时无视油价和美股上涨——底层买盘空心化确认。
 
 ▌flow / ETF
@@ -442,7 +472,7 @@ Deribit 六十二亿五千万美元到期在即(明天 08:00 UTC)、最大痛苦
 Kraken BTC 金库产品十小时吸入三千万美元;Coinbase 与渣打银行机构轨道扩展;OpenZeppelin AI 攻击能力超过防守方警告;Liquid Co-Invest 链内交易执行新零售入口
 
 来源：2026-05-28</description>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 May 2026 23:00:00 +0000</pubDate>
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-28.mp3" length="14131296" type="audio/mpeg"/>
       <guid isPermaLink="false">btc-2026-05-28</guid>
       <itunes:duration>19:37</itunes:duration>
@@ -450,7 +480,7 @@ Kraken BTC 金库产品十小时吸入三千万美元;Coinbase 与渣打银行�
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>又咋啦?! BTC 简报 · 2026-05-27</title>
+      <title>又咋啦?! BTC 简报 · 2026-05-28</title>
       <description>今日 BTC 市场: BTC 跌至七万四千四百七十九美元(-1.91%),三个独立供给压力信号同日汇聚——周期最大单笔机构 IBIT 暗池抛售、链上表观需求跌至十四个月最低、伊朗停火期间美军再次打击伊朗导弹阵地。
 
 ▌资金流和 ETF
@@ -472,7 +502,7 @@ CryptoQuant 表观需求负十四万七千枚,为 2025年十二月以来最弱;�
 Nakamoto BTC 国库公司年初至今跌百分之六十七;Strategy 十五亿美元可转债回购以现金完成,无 BTC 出售确认
 
 来源：2026-05-27</description>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 23:00:00 +0000</pubDate>
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-27.mp3" length="15513984" type="audio/mpeg"/>
       <guid isPermaLink="false">btc-2026-05-27</guid>
       <itunes:duration>21:32</itunes:duration>
@@ -480,7 +510,7 @@ Nakamoto BTC 国库公司年初至今跌百分之六十七;Strategy 十五亿美
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>又咋啦?! BTC 简报 · 2026-05-26</title>
+      <title>又咋啦?! BTC 简报 · 2026-05-27</title>
       <description>今日 BTC 市场: BTC 收报七万五千九百九十九美元,下跌百分之一点七,伊朗局势再度升温完全反转昨日和平反弹,现货熊市格局延续,F&amp;G 三十四分处于恐惧区间。
 
 ▌options / 期权
@@ -502,7 +532,7 @@ Strategy 确认十五亿美元可转债回购全部动用现金储备,未售出�
 CryptoQuant 三十日表观需求指标跌至去年十二月以来最差;Satoshi 纪元大鲸转移约两亿美元 BTC 至 FalconX 和 Cumberland
 
 来源：2026-05-26</description>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 23:00:00 +0000</pubDate>
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-26.mp3" length="14104224" type="audio/mpeg"/>
       <guid isPermaLink="false">btc-2026-05-26</guid>
       <itunes:duration>19:35</itunes:duration>
@@ -510,7 +540,7 @@ CryptoQuant 三十日表观需求指标跌至去年十二月以来最差;Satoshi
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>又咋啦?! BTC 简报 · 2026-05-25</title>
+      <title>又咋啦?! BTC 简报 · 2026-05-26</title>
       <description>今日 BTC 市场: BTC 收盘七万七千三百三十六美元,上涨百分之一点五,受伊朗和平协议声明提振,但现货格局仍为熊市,价格低于两百日均线,恐惧贪婪指数三十。
 
 ▌on-chain / 链上
@@ -535,7 +565,7 @@ ARMA 法案(战略储备)新版本降低购买目标,增加锁仓; SEC Peirce �
 Glassnode:约五千亿美元 BTC 面临未来量子计算攻击风险
 
 来源：2026-05-25</description>
-      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 23:00:00 +0000</pubDate>
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-25.mp3" length="13870944" type="audio/mpeg"/>
       <guid isPermaLink="false">btc-2026-05-25</guid>
       <itunes:duration>19:15</itunes:duration>
@@ -543,7 +573,7 @@ Glassnode:约五千亿美元 BTC 面临未来量子计算攻击风险
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>又咋啦?! BTC 简报 · 2026-05-24</title>
+      <title>又咋啦?! BTC 简报 · 2026-05-25</title>
       <description>今日 BTC 市场: 收于七万六千二百三十一美元,跌百分之零点四六,熊市区制持续,恐惧贪婪指数二十五(极度恐惧),多个近期催化剂悬而未决。
 
 ▌资金流和 ETF
@@ -565,7 +595,7 @@ Deribit 五月二十九日六十二亿五千万美元大到期,最大痛点七�
 Glassnode 映射近五千亿美元 BTC 存在量子攻击敞口; BIP-360/361 后量子迁移协议在测试网推进; 美国商务部投资二十亿美元量子芯片
 
 来源：2026-05-24</description>
-      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 24 May 2026 23:00:00 +0000</pubDate>
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-24.mp3" length="14049216" type="audio/mpeg"/>
       <guid isPermaLink="false">btc-2026-05-24</guid>
       <itunes:duration>19:30</itunes:duration>
@@ -573,7 +603,7 @@ Glassnode 映射近五千亿美元 BTC 存在量子攻击敞口; BIP-360/361 后
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>又咋啦?! BTC 简报 · 2026-05-23</title>
+      <title>又咋啦?! BTC 简报 · 2026-05-24</title>
       <description>今日 BTC 市场:现价七万六千五百九十六美元,日涨百分之零点七四,熊市结构延续,200日均线在八万零六百九十二美元上方;恐惧贪婪指数28,Fear。
 
 ▌flow / ETF
@@ -592,7 +622,7 @@ BTC 隐含波动率跌至七个月新低;Deribit 5月29日62亿5千万美元期�
 Saylor 称 Strategy 2026年卖一些 BTC 并非不可能,确认双向姿态;Trump Media 转2650枚 BTC 约2亿500万美元到 Crypto.com,称未售出;SpaceX 招股书披露持1万8712枚 BTC、6月 IPO 融资750亿美元;Glassnode 约5000亿美元 BTC 公钥已暴露面临量子风险,美国政府宣布20亿美元量子计算计划。
 
 来源:2026-05-23</description>
-      <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 23 May 2026 23:00:00 +0000</pubDate>
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-23.mp3" length="9748224" type="audio/mpeg"/>
       <guid isPermaLink="false">btc-2026-05-23</guid>
       <itunes:duration>13:32</itunes:duration>
@@ -600,7 +630,7 @@ Saylor 称 Strategy 2026年卖一些 BTC 并非不可能,确认双向姿态;Trum
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>又咋啦?! BTC 简报 · 2026-05-22</title>
+      <title>又咋啦?! BTC 简报 · 2026-05-23</title>
       <description>今日 BTC 市场:现货收在七万六千零五十六美元,日内跌幅百分之二点一一,空头格局延续,价格仍在 200 日均线下方,恐惧贪婪指数跌至 28(恐惧)。
 
 ▌macro / 利率
@@ -622,7 +652,7 @@ SpaceX S-1 披露持仓 18,712 枚 BTC(Q1 公允价值 12.9 亿美元);Strategy 
 长期持有者持仓突破 1500 万枚 BTC;Glassnode 估算约 5000 亿美元 BTC 处于量子计算暴露的地址;美国政府承诺约 20 亿美元量子计算研发拨款。
 
 来源:2026-05-22</description>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 23:00:00 +0000</pubDate>
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-22.mp3" length="8134848" type="audio/mpeg"/>
       <guid isPermaLink="false">btc-2026-05-22</guid>
       <itunes:duration>11:17</itunes:duration>
@@ -630,7 +660,7 @@ SpaceX S-1 披露持仓 18,712 枚 BTC(Q1 公允价值 12.9 亿美元);Strategy 
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>又咋啦?! BTC 简报 · 2026-05-21</title>
+      <title>又咋啦?! BTC 简报 · 2026-05-22</title>
       <description>今日 BTC 市场:BTC 收报七万七千六百五十美元,日内上涨百分之零点二七,仍处熊市格局(价格在二百日均线八万零九百七十二美元下方,但站稳五十日均线七万六千二百二十美元上方);恐惧贪婪指数二十九、Fear,五月十九日曾打到二十五"极度恐惧"的本周低点;BTC 现货 ETF 进入第二段净流出,累计已超二十亿美元,本轮内出现过六亿四千九百万美元的单日流出;CoinDesk 与 CryptoQuant 在二百日均线被压回这件事上给出"需求弱"的统一读数。
 
 ▌flow / ETF 与资金面
@@ -652,7 +682,7 @@ Trump 行政命令要求美联储评估加密公司接入主账户与支付通�
 CME 波动率期货 BVI 计划六月一日上线、美国商品期货交易委员会五月十四日产品记录已标"已认证";Nasdaq 加 CME 加密指数期货六月八日上线、BTC 权重约百分之七十七;Deribit 五月二十九日 BTC 期权到期未平仓六十二亿五千万美元、八万两千美元 call 墙对七万五千美元 max pain、Deribit 未平仓超过 IBIT。
 
 来源:2026-05-21</description>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 23:00:00 +0000</pubDate>
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-21.mp3" length="9634176" type="audio/mpeg"/>
       <guid isPermaLink="false">btc-2026-05-21</guid>
       <itunes:duration>13:22</itunes:duration>
@@ -660,7 +690,7 @@ CME 波动率期货 BVI 计划六月一日上线、美国商品期货交易委�
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>又咋啦?! BTC 简报 · 2026-05-20</title>
+      <title>又咋啦?! BTC 简报 · 2026-05-21</title>
       <description>今日 BTC 市场:BTC 收报七万七千四百三十七美元,日内上涨百分之零点八,仍处熊市格局(二百日均线八万一千一百三十六美元上方未夺回);恐惧贪婪指数二十七、Fear;BTC 现货 ETF 进入第二周净流出,五月十八日单日流出六亿四千九百万美元;美国参议院通过限制 Trump 对 Iran 军事权力的决议,带动 BTC、ETH、XRP 同步反弹。
 
 ▌flow / ETF 与资金面
@@ -679,7 +709,7 @@ CME BVI 波动率期货按六月一日上线、报道指美国商品期货交易
 Bernstein 估算 BTC 矿工掌握二十七 GW 规划电力与九百亿美元 AI 合作协议、矿工被迫卖盘压力下降;Glassnode 测算约百分之十的 BTC 供给在结构上对量子计算突破暴露、提示 BIP-360 一类抗量子路径。
 
 来源:2026-05-20</description>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 23:00:00 +0000</pubDate>
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-20.mp3" length="11008800" type="audio/mpeg"/>
       <guid isPermaLink="false">btc-2026-05-20</guid>
       <itunes:duration>15:17</itunes:duration>
@@ -687,7 +717,7 @@ Bernstein 估算 BTC 矿工掌握二十七 GW 规划电力与九百亿美元 AI 
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>又咋啦?! BTC 简报 · 2026-05-19</title>
+      <title>又咋啦?! BTC 简报 · 2026-05-20</title>
       <description>今日 BTC 市场: BTC 收报七万六千九百九十七美元,日内基本走平,跌幅百分之零点一;现货熊市格局延续,F&amp;G 跌至 25 极度恐惧,长端美债收益率冲到二十年新高,定义今天宏观主线。
 
 ▌flow / ETF
@@ -706,7 +736,7 @@ CME BVI 波动率期货仍按 6 月 1 日上线目标,CFTC 审查无更新;Verif
 CoinDesk 引述减半周期理论指向 10 月可能见底(日历参考,非价格预测);Citi 警告 BTC 量子计算风险高于 ETH(长期尾部风险)。
 
 来源:2026-05-19</description>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 19 May 2026 23:00:00 +0000</pubDate>
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-19.mp3" length="5950368" type="audio/mpeg"/>
       <guid isPermaLink="false">btc-2026-05-19</guid>
       <itunes:duration>8:15</itunes:duration>
@@ -714,7 +744,7 @@ CoinDesk 引述减半周期理论指向 10 月可能见底(日历参考,非价�
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>又咋啦?! BTC 简报 · 2026-05-18</title>
+      <title>又咋啦?! BTC 简报 · 2026-05-19</title>
       <description>今日 BTC 市场:BTC 收报 七万七千零六十一美元,当天下跌百分之一点七,F&amp;G 跌到 28(恐惧),六周 ETF 净流入断点出现,伊朗局势重新主导宏观盘面。
 
 ▌flow / ETF
@@ -733,7 +763,7 @@ Strategy 上周购入 24,869 BTC、持仓 843,738 BTC(约总量 4%),STRC 优先�
 CME BTC 波动率期货 BVI 目标 6月1日 上线(待 CFTC 审核);CME-Nasdaq 市值加权加密指数期货 6月8日 上线(BTC 权重约 77%);前 OpenAI Aschenbrenner 一百三十六亿美元 基金做空 Nvidia / AMD,做多 BTC 矿企;Citi 警告 BTC 量子计算风险高于 Ethereum。
 
 来源:2026-05-18</description>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 18 May 2026 23:00:00 +0000</pubDate>
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-18.mp3" length="9624096" type="audio/mpeg"/>
       <guid isPermaLink="false">btc-2026-05-18</guid>
       <itunes:duration>13:22</itunes:duration>
@@ -741,7 +771,7 @@ CME BTC 波动率期货 BVI 目标 6月1日 上线(待 CFTC 审核);CME-Nasdaq �
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>又咋啦?! BTC 简报 · 2026-05-17</title>
+      <title>又咋啦?! BTC 简报 · 2026-05-18</title>
       <description>今日 BTC 市场:BTC 24 小时收报七万八千四百四十美元,日内涨幅百分之零点二三,但过去一周整体下行,价格在两百日 SMA 八万一千六百二十五美元下方、五十日 SMA 之上,属于熊市格局中的中期超卖压缩,F&amp;G 跌到 27 深度恐慌。
 
 ▌macro / 利率
@@ -760,7 +790,7 @@ CLARITY 法案五月十四日在参议院银行委员会十五比九通过、下
 CME BTC 波动率期货 BVI 目标六月一日上线、Nasdaq CME Crypto Index 期货目标六月八日上线,等监管过审。
 
 来源:2026-05-17</description>
-      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 17 May 2026 23:00:00 +0000</pubDate>
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-17.mp3" length="7917120" type="audio/mpeg"/>
       <guid isPermaLink="false">btc-2026-05-17</guid>
       <itunes:duration>10:59</itunes:duration>
@@ -768,7 +798,7 @@ CME BTC 波动率期货 BVI 目标六月一日上线、Nasdaq CME Crypto Index �
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>又咋啦?! BTC 简报 · 2026-05-16</title>
+      <title>又咋啦?! BTC 简报 · 2026-05-17</title>
       <description>今日 BTC 市场:现货收在 78,266 美元,日内下跌 1.0%,熊市格局延续(价格低于 200 日均线 81,783 美元),恐惧贪婪指数压缩到 31(恐惧)。今日的形状是资金面格局转向、杠杆被清洗、宏观面盖过监管利好。
 
 ▌flow / ETF / 资金面
@@ -784,7 +814,7 @@ CLARITY Act 5 月 14 日以 15-9 通过美国参议院银行委员会、推进�
 CME 与 NASDAQ 6 月 8 日上线市值加权的 Nasdaq CME Crypto Index 期货;CME 维持 6 月 1 日推出 Bitcoin Volatility(BVX)期货的目标、等待 CFTC 审核;TLDR Crypto 长文梳理 Coinbase 拿走 Circle 公司 USDC 收入约一半的结构性地位;IREN 完成 30 亿美元可转债融资加速向 AI 基础设施转型。
 
 来源:2026-05-16</description>
-      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 23:00:00 +0000</pubDate>
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-16.mp3" length="10393632" type="audio/mpeg"/>
       <guid isPermaLink="false">btc-2026-05-16</guid>
       <itunes:duration>14:26</itunes:duration>
@@ -792,7 +822,7 @@ CME 与 NASDAQ 6 月 8 日上线市值加权的 Nasdaq CME Crypto Index 期货;C
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>又咋啦?! BTC 简报 · 2026-05-14</title>
+      <title>又咋啦?! BTC 简报 · 2026-05-15</title>
       <description>今日 BTC 市场:BTC 收盘八万一千四百二十五美元,日内涨百分之二点四,日内波动约百分之四;200 日均线八万二千一百三十三美元,价格紧贴下方;F&amp;G 指数从四十二跌到三十四,情绪反向走深至恐惧。
 
 ▌regulation / 监管
@@ -814,7 +844,7 @@ Charles Schwab 向部分美国用户开放 BTC、ETH 现货交易;CME 波动率�
 CryptoQuant 提示 BTC 撞到历史阻力位,过往熊市反弹多次出现,链上交易者已在获利了结。
 
 来源:2026-05-14</description>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 23:00:00 +0000</pubDate>
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-14.mp3" length="10621440" type="audio/mpeg"/>
       <guid isPermaLink="false">btc-2026-05-14</guid>
       <itunes:duration>14:45</itunes:duration>
@@ -822,7 +852,7 @@ CryptoQuant 提示 BTC 撞到历史阻力位,过往熊市反弹多次出现,链�
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>又咋啦?! BTC 简报 · 2026-05-13</title>
+      <title>又咋啦?! BTC 简报 · 2026-05-14</title>
       <description>今日 BTC 市场: 收在七万九千四百三十美元,日内下跌百分之一点四,价格在200日均线下方,恐惧贪婪指数 42 Fear, ETF 资金流首次出现失血迹象。
 
 ▌macro / 利率
@@ -844,7 +874,7 @@ CryptoQuant 报告长期持有者获利了结上升美国现货需求下降, 长
 Starknet 推出 strkBTC 用零知识证明做的 BTC 隐私包装并配套可审计的查阅密钥。
 
 来源: 2026-05-13</description>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 13 May 2026 23:00:00 +0000</pubDate>
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-13.mp3" length="9635616" type="audio/mpeg"/>
       <guid isPermaLink="false">btc-2026-05-13</guid>
       <itunes:duration>13:22</itunes:duration>
@@ -852,7 +882,7 @@ Starknet 推出 strkBTC 用零知识证明做的 BTC 隐私包装并配套可审
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>又咋啦?! BTC 简报 · 2026-05-12</title>
+      <title>又咋啦?! BTC 简报 · 2026-05-13</title>
       <description>今日 BTC 市场:BTC 收八万零五百四十八美元,跌幅百分之一点六;现货仍在熊市,Fear and Greed 四十九中性;宏观面三件大事叠加——Warsh 主席任命投票临近、CPI 创三年新高、霍尔木兹海峡仍关闭——但 CoinShares 显示加密产品连续六周净流入,六周累计四十九亿美元,资金流面继续吸收所有利空。
 
 ▌macro / 美联储与利率路径
@@ -880,7 +910,7 @@ Bhutan 又转移一百枚 BTC,2026 年累计转出超两点三亿美元;Exodus �
 CoinDesk:BTC 牛熊周期指标自 2023 年 3 月以来首次翻绿,下一档阻力指向九万美元。
 
 来源:2026-05-12</description>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 May 2026 23:00:00 +0000</pubDate>
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-12.mp3" length="8845056" type="audio/mpeg"/>
       <guid isPermaLink="false">btc-2026-05-12</guid>
       <itunes:duration>12:17</itunes:duration>
@@ -888,7 +918,7 @@ CoinDesk:BTC 牛熊周期指标自 2023 年 3 月以来首次翻绿,下一档阻
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>又咋啦?! BTC 简报 · 2026-05-11</title>
+      <title>又咋啦?! BTC 简报 · 2026-05-12</title>
       <description>今日 BTC 市场:BTC 收报八万一千八百零六美元,上涨百分之一点二五,日内区间八万零四百六十三到八万两千四百七十九美元;价格在两百日 SMA 下方但已贴近,日线 RSI 偏紧而周线 RSI 仍有空间,F&amp;G 报四十八、中性,情绪从两天前的恐惧迅速回暖。
 
 ▌flow / 资金流
@@ -907,7 +937,7 @@ MARA 一季度卖出十五亿美元 BTC 用于偿债;CleanSpark 二季度浮亏�
 一头自2013年以来沉默的 BTC 巨鲸在周日链上转移约四千万美元。
 
 来源:2026-05-11</description>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 May 2026 23:00:00 +0000</pubDate>
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-11.mp3" length="5263488" type="audio/mpeg"/>
       <guid isPermaLink="false">btc-2026-05-11</guid>
       <itunes:duration>7:18</itunes:duration>
@@ -915,7 +945,7 @@ MARA 一季度卖出十五亿美元 BTC 用于偿债;CleanSpark 二季度浮亏�
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>又咋啦?! BTC 简报 · 2026-05-10</title>
+      <title>又咋啦?! BTC 简报 · 2026-05-11</title>
       <description>今日 BTC 市场: 价格收八万零七百八十六美元,日内上涨百分之零点四,处于 200 日 SMA 下方,bear regime,恐惧贪婪指数从 Fear 回升至 Neutral 47;ETF 周度净流入连续六周但日线已现单日两亿六千八百万美元的净流出。
 
 ▌flow / ETF
@@ -934,7 +964,7 @@ Nasdaq 总裁 Tal Cohen 在 Consensus Miami 称 SEC 立场转向建设性,确认
 CME 计划六月一日推出 BTC 波动率期货,等待监管批准;Bitcoin Core 披露 CVE-2024-52911 高危 use after free 漏洞,影响 0.14.1 至 28.4 各版本。
 
 来源:2026-05-10</description>
-      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 May 2026 23:00:00 +0000</pubDate>
       <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-05-10.mp3" length="4622400" type="audio/mpeg"/>
       <guid isPermaLink="false">btc-2026-05-10</guid>
       <itunes:duration>6:25</itunes:duration>
