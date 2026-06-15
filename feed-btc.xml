@@ -19,6 +19,36 @@
     <itunes:category text="Business"/>
     <itunes:summary>每日 BTC 市场简报，从 swing trader 视角解读价格、流动性与重要新闻。</itunes:summary>
     <item>
+      <title>又咋啦?! BTC 简报 · 2026-06-16</title>
+      <description>今日 BTC 市场: BTC 收六万六千三百八十八美元,涨幅百分之一点六七,美伊和平协议推动反弹至两周高位,但日本央行(明日)和 FOMC Warsh 首次会议(后天)两个宏观二元事件悬而未决。
+
+▌资金流和 ETF
+ETF 终结五天净流出录得八千五百八十万美元单日净流入;BlackRock BITA 备兑认购 ETF 正式生效;六月二十六日 Deribit 季度期权到期八十五亿美元名义规模、最大痛点七万七千五百美元形成机械阻力
+
+▌宏观、利率
+日本央行明日加息二十五个基点预期概率百分之九十七、日元空头九年高位五千亿美元套利风险;Warsh 首次 FOMC 鹰派点阵图风险;七月十四日六月 CPI 待公布
+
+▌地缘政治
+特朗普宣布美伊框架协议完成,六月十九日瑞士签署仪式,强硬派内部反对是未解风险
+
+▌企业国库
+Strategy 以均价六万三千零二十四美元买入一千五百八十七枚 BTC 共一亿美元,持仓升至八十四万六千八百四十二枚;Saylor 确认 BTC 出售是结构性安排;Capital B 股东明日投票五百亿欧元股权加一千一百六十亿欧元信贷授权
+
+▌监管
+德克萨斯州战略储备托管商 RFP 今日截止、目标八月完成直接持币过渡;日本众议院通过 FIEA 加密资产修正案;代币化 SpaceX 份额被三家交易所取消;CLARITY 法案排期仍不确定
+
+▌周期和链上
+挖矿难度下调百分之十点零九,史上第十一大幅度;哈希率较十月峰值跌百分之二十三;CryptoQuant 表观需求负十四万七千枚 BTC 创二零二六年新低;Mt. Gox 一万零四百二十二枚 BTC 已移仓待偿;Coinbase 溢价消失、韩元折价、散户缺席
+
+来源：2026-06-15</description>
+      <pubDate>Mon, 15 Jun 2026 23:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-06-15.mp3" length="16490880" type="audio/mpeg"/>
+      <guid isPermaLink="false">btc-2026-06-15</guid>
+      <itunes:duration>22:54</itunes:duration>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-06-15.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦?! BTC 简报 · 2026-06-15</title>
       <description>今日 BTC 市场:收于六万四千九百一十二美元(+0.93%),三连日在六万五千美元以下收盘,依然处于熊市区间,贪婪恐惧指数十八分(极度恐惧)。明日日本央行会议开幕(97% 概率加息至 1.0%),周二至三联邦公开市场委员会,伊朗和平协议 72 小时执行窗口同时打开,为今年最密集的宏观事件堆叠周。
 
