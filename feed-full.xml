@@ -25,6 +25,33 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-06-16</title>
+      <description>又咋啦?! 完整版 — 2026-06-16
+
+**AI 监管动态：** 美国政府以国家安全为由发出出口管制指令，Anthropic 最强大的 Fable 5 和 Mythos 5 被迫下线，所有 API 访问暂停。事件背后：亚马逊 CEO 安迪·贾西将内部越狱测试结果上报美国官员，直接触发了这一限制；而亚马逊本身既是 Anthropic 云基础设施合作伙伴，也是其主要投资者。Anthropic 反驳称漏洞被过度渲染。以前 FTX 持有的 Anthropic 股份今日估值约 750 亿美元，映射出这家公司的惊人增速。
+
+**AI 模型与新能力：** Moonshot AI 发布 Kimi K2.7 Code，1 万亿参数 MoE 架构的代码专属智能体模型；OpenRouter 推出 Fusion API，用多模型面板拼出与 Fable 级相当的质量，价格减半；OpenAI 与 Anthropic 在上下文管理架构上走向两条路：前者单一滚动上下文窗口，后者层级化多智能体；Apple 已悄悄在 iOS 27 Beta 中内置完整的第三方 AI 扩展系统并接入 Siri，但在 WWDC 前关闭了后端开关；Google 为 Gemini Enterprise 打造 Skills Marketplace，面向无工程支持团队；有观点认为前沿大模型时代已过峰值，专属小模型网络正在超越中心化系统。
+
+**AI 产业与战略：** DeepSeek 的开源姿态可能不是为了民主化，而是一盘更大的棋——复制 CUDA 或 PyTorch 的平台级护城河；最快速增长的 AI 原生公司正同时拿下消费者与企业市场，数据、工作流闭环、网络效应和品牌成为真正的壁垒；AI 投资难以用传统 SaaS 估值逻辑框定；Matthew Butterick 的新长文将 AI 风险从"机器人统治"重新定义为"权力结构固化"。
+
+**AI 基准与工程实践：** Ramp 公布基于 80 个真实生产后端任务的私有编码基准，比学术集更可信；英伟达 Blackwell Ultra NVL72 在 AgentPerf 基准上每兆瓦吞吐量是 Hopper 的 20 倍；Devin 提出成果保障定价，每家企业客户若未达阈值赔付 1000 万美元；大模型推理成本拆解：GPU 规格、上下文长度、活跃参数量、批处理策略四个变量共同决定；MiniMax 发布稀疏注意力技术，在百亿参数多模态模型 100 万 token 上下文下降低 30 倍注意力计算量；Jane Street 博客论证形式化方法已可用于生产级软件验证，AI 辅助代码生成使正确性验证更为关键。
+
+**AI 采纳与现实：** Gabriel Weinberg 数据显示 AI 实际用户多为偶发使用者，过去六至十二个月采纳率几乎没有实质提升，而负面情绪却在快速上升；KPMG 因发布含 AI 幻觉内容的报告被迫公开撤稿，暴露专业服务领域的 AI 输出验证缺口；Tim Ferriss 公布亲测数据：AI 聊天机器人已实质终结"操作类非虚构"书籍市场。
+
+**创业与商业：** AI 原生 SaaS 公司以 20 人 GTM 团队达到 1000–2500 万美元 ARR，比非 AI 同类少约 15 人；调研显示 85% 潜客偏好聊天而非语音 AI 销售，且聊天 Agent 更易部署和修复；Agents 时代的真正护城河可能是"许可与管控层"而非数据或模型；AI 自动化金融的关键在于先定义可衡量指标，建好测量语言才能成为自动化目标；各平台 AI 搜索引用机制（Google/OpenAI/Anthropic）在数据新鲜度与发布者权重上差异显著；Google 发布开放知识格式规范，让结构化企业知识可被 Agents 可靠读取；AI 时代创业转型成本高于五年前，暗示需要更精准的初始赌注；产品发布核心是触达"传播能让自己显得更聪明"的早期信徒；Caddy 兼容 zeroserve 后静态文件吞吐量提升 3 倍、延迟降低 70%。
+
+**金融科技：** Adyen 以 3.35 亿美元收购企业级计量计费创业公司 Orb；个人理财 App Current 完成 E 轮 8000 万美元融资，估值 15 亿美元；巴克莱英国收购青少年理财平台 GoHenry；Square 向商家提供 3.5% 储蓄利率，超全国均值 8 倍；关于骤然暴富的心理建议：金钱买的是解脱与选择权，而非自动的快乐。
+
+**科技前沿与世界：** 中欧研究团队独立研制出首个实用核钟，稳定性是现有原子钟的万倍；新 CRISPR 技术可精准摧毁携带特定突变的癌细胞而不伤健康细胞，适用范围覆盖 70–90% 某些癌症类型；北大西洋海洋数据显示冷异常扩大，或预示 AMOC 减弱，若塌陷将是重大气候事件；里约热内卢市政府发布声称自研的 AI 模型，GitHub issue 调查发现实为约 60% Nex-N2 + 40% Qwen3.5 加权混合，AI 产品溯源验证再次重要。</description>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-06-16.mp3" length="13449024" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-06-16</guid>
+      <itunes:duration>18:40</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-06-16.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-06-15</title>
       <description>▌AI / 大模型
 AI采用率被高估?来自招聘、素养和工程案例的反面证据;里约热内卢政府"自研"大模型实为已有模型合并;大型AI公司将客户迭代转化为平台提取的结构性风险;Jane Street论AI代码生成时代的形式化验证必要性;KPMG撤回因AI幻觉产生的智能体报告;FTX破产清算中Anthropic股份估值超750亿美元。
