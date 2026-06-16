@@ -25,6 +25,29 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-06-17</title>
+      <description>2026年6月17日 全版
+
+本期涵盖以下内容：
+
+【AI 与大模型】美国政府要求Anthropic下线Fable和Mythos模型，创下政府直接干预AI产品的先例；分析Mythos护栏被绕过背后的安全启示——模型安全和部署安全是两回事；AI竞赛的阶梯式重置如何倒逼产品层差异化；为何AI模型依赖应当像对待云服务商依赖一样管理；Google DeepMind关于AGI迈向超级智能四条路径的研究；以及欧洲2%算力缺口对AI主权的结构性影响。
+
+【AI 应用与产品】Factory的AI软件工厂已在大型企业生产部署，工程师角色从写代码转向管理智能体系统；Facebook将搜索栏改造为对话式AI；Sakana AI发布自主生成战略报告的Marlin；Anthropic推出Foundation Models Swift包降低Apple平台接入门槛；本地模型跨过实用门槛，自托管推理成为当前可行选项；OpenRouter Fusion的学习型裁判模型如何实现集成即服务。
+
+【产业与开发者生态】Fox以250亿美元收购Roku整合平台与内容；Hetzner七月上调25%云服务器价格；AI智能体4倍代码产出仅带来12%价值增量——审查能力成为新瓶颈，工程组织的招聘和晋升标准需要重新校准；企业自行做LLM后训练的趋势；主权AI对算力供应链的依赖；DFlash和Spec V2改进推测解码降低推理成本；100倍更便宜的LLM错误检测方案；AI工具采用需要组织前提而非仅靠培训；代码协作重心从规划会转向代码审查；Vanguard六维AI成熟度模型的大规模实践；Rust在内存安全CVE上的实证优势；31种问题原型分类法；组织架构保护深度工作的设计原则；Iroh 1.0去中心化网络库发布；以及高层领导验证机制的必要性。
+
+【Web、互联网与社会】Chrome 151将移除MV3之前的广告拦截架构；AI聊天界面取代搜索引擎成为内容发现主入口，独立网站正从目的地变为训练数据供应链；LinkedIn虚假GitHub仓库求职骗局；英国2027年初对16岁以下禁用社交媒体，与澳大利亚、欧盟、美国的同向监管趋势；Safari 27原生支持可自定义select元素。
+
+【科学与医疗】UC Davis脑机接口帮助ALS患者重获数字沟通能力；铜转运药物候选物在动物实验中清除淀粉样蛋白斑块并恢复记忆；小规模试验显示高剂量裸盖菇素疗法使阿尔茨海默症患者MMSE评分平均提升4.2分。</description>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-06-17.mp3" length="13498848" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-06-17</guid>
+      <itunes:duration>18:44</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-06-17.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-06-16</title>
       <description>又咋啦?! 完整版 — 2026-06-16
 
