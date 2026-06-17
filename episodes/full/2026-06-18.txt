@@ -1,0 +1,16 @@
+▌AI / 大模型
+OpenAI 部署模拟系统（用真实对话压测候选模型），GLM-5.2 开源百万上下文模型，DeepSeek 七十四亿美元融资，Android 17 MCP 智能体协议，本地模型达到云端 API 竞争水平
+
+▌AI 产业 / 公司动态
+AI 高管魔法思维问责化，SpaceX 六百亿收购 Cursor，OpenAI 2025 年亏损六十一亿，Anthropic 被白宫限制模型访问，AI 产品竞争护城河消失，ChatGPT 广告年化一亿美元，Anthropic 暂停 Agent SDK 计费，Claude 服务事故
+
+▌硬件 / 新品
+Apple 2027 摄像头 AirPods 及可折叠 iPhone 路线图，Genesis AI 通用机器人 Eno，Snap Specs AR 眼镜两千美元，Qualcomm 后智能手机芯片布局，Apple 车载运动提示功能，阿里 Qwen-Robot 基础模型
+
+▌AI 工具 / 基础设施
+AWS S3 对象注释功能，Robinhood AI 智能体自主交易，Cursor Origin 智能体原生代码托管，OpenAI Codex 支持 CDP 浏览器操控，NVIDIA Blackwell 刷新 MLPerf 训练记录
+
+▌公司 / 监管
+Calvin and Hobbes 拒绝商业化的战略选择，Meta 工程文化重组，Apple App Store 按键记录隐私问题，Android 17 向 Pixel 推送，纽约州拟立法禁止幽灵职位
+
+来源：英文科技新闻通讯及社区讨论（2026-06-17）
