@@ -1,0 +1,25 @@
+2026年6月19日｜又咋啦？！全集
+
+本期涵盖43个故事，分五个板块。
+
+▌AI行业格局
+
+ChatGPT市场份额首次跌破50%，用户流向Gemini、Claude和Grok。Cursor从零训练1.5万亿参数代码专用模型。Transformer论文共同作者Noam Shazeer加入OpenAI。阿里GLM-5.2成为Artificial Analysis开源模型榜首。Kimi K2.7 Code宣称成本比Claude Fable 5低94%。Mistral预告夏季新模型。OpenAI发布生命科学工作流基准LifeSciBench。研究发现更高推理力度并不稳定提升安全漏洞分级质量。本地Qwen模型是独立工具类别，而非廉价版闭源前沿模型。
+
+▌智能体与开发工具
+
+Vercel推出Connect（运行时短效凭证）和eve（生产级开源智能体框架）。Anthropic发布Claude Design重大更新，支持从GitHub导入设计系统。NVIDIA GEAR实验室开源ENPIRE，让AI智能体操控物理机器人完成数据中心任务。NVIDIA XR AI框架开源，面向AR/XR设备的AI智能体开发。Replit集成进Claude。YC W25项目Adam发布开源AI CAD工具。Greptile推出TREX——在审查时实际执行代码的AI代码审查工具。MolmoMotion支持语言引导的三维运动预测。讨论自提示循环智能体及设计系统成为AI基础设施两个趋势议题。
+
+▌金融科技
+
+Apple为iOS 27 Wallet和Apple Pay添加AI功能。Nuvei以27.5亿美元收购Payoneer。Mercury推出面向创始人的AI银行界面Command。Stripe和AWS支持AI智能体自主购买付费网络内容。Adyen发布智能体商务API套件Adyen Agentic。PayPal关闭风险投资部门。Robinhood裁员295人（10%）。Klarna嵌入Bolt欧洲出行应用。Interchecks完成5000万美元C轮融资。
+
+▌AI的现实影响
+
+特朗普政府封禁Anthropic模型，150余位网络安全专家联名反对。制药业AI正在加速发现层，但临床试验和监管审批才是未动的真正瓶颈（观点）。Mobileye宣布2027年在美推出机器人出租车服务。AI让个人变快，但组织生产力并未同步提升。60%美国消费者认为"AI"标签是负面营销信号。OpenAI AI化学家改进了一步药物合成反应。讨论AI对工程纪律要求更高、AI原生创业策略，以及AI无法复制的竞争护城河。
+
+▌科技与商业
+
+马斯克投资方预期SpaceX与Tesla合并。Apple因AI芯片需求推高内存价格将上调产品售价。开源VCS Lore支持代码与大型二进制文件统一管理。Photobucket将用户历史照片锁进每月5美元订阅墙。大众汽车应用开始屏蔽GrapheneOS设备。
+
+来源：TLDR AI、TLDR Fintech、TLDR、Hacker News
