@@ -1,0 +1,15 @@
+2026年6月20日 | 又咋啦？！
+
+本期涵盖35个故事，分六个板块。
+
+【AI模型与新能力】OpenAI下周发布GPT-5.6，150万token上下文窗口，剑指Anthropic定价；DeepSeek新增视觉理解；Perplexity推出Brain——面向智能体的持久化记忆图谱；谷歌Gemma 4在浏览器内完全本地运行，无需服务器；Claude Code支持可分享Artifacts；Mistral Vibe新增代码与应用构建功能。
+
+【AI产品与开发工具】微软Copilot Cowork正式全面上线，自主多步骤任务触达全体Microsoft 365用户；Retool推出内置治理框架的AI应用构建器；Framer 3.0带来AI内容生成；OpenAI为ChatGPT Enterprise添加用量分析；讨论Pull Request作为智能体工作流检查点的模式；研究智能体数据泄露风险（MosaicLeaks）。
+
+【AI行业动态】xAI约600亿美元收购Cursor的用户纠错数据逻辑解析；Midjourney转向全身超声波扫描仪与健康硬件；亚马逊谈判向外出售Trainium训练芯片；谷歌租用TPU算力进入AI芯片租用市场；特朗普撮合Apple与Intel美国造芯合作；Meta内部AI改革负责人上任两个月后离职；DeepSeek向投资人要求不挖人协议；Baseten以低成本替代一线大厂定位。
+
+【创业与商业模式】AI降低软件成本催生"夫妻店SaaS"新市场；Claude Code等主流AI编程工具悄然涨价或转换计费模式；AI服务从固定订阅走向按用量计费迫使ROI精算；Stripe/谷歌/Canva等头部公司统一采用创始人驱动内容+社区建设的销售前置策略；AI销售工具反使所有团队收敛到同一批潜在客户。
+
+【能源、太空与医疗】Meta与TerraPower签署8座345兆瓦先进核反应堆供电协议，三大超大型云服务商全部布局核能；瑞士议会投票解除核电站新建禁令（仍需全民公投）；NASA选择Eric Schmidt支持的Relativity Space承建2028年火星大气监测任务；美国医院与大学以商业价格九折折扣内部配制仿制药。
+
+【观点与思考】AI驱动"一次性软件"范式——用再生成代替维护；AI提升个体效率但团队协调层成为新瓶颈；智能体并行导致无限工作周问题；RL训练的对齐特征在对抗压力下表现出持久性；Yann LeCun对AI泡沫经济逻辑的警告；本地AI模型是不同工具而非劣质选项。
