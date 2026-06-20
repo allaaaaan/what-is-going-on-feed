@@ -19,6 +19,33 @@
     <itunes:category text="Business"/>
     <itunes:summary>每日 BTC 市场简报，从 swing trader 视角解读价格、流动性与重要新闻。</itunes:summary>
     <item>
+      <title>又咋啦?! BTC 简报 · 2026-06-21</title>
+      <description>今日 BTC 市场:BTC 收于六万三千九百五十七美元,上涨百分之一点三,但熊市区间未改变,价格低于两百日均线百分之十七,恐慌贪婪指数二十三(极度恐慌)。
+
+▌macro / 利率
+Warsh 首次 FOMC 鹰派落地、七月加息概率逼近百分之四十;伊朗核协议正式签署移除地缘政治买盘;美元指数酝酿技术突破;摩根大通确认去贬值交易加速退潮、BTC ETF 连续四周净流出
+
+▌flow / ETF + 衍生品 + 资金流
+Deribit 六月二十六日季度期权到期,名义规模一百至一百三十亿美元,最大痛点七万四千美元,六万美元 put 墙四亿五千万美元持仓;Coinbase 溢价六月二十日关键节点未转正;链上表观需求负六十五万 BTC 创历史低点;富兰克林邓普顿申请股息再投资 BTC ETF;资本向 AI 半导体板块轮动
+
+▌regulation / 监管
+CME 集团六月十八日起诉 CFTC 反对 Kalshi BTC 永续合约批准;Kraken 受 CFTC 监管的美国永续合约六月十五日上线;监管立法跟踪均无实质进展
+
+▌treasuries / 公司国库
+Strategy STRC 分红致 BTC 出售路径确认且加速(月付两次,六月三十日生效);STRC 面值崩塌时间线复盘;Strive SATA 优先股杠杆平仓;Capital B 一千亿欧元授权通过但无实际发行
+
+▌mining / 矿工 + 链上活跃度
+上市矿工 Q1 出售三万两千枚 BTC 超全年 2025 总量、约百分之二十矿机亏损;链上网络活跃度逆势上升
+
+来源:2026-06-20</description>
+      <pubDate>Sat, 20 Jun 2026 23:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-06-20.mp3" length="14471712" type="audio/mpeg"/>
+      <guid isPermaLink="false">btc-2026-06-20</guid>
+      <itunes:duration>20:05</itunes:duration>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/btc/2026-06-20.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦?! BTC 简报 · 2026-06-19</title>
       <description>今日 BTC 市场: 双催化剂行情——伊朗美国 MOU 签署推动盘中冲高至六万六千美元,但 Warsh 联储鹰派点阵图将行情压回至六万两千九百三十美元收盘,跌幅百分之二点零五,恐惧贪婪指数十五(极度恐惧)。
 
