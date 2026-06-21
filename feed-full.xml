@@ -25,6 +25,29 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-06-22</title>
+      <description>▌AI / 大模型
+AI工具导致传统行为面试失效、雇主筛选信号崩溃；Anthropic对顶级Claude模型引入美国身份核验要求、非美国用户被锁出；AI大规模内容生产的"模式崩溃"问题；NVIDIA DGX Spark本地运行双Qwen3模型的推理经济学测试。
+
+▌科技与社会
+iOS原生App无需权限即可读取设备指纹数据（Loupe实测）；TownSquare匿名实时聊天工具上线即遭刷屏，揭示无门槛公共空间的普遍失效；人类大脑被设计利用的威胁探测机制与现代信息过载；图书馆"万物借阅"计划延伸至3D打印机和数控机床；Lodash作者谈开源维护的结构性倦怠困境。
+
+▌科学与健康
+《神经元》期刊：缓慢呼气调节大脑活动并提升风险承受意愿；居家十五分钟蜱虫莱姆病检测套件上市。
+
+▌工程实践
+Go语言nil指针检查过度问题的结构性根源分析。
+
+来源：Hacker News（2026-06-21）</description>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-06-22.mp3" length="5196960" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-06-22</guid>
+      <itunes:duration>7:13</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-06-22.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-06-21</title>
       <description>▌AI / 大模型
 开源模型 GLM-5.2 幻觉率仅为 GPT-5.5 的三分之一，颠覆商业模型可靠性优势认知；Cloudflare 为 AI 智能体推出临时一次性账户凭证；AI 被用于盗取畅销书《悲伤词典》内容并重新发布。
