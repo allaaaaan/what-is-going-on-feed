@@ -25,6 +25,41 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-06-24</title>
+      <description>今日 49 条消息，分八个板块。
+
+**AI政策与监管**
+白宫 AI 安全暂停令导致 Anthropic 关闭 Mythos——这是继 Fable 5 之后第二个被叫停的前沿模型，政府已两次证明它有意愿直接干预私营 AI 部署决策；知识 Agent 在知识密集型任务上超越前沿模型；Anthropic 7 月 8 日起对部分 Claude 用户实施身份核验；特朗普表示不再视 Anthropic 为国家安全威胁，但正式限制尚未解除；亚马逊积极游说反对强制人类监督 AI 决策的监管框架；摩根大通继高盛后将 Claude 从香港员工可用工具列表中移除。
+
+**AI模型与能力突破**
+GLM-5.2 取得开源模型基准榜首；实测分析表明从闭源前沿模型切换到开源模型质量损失微乎其微而成本可降低 80–90%；Inception Labs 的 Mercury 2 扩散模型每秒生成约 1000 个 token；Moebius 2.2 亿参数图像补全模型媲美 10 倍大的模型；Sakana AI 的 Fugu 多 Agent 系统在 AI 研究基准上取得最优结果；阿里巴巴 HappyHorse 1.1 视频生成模型升至全球第二；Morph 专项代码生成模型实现 3 倍吞吐量；AI 工程师声称部分破译线性文字 A。
+
+**AI行业人事与商业**
+SpaceX 与 Reflection AI 签署价值最高 63 亿美元的超算访问协议；AlphaFold 负责人、诺贝尔化学奖得主 John Jumper 离开 DeepMind 加入 Anthropic；OpenAI 发布 GPT-5.5-Cyber 及安全工具套件 Daybreak；腾讯将小微 AI 助手整合进微信覆盖 13 亿用户；Jane Street 招募 500+ 工程师押注 AI 驱动交易 Alpha；Noam Shazeer 放弃谷歌 27 亿美元未归属薪酬出走的案例再度证明文化留人比薪酬更有效。
+
+**算力与AI基础设施**
+美国新数据中心电网接入等待时间达 5–10 年，三重物理约束叠加（公用事业审批、变压器短缺、老化输电网）；特斯拉推出 Megapod 模块化 AI 数据中心系统对标英伟达基础设施产品；雪佛龙与微软签署 20 年电力供应协议；轨道 AI 数据中心开始商业保险洽谈，迈向可融资里程碑；英伟达发布 ENPIRE 闭环机器人控制系统；英伟达成立人形机器人安全研究实验室。
+
+**开发者工具与AI透明度**
+Claude Code 扩展思考输出被分析认定不是模型实际推理的忠实追踪；OpenAI Codex 日志漏洞无声填满本地 SSD，建议立即检查磁盘；合作伙伴 API 文档中出现 claude-sonnet-5 标识符，新 Sonnet 模型可能即将到来；Deno 发布 Deno Desktop，提供更轻量的 Electron 替代方案；Chrome Lighthouse 新增 Agentic Browsing 评分，网站 Agent 友好度成新优化目标。
+
+**科技巨头与消费产品**
+苹果宣布 2013 年 iOS 7 以来最大规模设计改革；WhatsApp 负责人 Will Cathcart 离职，其隐私立场倡导角色或难以延续；Meta 内部员工监控项目因数据泄露漏洞暂停；Instagram 扩展到连续剧内容和增强版直播；谷歌对精品电影公司 A24 进行战略投资；SpaceX 公布 Starfall 新型返回舱；Valve 以 1049 美元正式推出 Steam Machine 客厅游戏电脑。
+
+**金融与商业动态**
+预测市场平台 Kalshi 申请 220 亿美元估值 IPO；Robinhood 在创纪录交易量的同时裁员 10%（约 300 人）；美联储前主席艾伦·格林斯潘去世；Wise 收购海外移民社区平台 Expatica；Deluxe 以 6.25 亿美元收购 Celero Commerce 延续数字支付转型。
+
+**隐私、政策与社会**
+大量智能电视 App 内嵌 SDK 将电视变成住宅代理节点；Cloudflare 提出 PACT 协议替代验证码；Steve Yegge 的"平曲线社会"论文：AI 正在压缩程序员能力溢价，中间层价值上升而顶尖人才溢价收窄，可迁移的差异化技能是判断力与架构能力；特朗普签署量子计算行政令，后量子密码迁移时间表与行政令挂钩；NSF 削减基础科学研究项目转向应用技术；DHL 签约风动力货轮，标志风动力航运从演示跨越到商业部署。</description>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-06-24.mp3" length="19393056" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-06-24</guid>
+      <itunes:duration>26:56</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-06-24.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-06-23</title>
       <description>今日 27 条消息，分五个板块。
 
