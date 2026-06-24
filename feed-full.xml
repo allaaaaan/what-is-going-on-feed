@@ -25,6 +25,32 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-06-25</title>
+      <description>▌AI / 大模型
+ByteDance Seedance 2.5（文字生成四K视频）、Mistral OCR 4（跨170语言文档智能）、Krea 2（高可控性图片生成）、OpenAI Bidi 1（ChatGPT真双向语音）、VibeThinker 3B（三十亿参数模型推理达Opus 4.5水平）
+
+▌AI 产业 / 策略
+The Coming Loop（agent循环让开发者不再为决策路径负责）、Cursor反向定位策略（fork VS Code让Microsoft无法复制）、AI agent市场流失规律（窄产品存活、全能agent流失）、护城河理论终结（竞争优势变成临时跑道）、《艾尔登法环》低技术AI（状态机胜过学习型模型）、AI推理定价困境（按token竞争无利润）、Prompt Debt（自然语言规格的技术债）、NSA被出口管制切断Anthropic Mythos访问、Trump政府推动Meta自愿提交AI模型评估
+
+▌AI 产品 / 工具
+Claude Tag（Slack原生多人共享AI协作）、Polsia（AI agent替代雇员、五人团队年收千万美元）、Lambda MicroVMs（VM级隔离安全升级）、Unlimited OCR（长文档单次解析）、IBM CUGA（开源agent框架）、NVIDIA Agent Toolkit（企业级开放权重agent构建）、多家AI服务商同时出现错误率上升
+
+▌AI 与社会
+战争机器人论文（自主武器降低政治升级门槛）、年龄验证即全民监控（保护儿童的机制成为成年人身份数据库）、麦迪逊广场花园对反对面部识别的活动人士建立监控档案
+
+▌行业动态
+Meta构建社交预测市场Arena、SpaceX测试Starfall碟形点对点货运舱、Swift Package Index并入Apple
+
+来源：TLDR AI、TLDR Founders、TLDR Main、Hacker News（2026-06-23快照）</description>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-06-25.mp3" length="12680928" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-06-25</guid>
+      <itunes:duration>17:36</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-06-25.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-06-24</title>
       <description>今日 49 条消息，分八个板块。
 
