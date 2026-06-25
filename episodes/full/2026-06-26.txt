@@ -1,0 +1,16 @@
+2026年6月26日｜又咋啦？！ · 今日摘要
+
+**AI 前沿能力**
+OpenAI 和 Broadcom 发布第一块自研 AI 推理芯片"哈拉贝尼奥"（Jalapeño），九个月从设计到流片；Anthropic 与阿里巴巴合作开源模型蒸馏框架；谷歌将计算机使用能力下放至 Gemini 3.5 Flash 最廉价档；智谱 GLM-5.2 开源代理模型上线；Krea 2 十二亿参数开放权重文生图模型发布，许可证宽松；英伟达 NeMo AutoModel 提升 MoE 微调效率；谷歌 FLAT 视频到三维重建技术；阿里 Qwen-AgentWorld 环境模拟模型家族。
+
+**AI 基础设施与资金**
+特斯拉、Sunrun、Renew Home 将 1600 万千瓦家用储能电池聚合为美国最大虚拟电厂，目标是数据中心用电；高通 Dragonfly C1000 数据中心芯片签下 Meta 为首个具名客户（2028 年交付）；Anthropic 老人创立的 Mirendil 完成两亿美元种子轮；AI 数据中心电力容量竞赛：亚马逊领先，谷歌 2027 年有望追近。
+
+**AI 产业与政策**
+Eval（评估）初创公司为何屡败屡倒：评估是内部基础设施，不是可外包的产品；AWS CEO 一边卖 AI 自动化工具，一边招聘一万一千名初级员工；Anthropic 白宫谈判重回正轨，换了联席代表；谷歌 Gemini 两名高级研究员跳槽 Anthropic；Perplexity 发布法律 AI 工具 Computer for Counsel；亚马逊起诉 Perplexity Comet 浏览器伪装绕过服务条款；开源 AI 正成为多数国家维护 AI 主权的唯一可行路径；微软量子"突破"被指因基础 Python 错误失效；美国国家安全局在与 Anthropic 的争议中失去 Mythos 工具访问权；AI 代理向开源仓库批量提交低质量 PR，GitHub 推出 PR 限制功能。
+
+**金融科技与支付**
+万事达卡与乌克兰 PrivatBank 完成首笔 AI 代理全程授权支付；Meta 九亿美元入股印度金融科技 Cred，WhatsApp 新掌门人就位；Stripe Directory 上线公开预览，为 AI 代理提供可搜索的商家网络；印度 UPI 和巴西 Pix 等政府支付轨道正在取代卡网络；SpaceX S-1 披露 Anthropic、谷歌等 AI 公司是其星链边缘算力客户；Visa 和万事达阻止州级刷卡费上限立法并推涨费率。
+
+**科技综合**
+亚马逊平台存在影子行贿市场，卖家可花钱通过中间人操控排名和评价；Stripe 与 Anthropic 出资五亿美元支持 Intercept 室内空气净化项目，目标消灭普通感冒；Roomba 联合创始人 Colin Angle 新创公司发布老人陪伴机器人 Familiar，本地 AI、不上云。
