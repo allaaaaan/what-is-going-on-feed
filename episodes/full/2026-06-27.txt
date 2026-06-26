@@ -1,0 +1,13 @@
+▌AI 行业动态
+白宫要求 OpenAI 推迟前沿模型发布，OpenAI 将 IPO 推迟至 2027 年，Z.ai GLM-5.2 跻身开源模型前十实现能力对等，生成式 AI 年化销售额突破 1750 亿美元，智能体软件市场分层：垂直应用 vs. 基础设施平台
+
+▌AI 与工作经济学
+通用 AI 工程师标签贬值、生产级能力成稀缺护城河，独立创业者年收百万数量两年翻倍，BuilderX Robotics 远程遥控机械颠覆本地就业，AI 时代初创公司转向专有数据闭环建立壁垒
+
+▌模型能力与突破
+Gemini 3.5 Flash 原生 Computer Use 覆盖 Android 与桌面端，Liquid AI LFM 2.5 非 Transformer 架构 2.3 亿参数达三倍规模 Transformer 水平，精确移除语言模型单一语言能力验证干预性对齐可行性，DeepReinforce Ornith-1.0 开源代码模型发布，Meta Autodata 智能体自动生成训练数据
+
+▌硬件与基础设施
+Apple Mac 涨价 15–20%、iPad 涨价 15–25%（AI 芯片需求推动存储成本翻四倍），Apple 跳过 M6 直接进入 AI 定向 M7 系列（2027–2028），IBM 宣布亚 1 纳米晶体管技术，SpaceX Starmind 卫星星座将在轨道直接运行 AI 推理
+
+来源：2026-06-26
