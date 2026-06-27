@@ -25,6 +25,26 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-06-28</title>
+      <description>▌AI / 大模型
+OpenAI GPT-5.6 Sol 发布（编程/推理提升，推理速度三倍提升）、DSpark 投机解码技术（推理吞吐二至三倍提升、无质量损失）、AI 设计射频芯片突破人类设计极限
+
+▌industry / 公司动态
+Fintech 工程手册开源发布、Meta 系统性打压前员工泄露行为升级、BBC 长波发射机关闭（马可尼时代技术落幕）、国家级攻击事后分析（异常证书固定行为检测法）
+
+▌regulation / 消费者权益
+数字"所有权"法律现实：你买的是授权不是财产、加州 CALM Act 扩展至流媒体（7月1日起广告音量不得超过内容音量）
+
+来源：英文科技新闻通讯及社区讨论（2026-06-27）</description>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-06-28.mp3" length="4020768" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-06-28</guid>
+      <itunes:duration>5:35</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-06-28.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-06-27</title>
       <description>▌AI 行业动态
 白宫要求 OpenAI 推迟前沿模型发布，OpenAI 将 IPO 推迟至 2027 年，Z.ai GLM-5.2 跻身开源模型前十实现能力对等，生成式 AI 年化销售额突破 1750 亿美元，智能体软件市场分层：垂直应用 vs. 基础设施平台
