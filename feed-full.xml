@@ -25,6 +25,26 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-06-29</title>
+      <description>▌AI / 大模型
+AMD Strix Halo RDMA本地多节点AI集群, OpenAI Codex敏感文件访问安全风险, Claude Code辅助MRI二次诊断, AI时代软件工程师角色转变, Google限制Meta使用Gemini算力, 企业Tokenmaxxing策略退场, IBM概率计算机p-bit研究
+
+▌privacy / 隐私监控
+欧盟《聊天控制》闭门立法推进, 公共DNS解析服务与数据管辖权, 加州驾照数据上传联邦数据库
+
+▌industry / 行业
+密歇根州"断线权"法案, MUMPS语言仍驱动美国最大电子病历系统Epic, 波音747商业服役接近终章
+
+来源：2026-06-28</description>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-06-29.mp3" length="6427008" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-06-29</guid>
+      <itunes:duration>8:55</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-06-29.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-06-28</title>
       <description>▌AI / 大模型
 OpenAI GPT-5.6 Sol 发布（编程/推理提升，推理速度三倍提升）、DSpark 投机解码技术（推理吞吐二至三倍提升、无质量损失）、AI 设计射频芯片突破人类设计极限
