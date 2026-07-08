@@ -25,6 +25,35 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-07-01</title>
+      <description>▌AI / 大模型
+Devin Fusion 多模型协作架构、Gemini 个性化图像生成免费开放、强化学习的下一个前沿、开放权重模型生态崛起、DeepSeek 开源 DSpark 推理加速、RoadmapBench 长周期编程基准、DiScoFormer 统一密度与评分估计、Google Cloud 售卖科研专用 AI 模型、Sakana Fugu Ultra 代码模型发布、Qwen 3.6 本地开发实测。
+
+▌AI 产业 / 策略
+Salesforce 在 Slack 推广 Claude Tag、Anthropic 与 Amazon 改为按 token 计费、AI 编程工具把瓶颈从写代码转移到产品判断、产品开发的多重瓶颈再思考、Builder.io 让 AI 智能体直接改网站、fal 如何用 AI 做营销、HackerRank 简历筛选工具打分不一致。
+
+▌监管 / 法律
+最高法院为地理围栏搜查令设限、欧洲 ISP 推动版权方滥用追责、三星 SK海力士 美光被诉内存价格操纵、Mullvad CEO 资助瑞典政党引发争议、记者文章遭虚假版权投诉下架、核能安全标准“线性无阈值模型”的反思。
+
+▌硬件 / 公司动态
+iPhone 18 Pro 的 A20 芯片散热与性能升级、Meta Brain2Qwerty 脑机文字解码、Rocket Lab 收购 Iridium 卫星公司、Apple 收购 Swift 可视化开发工具团队。
+
+▌经济 / 市场
+“技术内卷”论及其反思、旧金山高薪科技从业者的生活成本压力、咨询行业从按小时计费转向按结果计费、“科技七巨头”开始跑输大盘。
+
+▌消费者权益 / 平台政策
+PlayStation Store 下架已购电影且不退款、Tidal 公布 AI 生成音乐政策、Instagram 用用户照片做 Meta 智能眼镜广告。
+
+来源：英文科技新闻通讯及社区讨论（2026-06-30）</description>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-07-01.mp3" length="16288416" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-07-01</guid>
+      <itunes:duration>22:37</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-07-01.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-06-30</title>
       <description>▌新模型与新能力
 
