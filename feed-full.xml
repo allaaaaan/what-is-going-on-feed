@@ -25,6 +25,32 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-07-09</title>
+      <description>▌AI / 大模型
+OpenAI发布GPT-5.6系列三档新模型，MiniMax M3稀疏注意力技术，Google开源Gemma 4模型，xAI发布高性价比的Grok 4.5，Cognition发布编程模型SWE-1.7，OpenAI推出语音助手GPT-Live，GPT-Realtime-2.1-mini上线API，Claude Cowork登陆网页与手机端，Claude Fable 5限时免费体验，Meta发布AI图像生成工具Muse Image，Gemini API托管智能体功能扩展，AI智能体记忆护城河，AI智能体记忆系统使用误区，Microsoft测试智能体命令行界面，AI安全评测可信度受质疑，Liquid AI的antidoom训练技术，GitHub AI智能体提示词注入漏洞，AI harness工程与递归自我改进
+
+▌AI 产业 / 策略
+Microsoft纵向整合企业AI战略，Microsoft自研模型替换OpenAI、Anthropic，中国考虑限制先进AI模型对外开放，中国模型在美企中竞争力上升，AI基建是否已经建过头，SpaceX与Cursor联合发布AI模型，DeepSeek自研AI推理芯片，"任务经济"——AI数据基建的新战场，前向部署工程师投入达97.5亿美元，7.8亿美元创始人谈AI代理业务陷阱，Uber七成代码合并来自AI智能体，AI实验室向创业公司让利算力，AI原生公司偏爱资深人才、少招初级员工，AI时代最稀缺的能力是判断力，2026科技从业者感受两极分化，AI并未减少工作量反而更密集
+
+▌科技公司 / 硬件动态
+Xbox裁员3200人、关闭五家工作室，特斯拉Cybercab搭载更强自动驾驶硬件，SpaceX发射首颗核动力商业卫星，苹果加码与博通的芯片合作，三星将抢先苹果推出折叠屏新机，PlayStation数字游戏三年不活跃将被删除，Google Search Console新增社交媒体流量追踪
+
+▌社会 / 消费者 / 科学
+欧盟新车强制安装驾驶员监控摄像头，日本隼鸟2号完成小行星近距飞掠，腾达路由器固件被曝存在隐藏后门
+
+▌开源 / 工具
+开源群聊工具Chatto发布，《EVE Online》开源游戏引擎Carbon
+
+来源：2026-07-08</description>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-07-09.mp3" length="19820736" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-07-09</guid>
+      <itunes:duration>27:31</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-07-09.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-07-08</title>
       <description>今天的节目涵盖AI大模型的最新研究与产业动态、AI对编程与设计工作流的影响、科技巨头的战略调整与裁员、机器人与消费者科学话题，以及两个开源工具项目。
 
