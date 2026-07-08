@@ -25,6 +25,26 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-07-05</title>
+      <description>▌AI / 大模型
+AI编程智能体的会话记忆机制为何容易适得其反、该如何正确沉淀上下文；把代码渲染成图片让模型OCR识别，从而削减AI接口调用成本的取巧办法。
+
+▌开发者工具 / 开源硬件
+苹果WebKit团队发布Safari专用MCP服务器，补上AI自动化测试的最后一块拼图；ProseMirror作者推出新一代富文本编辑器Wordgard；Valve开源Steam Machine电子墨水屏设计，方便玩家自制。
+
+▌农业 / 供应链
+根除数十年的螺旋蝇蛆在得州南部卷土重来，牲畜检疫成本或将上升；一段关于北美燕麦供应链如何被重新打通的往事，以及能否在今天重演。
+
+来源：2026-07-04</description>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-07-05.mp3" length="3331296" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-07-05</guid>
+      <itunes:duration>4:37</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-07-05.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-07-04</title>
       <description>▌AI / 大模型
 反对"一次性AI设计"的技能工程思路，AI硬件在六月底迎来定制芯片量产转折点，Claude Enterprise新增成本管控，Anthropic与三星洽谈定制芯片，SGLang团队的代理辅助开发实践，330亿参数的Laguna XS 2.1开源编程模型，伍德赛德用代理式AI辅助LNG工厂开工，Senior SWE-Bench新基准显示顶尖模型解题率仅24%，单层Transformer在强化学习训练上的效率突破，YC创业公司Manufact推出MCP云平台。
