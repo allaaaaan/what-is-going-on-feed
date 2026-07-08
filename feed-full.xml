@@ -25,6 +25,35 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-07-07</title>
+      <description>▌AI / 大模型
+GPT-5.6分档预览、ByteDance Seedance 2.5视频模型、Mistral开源Leanstral定理验证智能体、Google Gemini Workspace收件箱分区、AI模型蒸馏技术演变、AI超级预测员、提示词中URL的隐性引导效应、人形机器人安全标准缺位
+
+▌科技行业 / 监管动态
+WordPress市场份额下滑、苹果折叠屏iPhone与芯片供应策略、亚马逊Leo卫星互联网、Meta Threads用户破五亿、TikTok青少年成瘾诉讼和解、欧盟"聊天管控"快速立法、Meta前员工禁言条款争议、游戏行业数字所有权与DRM
+
+▌AI 工程 / Agentic 实践
+智能体自主权分级框架、软件开发中的AI验证闭环、AI原生工具的编排层之争、智能体循环搭建实践、模型工具调用可靠性下降、Claude Fable 5提示词指南、阿里巴巴限制员工使用Claude Code
+
+▌创业与增长 / SaaS
+SaaS市场AI化分层、AI驱动的陌拜销售转型、企业AI投资回报率压力、客户流失分类管理、十年客户流失应对经验、流失预测模型阈值定价、创作者商业模式转型
+
+▌AI 产业 / 算力经济
+英伟达算力换股权合作项目、Meta出售闲置AI算力、AI算力紧缺是否终结的争论、金融行业AI驱动裁员、初级程序员就业市场萎缩
+
+▌金融科技与支付
+Plaid启动IPO筹备、Apple Pay接入运通积分兑换、Square上线AI智能体商务、Meta预测市场应用Arena、世界杯带动预测市场交易量创新高
+
+来源：英文科技新闻通讯及社区讨论（2026-07-06）</description>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-07-07.mp3" length="15993792" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-07-07</guid>
+      <itunes:duration>22:12</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-07-07.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-07-05</title>
       <description>▌AI / 大模型
 AI编程智能体的会话记忆机制为何容易适得其反、该如何正确沉淀上下文；把代码渲染成图片让模型OCR识别，从而削减AI接口调用成本的取巧办法。
