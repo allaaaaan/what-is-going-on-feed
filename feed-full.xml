@@ -25,6 +25,34 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-07-08</title>
+      <description>今天的节目涵盖AI大模型的最新研究与产业动态、AI对编程与设计工作流的影响、科技巨头的战略调整与裁员、机器人与消费者科学话题，以及两个开源工具项目。
+
+▌AI / 大模型
+Anthropic的"J空间"内部推理研究，OpenAI合并Codex与ChatGPT，AI对设计工作流的影响，"每百万token价格没有意义"，顶尖工程师与AI编程工具的差距拉大，命令行编程智能体对比，Replit的智能体持续学习实践，数据成为战略瓶颈，客服场景开源模型反超闭源，腾讯发布Hy3模型，PyTorch支持AMD GPU分布式训练，PACE低成本模型评估框架。
+
+▌AI 产业 / 策略
+阿里巴巴开源模型难以变现，xAI更名SpaceXAI背后的战略考量，TeraWulf与Anthropic的190亿美元算力协议，苹果与博通芯片合作延长至2031年，科技高管对"AI消灭工作岗位"论调的软化，Nvidia新一代Kyber机架系统延期至2028年。
+
+▌科技公司 / 硬件动态
+iPhone Ultra折叠屏定价约2400美元，微软Xbox部门裁员逾3000人，中国智能眼镜初创公司估值达独角兽级别，"前线部署工程师"岗位面临被稀释风险，Netflix跨季观众流失加剧。
+
+▌社会 / 消费者 / 科学
+机器人作为通用技术与中国的制造优势，埃及沙漠农业项目与地下水资源透支，英国铁路实时定位地图引发的隐私思考，创始人亲自客服实验的失败反思，任天堂在欧盟推出可更换电池版Switch，非处方感冒药成分有效性与安全性的争议。
+
+▌开源 / 工具
+Pulpie网页清洗模型将处理速度提升20倍，Oracle列排序专利到期后公开的Orasort技术。
+
+来源：2026-07-07</description>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-07-08.mp3" length="14278464" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-07-08</guid>
+      <itunes:duration>19:49</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-07-08.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-07-07</title>
       <description>▌AI / 大模型
 GPT-5.6分档预览、ByteDance Seedance 2.5视频模型、Mistral开源Leanstral定理验证智能体、Google Gemini Workspace收件箱分区、AI模型蒸馏技术演变、AI超级预测员、提示词中URL的隐性引导效应、人形机器人安全标准缺位
