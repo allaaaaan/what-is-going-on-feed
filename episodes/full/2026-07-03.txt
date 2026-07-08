@@ -1,0 +1,19 @@
+▌AI / 大模型
+CursorBench 跑分选择性偏差、Gemini Flash 升级测试、金融任务上专属小模型反超前沿大模型、ZCode 开发环境、PorTAL 可迁移任务适配器、Claude Fable 5 与 Mythos 5 重新部署、Kimi K2.7 Code 接入 GitHub Copilot、Senior SWE-Bench 资深工程师基准、单层 Transformer 强化学习微调
+
+▌商业与金融
+GCash 十五亿美元 IPO、SoFi 进军小微企业贷款、Alphabet GV 投资太空金融科技 Nebex、Quantifind 两亿美元融资、Google 向 Klarna 赔偿十五亿美元、鸡蛋价格操纵案罚款仅为获利千分之一
+
+▌AI 产业 / 策略
+Meta 筹划对外销售 AI 算力、应用层 AI 公司的护城河之争、AI 投入与企业招聘增长的关系、OpenAI 提议向美国政府让渡百分之五股权
+
+▌科技产品与硬件
+SpaceX 展示手机原型、Xbox 光盘转数字授权、低于万元的通用移动机器人、欧洲化合物半导体工厂开业
+
+▌科学与社会
+从头合成的细胞实现生长与分裂、AI 证明能力对数学家角色的重塑
+
+▌监管与治理
+Android 开发者身份验证收紧侧载生态、美国政府直接持股二十六家战略行业公司
+
+来源：英文科技新闻通讯及社区讨论（2026-07-02）
