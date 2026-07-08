@@ -1,0 +1,18 @@
+今天的完整版涵盖AI大模型、AI产业策略、基础设施与开源、创业与商业、科学与社会五大板块。
+
+▌AI / 大模型
+Claude Sonnet 5发布并大幅降价、Nano Banana 2 Lite图像模型、Claude Fable 5与Mythos 5解除出口管制、Claude Science科学工作台、Thinking Machines交互模型、AI模型专业化趋势、Grant Sanderson谈AI数学进展、美团LongCat-2.0大模型、AI攻克数学开放问题、PyTorch发布Miles强化学习框架、Claude Code隐写标记争议、Anthropic药物研发计划、Qwen 3.6本地部署性价比之争、聊天机器人时代的黄昏、X发布MCP服务。
+
+▌AI 产业 / 策略
+AI芯片公司Etched估值50亿美元、OpenAI访客成本降低、Base44自研模型、AI基础设施泡沫后局思考、"talent"与"talent engineering"新岗位、亚马逊十亿美元前线部署工程团队、AI数字孪生工业资产。
+
+▌基础设施与开源
+Google关闭Tenor GIF API、开源语义数据引擎Fenic、Postgres 19新特性、弗吉尼亚数据中心用电紧张、欧盟数字身份钱包依赖谷歌苹果、.self顶级域名提案、Bluesky数据迁移至Eurosky。
+
+▌创业与商业
+如何降低客户流失率、创业公司的"游戏规则"选择、创始人老股转让指南、Meta与Kalshi的收购传闻。
+
+▌科学与社会
+干细胞培育人类卵细胞、Realta Fusion聚变发电突破、特斯拉Cybercab无人驾驶测试、美国劳动收入占比降至二战以来最低。
+
+来源：2026-07-01
