@@ -1,0 +1,19 @@
+▌AI / 大模型
+GPT-Live 语音模型升级、Grok 4.5 发布、字节跳动 Seedream 5.0 Pro、Meta Muse Image、SWE-Bench Pro 基准审查、Anthropic 双重用途知识“开关”、SWE-1.7、NVIDIA 智能体数据集、Google Photos AI 视频编辑、Mistral Robostral Navigate 单摄像头导航
+
+▌AI 产业 / 商业
+财务团队每周花13小时核查AI输出、支付宝 Tap 设备智能体化、法律科技公司 Norm 获12亿估值、SambaNova 获110亿估值、“数据在边缘”新兴数据飞轮、OpenAI 收购 Northslope、AI 财富搅动旧金山楼市、“掌管外循环”——AI 编程时代工程师的新职责
+
+▌开发者工具 / 开源
+Bun 用 Claude 重写成 Rust、前 GitHub CEO 推出 Entire、DuckDuckGo 屏蔽视频广告、Chatto 开源、TypeScript 7.0 发布
+
+▌金融科技
+Klarna 申请银行牌照、Fiserv 探讨出售借记卡网络、Visa 推出旅行平台、新型银行盈利转型、支付成功率的隐藏经济学
+
+▌航天 / 硬件
+蓝色起源估值1300亿美元、City Labs 商业核动力卫星、苹果加码博通芯片投入
+
+▌消费者 / 监管
+Meta 全天候录制智能眼镜、FTC 促成 John Deere 维修权和解、索尼将删除欧盟闲置账号数字游戏
+
+来源：2026-07-09

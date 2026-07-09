@@ -25,6 +25,35 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-07-10</title>
+      <description>▌AI / 大模型
+GPT-Live 语音模型升级、Grok 4.5 发布、字节跳动 Seedream 5.0 Pro、Meta Muse Image、SWE-Bench Pro 基准审查、Anthropic 双重用途知识“开关”、SWE-1.7、NVIDIA 智能体数据集、Google Photos AI 视频编辑、Mistral Robostral Navigate 单摄像头导航
+
+▌AI 产业 / 商业
+财务团队每周花13小时核查AI输出、支付宝 Tap 设备智能体化、法律科技公司 Norm 获12亿估值、SambaNova 获110亿估值、“数据在边缘”新兴数据飞轮、OpenAI 收购 Northslope、AI 财富搅动旧金山楼市、“掌管外循环”——AI 编程时代工程师的新职责
+
+▌开发者工具 / 开源
+Bun 用 Claude 重写成 Rust、前 GitHub CEO 推出 Entire、DuckDuckGo 屏蔽视频广告、Chatto 开源、TypeScript 7.0 发布
+
+▌金融科技
+Klarna 申请银行牌照、Fiserv 探讨出售借记卡网络、Visa 推出旅行平台、新型银行盈利转型、支付成功率的隐藏经济学
+
+▌航天 / 硬件
+蓝色起源估值1300亿美元、City Labs 商业核动力卫星、苹果加码博通芯片投入
+
+▌消费者 / 监管
+Meta 全天候录制智能眼镜、FTC 促成 John Deere 维修权和解、索尼将删除欧盟闲置账号数字游戏
+
+来源：2026-07-09</description>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-07-10.mp3" length="10288800" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-07-10</guid>
+      <itunes:duration>14:17</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-07-10.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-07-09</title>
       <description>▌AI / 大模型
 OpenAI发布GPT-5.6系列三档新模型，MiniMax M3稀疏注意力技术，Google开源Gemma 4模型，xAI发布高性价比的Grok 4.5，Cognition发布编程模型SWE-1.7，OpenAI推出语音助手GPT-Live，GPT-Realtime-2.1-mini上线API，Claude Cowork登陆网页与手机端，Claude Fable 5限时免费体验，Meta发布AI图像生成工具Muse Image，Gemini API托管智能体功能扩展，AI智能体记忆护城河，AI智能体记忆系统使用误区，Microsoft测试智能体命令行界面，AI安全评测可信度受质疑，Liquid AI的antidoom训练技术，GitHub AI智能体提示词注入漏洞，AI harness工程与递归自我改进
