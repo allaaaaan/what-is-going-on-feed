@@ -25,6 +25,35 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-07-14</title>
+      <description>▌AI / 大模型
+GPT-5.6 Sol长任务能力被指被低估；OpenAI暂时取消GPT-5.6 Sol使用限制；Anthropic延长Claude Fable 5访问权限并放宽Claude Code额度；稀疏化训练技术有望降低大模型训练成本；LangChain推出OpenWiki Brains智能体持续记忆系统；开源项目Mesh LLM实现点对点分布式大模型推理；Claude Code与OpenCode系统提示词开销对比。
+
+▌AI 产业 / 公司动态
+智谱联合创始人唐杰发文宣布全面回归基础大模型研究；大模型公司是否具备持久商业模式引发讨论；低利润行业被指才是AI真正最大赢家；Sierra组建六人AI加速团队系统化推动内部效率提升；"反向信息悖论"引发AI供应商锁定隐忧；Anthropic任命前美联储主席伯南克加入独立信托；会计行业AI负责人称自主智能体尚未能独立承担工作；风投机构Paradigm募集12亿美元投资AI等前沿科技；OpenAI核心权力集中至联合创始人布罗克曼，为上市铺路；Meta因隐私争议下架Muse Image功能；腾讯洽谈收购AI智能体公司Manus大额股份；关于企业是否应"拥有自己的模型权重"的讨论（主持人观点）。
+
+▌AI 工具与开发者
+从提示词工程转向"意图工程"的讨论；企业搜索公司Glean重构智能体框架，token开销降低24%；Google为开源框架Genkit发布Agents API；Anthropic上线Claude使用习惯反思仪表盘；Claude Code桌面版新增内置沙盒浏览器；Cursor据传在开发通用型AI智能体；数学家陶哲轩分享用编程智能体搭建教学工具的经历；xAI旗下Grok编程命令行工具流量分析引发隐私讨论。
+
+▌法律 / 监管 / 金融科技
+苹果起诉OpenAI及前员工窃取商业机密；华尔街四大银行收紧员工预测市场交易规定；Block就Cash App欺诈调查向46个州支付4500万美元和解；谷歌研究称量子计算最早2029年可破解比特币加密算法；生成式AI伪造文件攻破澳大利亚房贷验证系统；维权投资机构埃利奥特入股车险软件公司CCC。
+
+▌硬件 / 机器人 / 太空
+苹果M6、M7、M8芯片设计节奏正受AI驱动；杭州强脑科技推出非侵入式可穿戴脑机接口；人形机器人公司1X发布新一代高灵敏度机械手；中国完成历史上首次可控火箭海上回收。
+
+▌研究与社会影响
+新研究显示AI助力科研产出但收窄研究方向多样性；报告称55%的美国人已不再经常在社交媒体发布内容；谷歌地图路线优化实验小幅降低车速拥堵与油耗；一套更难造假的B2B创业验证指标框架。
+
+来源：2026-07-13</description>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-07-14.mp3" length="16997760" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-07-14</guid>
+      <itunes:duration>23:36</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-07-14.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-07-13</title>
       <description>今天的完整版内容较少（仅5条），因为周末没有TLDR新闻通讯，本期内容全部来自Hacker News。
 
