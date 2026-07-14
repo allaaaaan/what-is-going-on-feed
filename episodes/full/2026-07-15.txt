@@ -1,0 +1,20 @@
+又咋啦？！完整版 - 2026年7月15日
+
+本期节目一共32条科技动态，涵盖大模型与智能体、AI产业与公司动态、产品体验、安全监管，以及太空能源五个话题。
+
+▌AI / 大模型
+Prime Intellect发布Verifiers v1智能体评测框架，DeepMind推出GenCeption视频通用视觉模型，Zvi推荐GPT-5.6 Sol为当前最均衡的大模型，Sakana AI的"智能细胞积木"去中心化协同实验，Cognition用Fable 5替换Opus 4.8降低Devin成本，Hacker News热议分词器效率如何影响AI真实成本，Vercel数据显示开源模型已占AI Gateway流量的29%，创业公司Graphlit五年打造智能体上下文层的得与失，Microsoft揭秘如何在生产环境规模化运行AI智能体，Long-Horizon Terminal-Bench新基准考验智能体长任务可靠性，OpenClaw企业级编程智能体遭多个团队弃用，Clawk为编程智能体提供一次性虚拟机沙盒。
+
+▌AI 产业 / 公司动态
+Apple起诉OpenAI窃取知识产权，Meta仅上线数天便下架Muse Image图像生成工具，Cloudflare向OpenAI开放覆盖两成网络流量的实时信号，Cloudflare同时推出Precursor机器人检测产品，Tom Blomfield休假YC加入Anthropic计算团队，"逆向信息悖论"警示企业AI数据主权，低毛利行业或成AI最大赢家，AI价值应看经济结构而非单纯提速，AI时代注意力与判断力成为新瓶颈，AI接管执行后人类工作重心转向指挥与评估。
+
+▌产品与体验
+iOS 27公测版重做Siri实现连续对话与场景理解，Apple新语音识别接口SpeechAnalyzer全面超越Whisper Small，AI设计工具虽多但"品味"仍需人类拍板，AI输出不稳定倒逼产品反馈方法革新，数据团队应以"决策质量"取代传统数据质量指标。
+
+▌安全与监管
+十五年历史的Linux内核漏洞GhostLock被曝光并在Android设备上演示利用，洛杉矶警局终止Flock监控合同背后监控基础设施并未真正收缩，多州联合阻击Paramount收购Warner Bros. Discovery的反垄断诉讼。
+
+▌太空与能源
+SpaceX筹备Starship第十三次试飞并测试Starlink V3星间激光链路，Bezos投资的核聚变公司General Fusion通过SPAC登陆纳斯达克。
+
+来源：英文科技新闻通讯及社区讨论（2026-07-14）
