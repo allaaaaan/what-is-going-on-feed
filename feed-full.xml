@@ -25,6 +25,35 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-07-17</title>
+      <description>▌AI / 大模型
+Thinking Machines 发布开源大模型 Inkling、OpenAI Sol 在网页设计榜单登顶、AI 智能体连续八天自我改进研究流程、OpenAI 用 GPT-Red 自动化红队测试、"预填充"越狱技巧背后的模型原理、Vercel 公开 AI Gateway 真实流量排行榜
+
+▌监管、健康与社会
+Google Play 下周起开放第三方应用商店、OpenAI 在欧盟商标纠纷中败诉、中国出台陪伴型聊天机器人监管新规、Airbnb 对房价影响的最新数据回顾、阿尔茨海默病血液检测新进展、AI 语音克隆升级"孙子诈骗"、《纽约客》特稿:当 AI 成为家庭一员
+
+▌AI 智能体与开发工具
+xAI 发布编程智能体 Grok Build、开源本地编程智能体 Open Interpreter、React 前端专项评测基准 ReactBench、Perplexity 推出智能体安全沙箱 SPACE、模型路由在生产环境中的真实复杂度、OpenAI 推出 Codex Micro 实体键盘
+
+▌AI 产业与资本
+Anthropic 筹备年内 IPO、Kalshi 推出 AI 算力预测市场、AI 私人银行 Flex 完成融资、Visa 向银行推出 AI 财务助手、管理不善的智能体团队为何比人更烧钱、AI 时代 SDK 经济账为何被打破
+
+▌硬件与机器人
+NVIDIA 发布边缘机器人芯片 Jetson Thor、脉动阵列如何决定 AI 芯片实际算力、SpaceX 发布更轻巧的 Starlink V5、Uber 与 Waymo 就无人出租车公开博弈、现代工人因人形机器人部署计划罢工
+
+▌金融科技与消费
+Stripe 联合 Advent 收购 PayPal、英国"先买后付"正式纳入监管、Cash App 借助 Neighborhoods 计划切入本地订餐
+
+来源：2026-07-16</description>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-07-17.mp3" length="15220224" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-07-17</guid>
+      <itunes:duration>21:08</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-07-17.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-07-16</title>
       <description>又咋啦？！完整版 - 2026年7月16日
 
