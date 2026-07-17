@@ -25,6 +25,35 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-07-18</title>
+      <description>▌AI / 大模型
+Moonshot 发布 2.8 万亿参数模型 Kimi K3、Google 推迟 Gemini 3.5 Pro 发布、Meta Muse Spark 1.1 上线 OpenRouter、NVIDIA 开源 Nemotron 3 嵌入模型、德国联合体发布开源模型 Soofi S、观点：Schema 框架让模型在 ARC-AGI-3 接近满分、模型路由为何要按具体工作流窄范围调优、Bun 用 AI 十一天完成 Zig 到 Rust 重写
+
+▌产品与创业
+AI 会不会抢走产品经理的饭碗、AI 让原型太容易做反而模糊了验证边界、AI 原生产品里被浪费的用户信号、客户说"挺有意思的"其实是拒绝、如何判断自己其实在做咨询公司而非 SaaS、AI 搜索流量常被误记成"直接访问"、能亲自动手的高管薪酬涨到运动员级别、Ente 公开营收账本
+
+▌AI 智能体与开发工具
+LM Studio 发布开源模型智能体 Bionic、Replit 智能体系统让工程师产出提高三倍、GitHub 发布 Copilot SDK、开源项目 Agent-talk 让编程智能体互相协作、1Password 推出零暴露架构接入 Claude、Linus Torvalds 回应 Linux 内核 AI 编程争议、OpenAI Codex 三档模型分工 Sol / Terra / Luna
+
+▌AI 产业与资本
+xAI 陷入组织混乱仍追赶 Claude、纳德拉公开批评 Anthropic Fable 编辑管控过严、Fireworks 估值达 175 亿美元、卖数据给前沿实验室的六种生意、开源 AI 的"引流品"战略解读、旧金山湾区拿走全美过半 AI 风投、退出渠道枯竭下 VC 基金面临的流动性难题
+
+▌科技公司与基础设施
+Meta 挖角 AWS 高管布局云业务、台积电再加码 1000 亿美元美国投资、NVIDIA 发布世界模型 Cosmos 3 Edge 布局日本、Google AI 模式接入 Instacart / Canva / YouTube、Ramp 推出企业级 AI Token 支出管理、NotebookLM 更名为 Gemini Notebook、Stripe / Advent / Block 收购 PayPal 交易中 Block 角色浮出水面
+
+▌科学与生活
+双重神经旁路技术让瘫痪患者恢复触觉、FDA 批准新一代口服降胆固醇药物、反应堆开发中不起眼细节决定成败、一加宣布退出美国和欧洲新机型市场、索尼再次从用户账户删除已购电影、自动化简历筛选如何意外抹去个人特点
+
+来源：2026-07-17</description>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-07-18.mp3" length="16475328" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-07-18</guid>
+      <itunes:duration>22:52</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-07-18.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-07-17</title>
       <description>▌AI / 大模型
 Thinking Machines 发布开源大模型 Inkling、OpenAI Sol 在网页设计榜单登顶、AI 智能体连续八天自我改进研究流程、OpenAI 用 GPT-Red 自动化红队测试、"预填充"越狱技巧背后的模型原理、Vercel 公开 AI Gateway 真实流量排行榜
