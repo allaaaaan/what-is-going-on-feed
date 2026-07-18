@@ -25,6 +25,23 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-07-19</title>
+      <description>▌AI / 大模型
+Moonshot 发布 Kimi K3（2.8万亿参数，定价激进），Simon Willison 用"鹈鹕骑自行车"测试对比 Kimi K3 与主流模型，Mozilla 开源 AI 状态报告：开源模型成本与用量双双大涨
+
+▌科技行业 / 公司动态
+Apple 向跳槽 OpenAI 的前员工发出法律函，SpaceX 股价跌回 IPO 价位、空头获利 87 亿美元，AWS 计费系统单位换算错误导致约 17 亿美元账单误差
+
+来源：2026-07-17</description>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-07-19.mp3" length="2100960" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-07-19</guid>
+      <itunes:duration>2:55</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-07-19.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-07-18</title>
       <description>▌AI / 大模型
 Moonshot 发布 2.8 万亿参数模型 Kimi K3、Google 推迟 Gemini 3.5 Pro 发布、Meta Muse Spark 1.1 上线 OpenRouter、NVIDIA 开源 Nemotron 3 嵌入模型、德国联合体发布开源模型 Soofi S、观点：Schema 框架让模型在 ARC-AGI-3 接近满分、模型路由为何要按具体工作流窄范围调优、Bun 用 AI 十一天完成 Zig 到 Rust 重写
