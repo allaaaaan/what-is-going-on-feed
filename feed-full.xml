@@ -25,6 +25,29 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-07-20</title>
+      <description>▌AI / 大模型
+GPT-5.6 破解三十年悬而未决的凸优化数学难题
+
+▌科技行业 / 平台动态
+GoPro 市场份额被 Insta360、DJI 蚕食，Stack Overflow 日查询量暴跌逾99%，GitHub 为每个仓库分配持久所有者
+
+▌安全 / 监管
+LG 显示器通过 Windows Update 静默安装未经审查的软件，欧盟正式禁止品牌销毁滞销服装鞋履
+
+▌科学 / 天文
+詹姆斯·韦布望远镜在红矮星宜居带内的类地行星上探测到大气层
+
+来源：英文科技新闻通讯及社区讨论（2026-07-18）</description>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-07-20.mp3" length="4041792" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-07-20</guid>
+      <itunes:duration>5:36</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-07-20.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-07-19</title>
       <description>▌AI / 大模型
 Moonshot 发布 Kimi K3（2.8万亿参数，定价激进），Simon Willison 用"鹈鹕骑自行车"测试对比 Kimi K3 与主流模型，Mozilla 开源 AI 状态报告：开源模型成本与用量双双大涨
