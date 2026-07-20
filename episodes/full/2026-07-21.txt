@@ -1,0 +1,16 @@
+▌AI / 大模型
+Qwen3.8开放权重在即，Kimi K3需求暴涨致Moonshot暂停新订阅，阿里开源Zhenwu芯片软件栈冲击Nvidia CUDA，AI推理芯片首次成为贷款抵押物，中国AI实验室Z.ai免费开放模型仍冲刺十亿美元营收，Sakana AI发布仿生神经网络训练新方法，OpenAI下调Codex上下文窗口，Google Gemini Live扩展至桌面和网页，如何用分层模型省Token，"LLM大战是不是数据库大战重演"，苹果向OpenAI员工发商业机密保全函，Demis Hassabis前沿AI安全框架与Google军方合同争议，Meta洽谈向Anthropic出租算力（最高100亿美元）。
+
+▌创业 / 商业
+Ramp揭示企业AI采购最新趋势，"AI账单翻倍但产出没翻倍"CEO必答两问，"激活率"指标为何会骗人，创始人稀释到5%股权的现实，卖两千五百台MIDI录音设备学到的硬件教训，1600美元ESP32替换12万美元保龄球馆系统，"平替"如何成为主流零售品类，印度首枚私营轨道火箭发射成功，SpaceX洽谈为五角大楼提供AI算力，SpaceX股价跌破发行价。
+
+▌金融 / 支付
+Stripe传出530亿美元收购PayPal，全球Fintech上半年融资增长23%，Visa与Stripe加入x402 AI支付协议，40余家公司发起x402基金会，"优化型消费者"与AI自动支付的信任卡点，伦敦金融从业者AI使用率调查，Google Finance推出Android独立App，Visa推出银行AI助手，Kalshi上线临床试验预测市场。
+
+▌AI 编程工具 / Agent
+Moonshot发布Kimi Code CLI，Claude Code切换至Bun（Rust编写）运行时，"Codex Resets"隐性提价争议，Fable 5与GPT-5.6 Sol的slash-goal功能对比测试，Claude Fable 5加入Max/Team Premium套餐，Meta推出广告MCP，本地语音转录新项目Transcribe.cpp，语音识别与合成压缩进500KB以内。
+
+▌AI 产业 / 公司动态
+Moonshot AI计划六个月内香港上市，"AI原生公司"扁平化组织模式观察，中兴NaviX Ultra主打agentic智能手机，反思AI真正的瓶颈是不是智能本身。
+
+来源：英文科技新闻通讯及社区讨论（2026-07-20）
