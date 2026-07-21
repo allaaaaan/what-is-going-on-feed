@@ -25,6 +25,36 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-07-22</title>
+      <description>又咋啦？！完整版 · 2026年7月22日
+
+本期节目涵盖：稀疏专家模型架构、Kimi K3能力评测、组合泛化研究、AI长时程部署安全隐患、arXiv论文AI检测方法论争议、中国AI模型的经济与安全考量、大语言模型幻觉信任问题、硅谷"精简团队"文化转向、客户反馈解读偏差、AI信任与采用、工程管理成本重构、派拉蒙-华纳兄弟并购暂停、Cognition收购TierZero、Anthropic关停Conway、效率与体验悖论、Google的Gemini定制芯片、AMD Helios机架级AI系统、Z.ai吉瓦级数据中心、脑控机器人平台、小米机器人基础模型、NVIDIA边缘AI模型、台积电商业机密泄露案、Kimi Work自动化Agent、Agent集群与新型模型经济、Ramp智能路由降本、AI推理成本悖论、供应链定制模型、AI加速药物研发、Google AI搜索对开放网络的冲击、AI辅助数学证明、Firefox的GPU视频解码、LED光污染问题，以及一款面向K-12的AI辅导创业项目。
+
+▌AI / 大模型
+Sparse By Design、On Kimi K3：Its Capabilities and Related Discontents、Language Model Harnesses Are Compositional Generalizers、What Long-Horizon AI Failures Reveal About Safety、How we measured AI writing across arXiv, and where the measurement breaks、Who's Afraid of Chinese Models?、That post never existed. Stop listening to that thing
+
+▌创业 / 职场 / 公司动态
+Is "jobs" a four-letter word?、What Mr. Jambo and Levi's Can Teach Us About Listening to Customers、The Denominator That Matters、Engineering Management After the Cost of Code Collapsed、Judge Pauses $110B Paramount-Warner Bros. Merger、Welcoming TierZero to Cognition、Anthropic set to end Conway test as wider rollout expected、The Productivity-Experience Paradox
+
+▌AI 硬件 / 基础设施
+Google building a chip with Gemini baked into the silicon、AMD launches Helios, its first rack AI system to rival Nvidia、Z.ai built a gigawatt-scale AI data center、BrainCo Demonstrates Brain-Controlled Robot AI Platform、Xiaomi-Robotics-1、Introducing Cosmos 3 Edge、Taiwan indicts ex-TSMC manager for allegedly stealing chip secrets for China
+
+▌AI 应用 / Agent 经济
+Kimi Work、Agent Swarms and the New Model Economics、Online Learning for Cost-Efficient LLM Routing、Why your AI bill went up even though token prices are falling、More AI spend won't fix your supply chain、How AI is supercharging drug development、Google is building an AI fence around the internet it once championed
+
+▌科学 / 其他
+Human Mathematicians Are Being Outcounterexampled、Firefox Merges Support for Vulkan Video Decoding、We're Squandering LEDs' Potential to Save Our Night Skies、Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12
+
+来源：英文科技新闻通讯及社区讨论（2026-07-21）</description>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-07-22.mp3" length="10127808" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-07-22</guid>
+      <itunes:duration>14:03</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-07-22.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-07-21</title>
       <description>▌AI / 大模型
 Qwen3.8开放权重在即，Kimi K3需求暴涨致Moonshot暂停新订阅，阿里开源Zhenwu芯片软件栈冲击Nvidia CUDA，AI推理芯片首次成为贷款抵押物，中国AI实验室Z.ai免费开放模型仍冲刺十亿美元营收，Sakana AI发布仿生神经网络训练新方法，OpenAI下调Codex上下文窗口，Google Gemini Live扩展至桌面和网页，如何用分层模型省Token，"LLM大战是不是数据库大战重演"，苹果向OpenAI员工发商业机密保全函，Demis Hassabis前沿AI安全框架与Google军方合同争议，Meta洽谈向Anthropic出租算力（最高100亿美元）。
