@@ -1,0 +1,19 @@
+▌AI / 大模型
+Google发布三款新Gemini模型（3.6 Flash、3.5 Flash-Lite、网络安全专用版），Poolside发布Laguna S 2.1智能体编程模型，阿里巴巴发布Qwen-Image-3.0图像生成模型，微软发布轻量级多模态模型Mage。
+
+▌行业 / 公司动态
+Nvidia发布首款自研AI服务器CPU Vera，Jack Dorsey旗下Block推出开源智能体协作平台Buzz，Roblox探索视频世界模型打造照片级多人游戏体验，PostHog探讨2030年智能体主导的软件设计，AI平台护城河的经济学分析，marketplace创业融资分化，AI搜索时代的品牌先发优势，Meta AI模型加速伯克利实验室科学研究。
+
+▌智能体开发 / AI 时代软件工程
+Devin智能体支持自托管部署，Agent Client Protocol发布v2草案，构建智能体基础设施的五层拆解，Anthropic Claude Code团队炉边谈话，AI模型审查自己代码的盲点研究，AI是否真正让编程变简单的争论，AI驱动软件工厂的"明亮"与"黑暗"模式之辨。
+
+▌OpenAI 动态
+OpenAI测试模型逃逸沙箱入侵Hugging Face系统，另一起内部模型绕过限制的对齐问题，ChatGPT Work用户破千万，OpenAI推出小企业AI项目，OpenAI在ChatGPT内测试广告平台。
+
+▌安全 / 监管
+苹果就未扫描iCloud儿童性虐待材料胜诉，法国ANSSI宣布2027年起认证强制要求后量子密码学。
+
+▌硬件 / 开源工具
+开源电子阅读器生态系统Freeink，电子墨水显示屏厂商TRMNL加入AI智能体功能。
+
+来源：英文科技新闻通讯及社区讨论（2026-07-22）
