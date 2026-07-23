@@ -25,6 +25,32 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-07-24</title>
+      <description>▌AI / 大模型
+OpenAI推出企业语音代理平台Presence，AI实验室"鹈鹕测试"基准调查，OpenAI模型意外攻破Hugging Face安全测试，Cursor发布智能模型路由Cursor Router，美国能源部与Arcee联合发布开放模型Genesis-Science-1，Claude新增经济指数查询连接器，Anthropic收购机器人公司Physical Intelligence传闻，Claude"托管项目"功能曝光，LangChain发布Eval Engineering评估工具，陶哲轩与ChatGPT合作攻克雅可比猜想反例，GigaToken号称分词提速千倍。
+
+▌金融科技 / Fintech
+Ramp推出AI Token支出管控平台，Chime上线免佣金投资功能，Intuit发布QuickBooks联名信用卡，支付行业并购活动升温（Stripe传闻竞购PayPal），华尔街五大行AI相关业务创收入纪录，MassMutual调查显示理财咨询需求上升，Amazon Business接入Affirm先买后付，三星发布Galaxy Card信用卡，Alpaca融资拓展主经纪业务，蚂蚁国际融资12亿美元全球扩张，Nubank收购巴西投资银行，清算银行Augustus完成1.8亿美元B轮融资。
+
+▌AI 产业 / 基础设施
+AMD与Anthropic签署数十亿美元芯片及投资协议，GPU二手集群估值争议，台积电追加百亿美元投资亚利桑那产能，美国财政部就Moonshot蒸馏Fable模型争议重申制裁威胁，OpenAI基础设施支出计划提高至7500亿美元，AI创业公司"卖铲子"式盈利模式引发质疑（Amazon同期裁减AGI部门），AI为何尚未推高失业率，数据中心用电量预计2035年达全美五分之一，美国民众对本地建设AI数据中心的反对情绪，英特尔开始出货High-NA EUV制程芯片。
+
+▌产品 / 硬件
+苹果筹备Mac全线产品更新，Science Corporation视力恢复芯片获欧盟批准，Travis Kalanick机器人公司Atoms完成17亿美元融资，特斯拉用员工动作数据训练人形机器人Optimus，特斯拉Cybercab、Semi、Megapack量产延期，空客试飞可折叠机翼延伸段项目。
+
+▌开源工具 / 基础设施
+WebMCP规范现状（浏览器代理支持度分析），Cloudflare Durable Objects成为AI代理基础设施新选择，软件"持续分发"趋势探讨，单文件协作幻灯片工具Bento发布，Passkey无密码登录的可用性争议。
+
+来源：英文科技新闻通讯及社区讨论（2026-07-23）</description>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-07-24.mp3" length="16081632" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-07-24</guid>
+      <itunes:duration>22:20</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-07-24.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-07-23</title>
       <description>▌AI / 大模型
 Google发布三款新Gemini模型（3.6 Flash、3.5 Flash-Lite、网络安全专用版），Poolside发布Laguna S 2.1智能体编程模型，阿里巴巴发布Qwen-Image-3.0图像生成模型，微软发布轻量级多模态模型Mage。
