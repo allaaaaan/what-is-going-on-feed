@@ -1,0 +1,16 @@
+▌AI / 大模型
+Claude Opus 5 发布（无数据保留要求）、Flux 3 多模态模型发布、Flux 3 Mimic 视频生成模型驱动机械臂
+
+▌AI 产业 / 政策
+OpenAI「越狱黑客」说法引发质疑、NVIDIA/微软/Meta 反对限制开放权重模型
+
+▌科技与社会
+VAST：现代注意力碎片化研究
+
+▌太空 / 工业
+印度 Skyroot Aerospace 私营火箭首次入轨成功
+
+▌开源 / 工具
+DuckPGQ：DuckDB 图查询扩展
+
+来源：英文科技新闻通讯及社区讨论（2026-07-24）
