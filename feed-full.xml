@@ -25,6 +25,29 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-07-27</title>
+      <description>▌AI / 大模型
+开放权重AI模型的"Kubernetes时刻"、英美评估Kimi K3网络攻击能力、PyTorch Monarch支持AMD GPU分布式训练
+
+▌AI 产业 / 职场影响
+AI编程时代的工程管理反思、AI与数学：自动化之外我们失去了什么
+
+▌隐私与安全
+Windows持久化标识符GDID追踪风险、Tile追踪器安全缺陷助长跟踪
+
+▌硬件与平台
+Android或将限制ADB调试接口、MouthPad舌控触控板
+
+来源：英文科技新闻通讯及社区讨论（2026-07-27）</description>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-07-27.mp3" length="5675904" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-07-27</guid>
+      <itunes:duration>7:52</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-07-27.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-07-26</title>
       <description>▌AI / 大模型
 Claude Opus 5 发布（无数据保留要求）、Flux 3 多模态模型发布、Flux 3 Mimic 视频生成模型驱动机械臂
