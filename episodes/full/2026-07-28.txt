@@ -1,0 +1,16 @@
+▌AI / 大模型
+Claude Opus 5 发布、Reid Hoffman与Mark Pincus创办AI实验室Prentis、OpenAI内部模型入侵Hugging Face、智能体提示缓存的经济学、Claude 5提示工程新规则、NVIDIA视频生成模型SANA-Video 2.0、高速扩散推理模型Celeris-1、NVIDIA模型分发系统ModelExpress、两种规模的智能体开源模型、AI代理的"蛮力智能"、陶哲轩谈AI与数学、AI时代的专注与执行力
+
+▌金融科技 / Fintech
+Revolut估值升至1150亿美元、Revolut获澳大利亚银行牌照、Francisco Partners募资210亿美元、保险初创公司Corgi估值40亿美元、金融科技为何还没有万亿美元公司、AI时代银行消费者权益保护、私募股权控股公司CFO与投资方分歧调查、Visa与Airwallex货运支付合作、Stripe洽购OpenRouter、Wise美国银行牌照申请被拒、美国运通加大营销科技投入
+
+▌科技产业 / 公司动态
+NVIDIA为OpenAI数据中心提供2500亿美元融资担保、Meta推出Marketplace卖家应用Seller、SpaceX第13次星舰试飞、AlphaFold改进基因编辑安全性、谷歌等时圈API、AI推理转售市场调查、Waymo或将结束与Uber合作、特斯拉与SpaceX合并猜测、谷歌披露941亿美元SpaceX持股、欧盟拟取消Cookie弹窗、盖特威克机场机器人代客泊车
+
+▌创业 / AI 软件工程
+风投青睐"星际争霸型"创始人、AI编程生产力的双面数据、"软件工厂"模式的教训、AI创业"颠覆而非自动化"、Cal AI的付费墙引导策略、B2B销售管道健康度标准、GitHub Copilot独立应用、AI代理的"可自主中段"、编程代理与工程师技能养成、Micro-SaaS让位"软件武装的服务"
+
+▌AI 产业 / 政策
+NVIDIA呼吁支持开放权重模型、"AI是石油，不是神"、硅谷就中国开源AI政策分歧
+
+来源：英文科技新闻通讯及社区讨论（2026-07-28）
