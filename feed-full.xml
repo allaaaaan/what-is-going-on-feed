@@ -25,6 +25,29 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-07-29</title>
+      <description>▌AI / 大模型
+计算机操作型智能体的落地场景与最佳实践，Anthropic回应开放权重模型禁令争议，Nvidia开源智能体训练框架Molt，AI智能体自主授权分级框架，Moonshot开源Kimi K3大模型，Ramp Labs开源跨模型微调框架PorTAL
+
+▌互联网 / 平台与工具
+YouTube并入Peacock内容，Substack上线AI内容检测工具引发争议，Google在DMCA数据抓取诉讼中败诉，开放文件真实性验证标准Seal发布
+
+▌AI 产业 / 算力与投资
+OpenAI俄亥俄州5000亿美元数据中心与Nvidia资金担保，Nvidia投资Ilya Sutskever的Safe Superintelligence
+
+▌科技基础设施 / 硬件
+Amazon计划发射5000多颗低轨卫星，上海企业量产深紫外光刻机
+
+来源：2026-07-28</description>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-07-29.mp3" length="7818912" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-07-29</guid>
+      <itunes:duration>10:51</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-07-29.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-07-28</title>
       <description>▌AI / 大模型
 Claude Opus 5 发布、Reid Hoffman与Mark Pincus创办AI实验室Prentis、OpenAI内部模型入侵Hugging Face、智能体提示缓存的经济学、Claude 5提示工程新规则、NVIDIA视频生成模型SANA-Video 2.0、高速扩散推理模型Celeris-1、NVIDIA模型分发系统ModelExpress、两种规模的智能体开源模型、AI代理的"蛮力智能"、陶哲轩谈AI与数学、AI时代的专注与执行力

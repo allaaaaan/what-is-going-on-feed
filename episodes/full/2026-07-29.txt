@@ -1,0 +1,13 @@
+▌AI / 大模型
+计算机操作型智能体的落地场景与最佳实践，Anthropic回应开放权重模型禁令争议，Nvidia开源智能体训练框架Molt，AI智能体自主授权分级框架，Moonshot开源Kimi K3大模型，Ramp Labs开源跨模型微调框架PorTAL
+
+▌互联网 / 平台与工具
+YouTube并入Peacock内容，Substack上线AI内容检测工具引发争议，Google在DMCA数据抓取诉讼中败诉，开放文件真实性验证标准Seal发布
+
+▌AI 产业 / 算力与投资
+OpenAI俄亥俄州5000亿美元数据中心与Nvidia资金担保，Nvidia投资Ilya Sutskever的Safe Superintelligence
+
+▌科技基础设施 / 硬件
+Amazon计划发射5000多颗低轨卫星，上海企业量产深紫外光刻机
+
+来源：2026-07-28
