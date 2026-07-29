@@ -25,6 +25,35 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-07-30</title>
+      <description>▌AI / 大模型
+Introducing Build Mode，Mage，Fish Audio Launches S2.1 Pro with Support for 83 Languages，Moonshot Openly Defies the Trump Administration，Amazon Reportedly Plans to Consolidate Nova AI Models，A Backlash Against Anthropic Is Brewing in Silicon Valley，The Real AI Risk Is Inside the Labs，Pacing the Frontier，MCP 2026-07-28 Is Live，AI Overviews Have Steadily Climbed as a Share of Searches
+
+▌AI 智能体 / 工程实践
+OpenAI's Agents Hacked Second Account During Model Testing，Anatomy of a Frontier Lab Agent Intrusion: Technical Timeline of the July 2026 Incident，We Rewrote Our Agent to Run Entirely in a Durable Object，Managed Gemini Agents Gain More Controls，The Orchestrator's Tax，Aftermarket Harnesses，Why DoorDash, Instacart, and Uber Eats Integrated LLMs into Search Three Different Ways，Code Review (As We Know It) Must Die
+
+▌创业与产业政策
+Bending Spoon S-1 Breakdown，The Young Founder Experience，Why College Degrees Don't Matter Anymore，Betting on Drug Trials and Approvals Prompts Concerns About Undermining Research，The US Just Banned 'Foreign' Robots and Inverters, and It Means China
+
+▌科学观察
+New HIV vaccine shows unprecedented success in preclinical study，7.1 Earthquake in Japan，Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library，Now Is the Time to Give LLMs Access to the ACM Digital Library
+
+▌消费电子
+Apple Set to Make Big Smart Home Push with Siri AI at Center，Apple Launches Product Leasing Program Through Klarna，Tau's Humanoid Cleaning Service
+
+▌安全与隐私
+Google's Beyond Zero: Enterprise Security for the AI Era，DMARC has been public since 2012 but most company domains still don't enforce it，Deflock Casa Grande
+
+来源：2026-07-29</description>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-07-30.mp3" length="14655168" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-07-30</guid>
+      <itunes:duration>20:21</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-07-30.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-07-29</title>
       <description>▌AI / 大模型
 计算机操作型智能体的落地场景与最佳实践，Anthropic回应开放权重模型禁令争议，Nvidia开源智能体训练框架Molt，AI智能体自主授权分级框架，Moonshot开源Kimi K3大模型，Ramp Labs开源跨模型微调框架PorTAL
