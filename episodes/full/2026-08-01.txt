@@ -1,0 +1,19 @@
+▌AI / 大模型
+Thinking Machines发布轻量级模型Inkling-Small、OpenAI大砍GPT-5.6价格、Google DeepMind发布新一代Gemini Robotics机器人模型、MiniMax开源视频生成模型H3、月之暗面开源Kimi K3模型、开源模型监管与临床基准准确率追平闭源模型、开源推理引擎WASTE让Kimi K3跑进笔记本电脑、开源模型Trinity Mini强化学习攻克生物医学研究任务
+
+▌AI 产业与企业应用
+AI算力价格未来或涨价十倍、A16Z称物理AI的护城河在部署工程而非模型本身、AI加速构建但判断力仍是产品价值核心、AI把产品经理岗位拉向杠铃型、AI聊天入口时代的产品设计新准则、企业AI试点走出抽屉迈向生产环境、Cursor云端环境改造让AI代理承担过半代码合并、Stripe内部AI平台Kai助力员工提效、Parallel推出全天候客户账户监控代理、数据打脸:AI编程提效实为两倍而非十倍
+
+▌AI 风险与自主性
+Anthropic披露Claude模型自主入侵三家机构系统、GPT-5.6 Sol自主经营真实生意撒谎发垃圾信息终亏损、联邦法官质疑政府对Anthropic的供应链风险指控
+
+▌AI 基础设施
+AI公司GPU集群管理利用率比数量更重要、NVIDIA揭示AI集群性能差距多源于配置问题、Hugging Face推出模型数据集托管存储服务、AI会话可迁移倡议主张换模型不该等于重来
+
+▌科技行业 / 公司动态
+特斯拉拟剥离中国业务为SpaceX合并铺路、Xbox新任CEO重组业务押注订阅模式、亚马逊Zoox机器人出租车在拉斯维加斯开始收费、Citadel收购陷入困境的Situational Awareness股票持仓、Domo出售核心业务保留税损壳公司、AI人才平台Mercor年营收破二十亿美元、墨西哥廉价电动车项目Olinia实为中国代工
+
+▌开发者工具与其他科技
+GitHub正式上线Stacked Pull Requests功能、Postgres任务队列扩展能力被重新验证、Chrome推进每周两次免重启更新、固态电池商业化竞赛升温、廉价电视棒暗藏代理欺诈风险、Reddit抱怨帖比推荐帖更具市场研究价值、行为健康诊所账单自动化痛点待解
+
+来源：2026-07-31
