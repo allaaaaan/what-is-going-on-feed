@@ -25,6 +25,23 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-08-02</title>
+      <description>▌AI / 大模型
+AI 编程助手的会话锁定问题，DeepSeek V4-Flash 模型更新及独立测评，AI 生成小说引发出版行业身份核验危机
+
+▌其他 / other
+匈牙利核电站因多瑙河水位创新低被迫停机，开源工具 BitBang 实现浏览器直连内网设备
+
+来源：2026-08-01</description>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-08-02.mp3" length="2436768" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-08-02</guid>
+      <itunes:duration>3:23</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-08-02.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-08-01</title>
       <description>▌AI / 大模型
 Thinking Machines发布轻量级模型Inkling-Small、OpenAI大砍GPT-5.6价格、Google DeepMind发布新一代Gemini Robotics机器人模型、MiniMax开源视频生成模型H3、月之暗面开源Kimi K3模型、开源模型监管与临床基准准确率追平闭源模型、开源推理引擎WASTE让Kimi K3跑进笔记本电脑、开源模型Trinity Mini强化学习攻克生物医学研究任务
