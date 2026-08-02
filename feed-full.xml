@@ -25,6 +25,23 @@
     </image>
     <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
     <item>
+      <title>又咋啦？！完整版 · 2026-08-03</title>
+      <description>▌AI / 大模型
+一人开发的个性化软件为何比订阅制更划算、YC投资的多智能体协作平台 qm 上线、Cursor 从用量页面移除费用明细细节引发透明度争议。
+
+▌科技产业 / 其他
+Rails 后台任务库 Solid Queue 1.6.0 支持 fiber 轻量并发、宝马新车型中控屏开始投放广告。
+
+来源：2026-08-01</description>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-08-03.mp3" length="3547296" type="audio/mpeg"/>
+      <guid isPermaLink="false">full-2026-08-03</guid>
+      <itunes:duration>4:55</itunes:duration>
+      <itunes:image href="https://allaaaaan.github.io/what-is-going-on-feed/cover-full.png"/>
+      <podcast:transcript url="https://allaaaaan.github.io/what-is-going-on-feed/episodes/full/2026-08-03.transcript.txt" type="text/plain" language="zh-CN"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>又咋啦？！完整版 · 2026-08-02</title>
       <description>▌AI / 大模型
 AI 编程助手的会话锁定问题，DeepSeek V4-Flash 模型更新及独立测评，AI 生成小说引发出版行业身份核验危机
